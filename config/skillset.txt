@@ -1,0 +1,2848 @@
+{"label":"Technical", "pattern":[{"lower":"c#"}]}
+{"label":"Technical", "pattern":[{"lower":".net"}]}
+{"label":"Technical", "pattern":[{"lower":"python"}]}
+{"label":"Technical", "pattern":[{"lower":"java"}]}
+{"label":"Technical", "pattern":[{"lower":"c"}]}
+{"label":"Technical", "pattern":[{"lower":"c++"}]}
+{"label":"Technical", "pattern":[{"lower":"c"}]}
+{"label":"Technical", "pattern":[{"lower":"go"}]}
+{"label":"Technical", "pattern":[{"lower":"rust"}]}
+{"label":"Technical", "pattern":[{"lower":"ruby"}]}
+{"label":"Technical", "pattern":[{"lower":"javascript"}]}
+{"label":"Technical", "pattern":[{"lower":"typescript"}]}
+{"label":"Technical", "pattern":[{"lower":"sql"}]}
+{"label":"Technical", "pattern":[{"lower":"nosql"}]}
+{"label":"Technical", "pattern":[{"lower":"html"}]}
+{"label":"Technical", "pattern":[{"lower":"css"}]}
+{"label":"Technical", "pattern":[{"lower":"react"}]}
+{"label":"Technical", "pattern":[{"lower":"angular"}]}
+{"label":"Technical", "pattern":[{"lower":"vue.js"}]}
+{"label":"Technical", "pattern":[{"lower":"node.js"}]}
+{"label":"Technical", "pattern":[{"lower":"django"}]}
+{"label":"Technical", "pattern":[{"lower":"flask"}]}
+{"label":"Technical", "pattern":[{"lower":"spring"}]}
+{"label":"Technical", "pattern":[{"lower":"kotlin"}]}
+{"label":"Technical", "pattern":[{"lower":"swift"}]}
+{"label":"Technical", "pattern":[{"lower":"objective-c"}]}
+{"label":"Technical", "pattern":[{"lower":"scala"}]}
+{"label":"Technical", "pattern":[{"lower":"perl"}]}
+{"label":"Technical", "pattern":[{"lower":"php"}]}
+{"label":"Technical", "pattern":[{"lower":"r"}]}
+{"label":"Technical", "pattern":[{"lower":"matlab"}]}
+{"label":"Technical", "pattern":[{"lower":"julia"}]}
+{"label":"Technical", "pattern":[{"lower":"bash"}]}
+{"label":"Technical", "pattern":[{"lower":"powershell"}]}
+{"label":"Technical", "pattern":[{"lower":"linux"}]}
+{"label":"Technical", "pattern":[{"lower":"windows server"}]}
+{"label":"Technical", "pattern":[{"lower":"docker"}]}
+{"label":"Technical", "pattern":[{"lower":"kubernetes"}]}
+{"label":"Technical", "pattern":[{"lower":"terraform"}]}
+{"label":"Technical", "pattern":[{"lower":"ansible"}]}
+{"label":"Technical", "pattern":[{"lower":"puppet"}]}
+{"label":"Technical", "pattern":[{"lower":"chef"}]}
+{"label":"Technical", "pattern":[{"lower":"ci/cd"}]}
+{"label":"Technical", "pattern":[{"lower":"jenkins"}]}
+{"label":"Technical", "pattern":[{"lower":"git"}]}
+{"label":"Technical", "pattern":[{"lower":"github"}]}
+{"label":"Technical", "pattern":[{"lower":"gitlab"}]}
+{"label":"Technical", "pattern":[{"lower":"bitbucket"}]}
+{"label":"Technical", "pattern":[{"lower":"agile"}]}
+{"label":"Technical", "pattern":[{"lower":"scrum"}]}
+{"label":"Technical", "pattern":[{"lower":"kanban"}]}
+{"label":"Technical", "pattern":[{"lower":"tdd"}]}
+{"label":"Technical", "pattern":[{"lower":"bdd"}]}
+{"label":"Technical", "pattern":[{"lower":"unit testing"}]}
+{"label":"Technical", "pattern":[{"lower":"integration testing"}]}
+{"label":"Technical", "pattern":[{"lower":"selenium"}]}
+{"label":"Technical", "pattern":[{"lower":"cypress"}]}
+{"label":"Technical", "pattern":[{"lower":"playwright"}]}
+{"label":"Technical", "pattern":[{"lower":"appium"}]}
+{"label":"Technical", "pattern":[{"lower":"postman"}]}
+{"label":"Technical", "pattern":[{"lower":"rest apis"}]}
+{"label":"Technical", "pattern":[{"lower":"graphql"}]}
+{"label":"Technical", "pattern":[{"lower":"grpc"}]}
+{"label":"Technical", "pattern":[{"lower":"microservices"}]}
+{"label":"Technical", "pattern":[{"lower":"monolithic architecture"}]}
+{"label":"Technical", "pattern":[{"lower":"event-driven architecture"}]}
+{"label":"Technical", "pattern":[{"lower":"message queues"}]}
+{"label":"Technical", "pattern":[{"lower":"rabbitmq"}]}
+{"label":"Technical", "pattern":[{"lower":"kafka"}]}
+{"label":"Technical", "pattern":[{"lower":"activemq"}]}
+{"label":"Technical", "pattern":[{"lower":"elasticsearch"}]}
+{"label":"Technical", "pattern":[{"lower":"logstash"}]}
+{"label":"Technical", "pattern":[{"lower":"kibana"}]}
+{"label":"Technical", "pattern":[{"lower":"splunk"}]}
+{"label":"Technical", "pattern":[{"lower":"prometheus"}]}
+{"label":"Technical", "pattern":[{"lower":"grafana"}]}
+{"label":"Technical", "pattern":[{"lower":"new relic"}]}
+{"label":"Technical", "pattern":[{"lower":"datadog"}]}
+{"label":"Technical", "pattern":[{"lower":"cloud computing"}]}
+{"label":"Technical", "pattern":[{"lower":"aws"}]}
+{"label":"Technical", "pattern":[{"lower":"azure"}]}
+{"label":"Technical", "pattern":[{"lower":"google cloud"}]}
+{"label":"Technical", "pattern":[{"lower":"cloudformation"}]}
+{"label":"Technical", "pattern":[{"lower":"arm templates"}]}
+{"label":"Technical", "pattern":[{"lower":"bigquery"}]}
+{"label":"Technical", "pattern":[{"lower":"redshift"}]}
+{"label":"Technical", "pattern":[{"lower":"snowflake"}]}
+{"label":"Technical", "pattern":[{"lower":"databricks"}]}
+{"label":"Technical", "pattern":[{"lower":"hadoop"}]}
+{"label":"Technical", "pattern":[{"lower":"spark"}]}
+{"label":"Technical", "pattern":[{"lower":"hive"}]}
+{"label":"Technical", "pattern":[{"lower":"pig"}]}
+{"label":"Technical", "pattern":[{"lower":"airflow"}]}
+{"label":"Technical", "pattern":[{"lower":"nifi"}]}
+{"label":"Technical", "pattern":[{"lower":"etl"}]}
+{"label":"Technical", "pattern":[{"lower":"data modeling"}]}
+{"label":"Technical", "pattern":[{"lower":"data warehousing"}]}
+{"label":"Technical", "pattern":[{"lower":"olap"}]}
+{"label":"Technical", "pattern":[{"lower":"oltp"}]}
+{"label":"Technical", "pattern":[{"lower":"power bi"}]}
+{"label":"Technical", "pattern":[{"lower":"tableau"}]}
+{"label":"Technical", "pattern":[{"lower":"looker"}]}
+{"label":"Technical", "pattern":[{"lower":"qlik"}]}
+{"label":"Technical", "pattern":[{"lower":"excel advanced"}]}
+{"label":"Technical", "pattern":[{"lower":"access database"}]}
+{"label":"Technical", "pattern":[{"lower":"vba"}]}
+{"label":"Technical", "pattern":[{"lower":"erp systems"}]}
+{"label":"Technical", "pattern":[{"lower":"sap"}]}
+{"label":"Technical", "pattern":[{"lower":"oracle ebs"}]}
+{"label":"Technical", "pattern":[{"lower":"salesforce"}]}
+{"label":"Technical", "pattern":[{"lower":"servicenow"}]}
+{"label":"Technical", "pattern":[{"lower":"workday"}]}
+{"label":"Technical", "pattern":[{"lower":"iot"}]}
+{"label":"Technical", "pattern":[{"lower":"embedded systems"}]}
+{"label":"Technical", "pattern":[{"lower":"fpga"}]}
+{"label":"Technical", "pattern":[{"lower":"vhdl"}]}
+{"label":"Technical", "pattern":[{"lower":"verilog"}]}
+{"label":"Technical", "pattern":[{"lower":"pcb design"}]}
+{"label":"Technical", "pattern":[{"lower":"cad"}]}
+{"label":"Technical", "pattern":[{"lower":"autocad"}]}
+{"label":"Technical", "pattern":[{"lower":"solidworks"}]}
+{"label":"Technical", "pattern":[{"lower":"3d printing"}]}
+{"label":"Technical", "pattern":[{"lower":"computer vision"}]}
+{"label":"Technical", "pattern":[{"lower":"opencv"}]}
+{"label":"Technical", "pattern":[{"lower":"nlp"}]}
+{"label":"Technical", "pattern":[{"lower":"transformers"}]}
+{"label":"Technical", "pattern":[{"lower":"pytorch"}]}
+{"label":"Technical", "pattern":[{"lower":"tensorflow"}]}
+{"label":"Technical", "pattern":[{"lower":"keras"}]}
+{"label":"Technical", "pattern":[{"lower":"scikit-learn"}]}
+{"label":"Technical", "pattern":[{"lower":"xgboost"}]}
+{"label":"Technical", "pattern":[{"lower":"lightgbm"}]}
+{"label":"Technical", "pattern":[{"lower":"catboost"}]}
+{"label":"Technical", "pattern":[{"lower":"reinforcement learning"}]}
+{"label":"Technical", "pattern":[{"lower":"mlops"}]}
+{"label":"Technical", "pattern":[{"lower":"mlflow"}]}
+{"label":"Technical", "pattern":[{"lower":"kubeflow"}]}
+{"label":"Technical", "pattern":[{"lower":"feature engineering"}]}
+{"label":"Technical", "pattern":[{"lower":"model deployment"}]}
+{"label":"Technical", "pattern":[{"lower":"a/b testing"}]}
+{"label":"Technical", "pattern":[{"lower":"bayesian methods"}]}
+{"label":"Technical", "pattern":[{"lower":"time series"}]}
+{"label":"Technical", "pattern":[{"lower":"arima"}]}
+{"label":"Technical", "pattern":[{"lower":"lstm"}]}
+{"label":"Technical", "pattern":[{"lower":"gans"}]}
+{"label":"Technical", "pattern":[{"lower":"recommendation systems"}]}
+{"label":"Technical", "pattern":[{"lower":"optimization"}]}
+{"label":"Technical", "pattern":[{"lower":"linear algebra"}]}
+{"label":"Technical", "pattern":[{"lower":"statistics"}]}
+{"label":"Technical", "pattern":[{"lower":"probability"}]}
+{"label":"Technical", "pattern":[{"lower":"crypto"}]}
+{"label":"Technical", "pattern":[{"lower":"blockchain"}]}
+{"label":"Technical", "pattern":[{"lower":"solidity"}]}
+{"label":"Technical", "pattern":[{"lower":"web3"}]}
+{"label":"Technical", "pattern":[{"lower":"smart contracts"}]}
+{"label":"Technical", "pattern":[{"lower":"penetration testing"}]}
+{"label":"Technical", "pattern":[{"lower":"ethical hacking"}]}
+{"label":"Technical", "pattern":[{"lower":"network security"}]}
+{"label":"Technical", "pattern":[{"lower":"firewalls"}]}
+{"label":"Technical", "pattern":[{"lower":"ids/ips"}]}
+{"label":"Technical", "pattern":[{"lower":"siem"}]}
+{"label":"Technical", "pattern":[{"lower":"iam"}]}
+{"label":"Technical", "pattern":[{"lower":"zero trust"}]}
+{"label":"Technical", "pattern":[{"lower":"pki"}]}
+{"label":"Technical", "pattern":[{"lower":"ssl/tls"}]}
+{"label":"Technical", "pattern":[{"lower":"oauth"}]}
+{"label":"Technical", "pattern":[{"lower":"saml"}]}
+{"label":"Technical", "pattern":[{"lower":"sso"}]}
+{"label":"Technical", "pattern":[{"lower":"threat modeling"}]}
+{"label":"Technical", "pattern":[{"lower":"risk assessment"}]}
+{"label":"Technical", "pattern":[{"lower":"forensics"}]}
+{"label":"Technical", "pattern":[{"lower":"reverse engineering"}]}
+{"label":"Technical", "pattern":[{"lower":"mobile development"}]}
+{"label":"Technical", "pattern":[{"lower":"ios development"}]}
+{"label":"Technical", "pattern":[{"lower":"android development"}]}
+{"label":"Technical", "pattern":[{"lower":"cross-platform mobile"}]}
+{"label":"Technical", "pattern":[{"lower":"flutter"}]}
+{"label":"Technical", "pattern":[{"lower":"react native"}]}
+{"label":"Technical", "pattern":[{"lower":"unity"}]}
+{"label":"Technical", "pattern":[{"lower":"unreal engine"}]}
+{"label":"Technical", "pattern":[{"lower":"game design"}]}
+{"label":"Technical", "pattern":[{"lower":"game physics"}]}
+{"label":"Technical", "pattern":[{"lower":"shader programming"}]}
+{"label":"Technical", "pattern":[{"lower":"gpu computing"}]}
+{"label":"Technical", "pattern":[{"lower":"cuda"}]}
+{"label":"Technical", "pattern":[{"lower":"opencl"}]}
+{"label":"Technical", "pattern":[{"lower":"gis"}]}
+{"label":"Technical", "pattern":[{"lower":"arcgis"}]}
+{"label":"Technical", "pattern":[{"lower":"qgis"}]}
+{"label":"Technical", "pattern":[{"lower":"geospatial analysis"}]}
+{"label":"Technical", "pattern":[{"lower":"remote sensing"}]}
+{"label":"Technical", "pattern":[{"lower":"satellite imagery"}]}
+{"label":"Technical", "pattern":[{"lower":"drone operations"}]}
+{"label":"Technical", "pattern":[{"lower":"matlab simulink"}]}
+{"label":"Technical", "pattern":[{"lower":"simulations"}]}
+{"label":"Technical", "pattern":[{"lower":"control systems"}]}
+{"label":"Technical", "pattern":[{"lower":"mechatronics"}]}
+{"label":"Technical", "pattern":[{"lower":"plc programming"}]}
+{"label":"Technical", "pattern":[{"lower":"scada"}]}
+{"label":"Technical", "pattern":[{"lower":"robotics"}]}
+{"label":"Technical", "pattern":[{"lower":"ros"}]}
+{"label":"Technical", "pattern":[{"lower":"automl"}]}
+{"label":"Technical", "pattern":[{"lower":"data cleaning"}]}
+{"label":"Technical", "pattern":[{"lower":"data visualization"}]}
+{"label":"Technical", "pattern":[{"lower":"apis"}]}
+{"label":"Technical", "pattern":[{"lower":"web scraping"}]}
+{"label":"Technical", "pattern":[{"lower":"beautifulsoup"}]}
+{"label":"Technical", "pattern":[{"lower":"selenium webdriver"}]}
+{"label":"Technical", "pattern":[{"lower":"pandas"}]}
+{"label":"Technical", "pattern":[{"lower":"numpy"}]}
+{"label":"Technical", "pattern":[{"lower":"scipy"}]}
+{"label":"Technical", "pattern":[{"lower":"seaborn"}]}
+{"label":"Technical", "pattern":[{"lower":"matplotlib"}]}
+{"label":"Technical", "pattern":[{"lower":"plotly"}]}
+{"label":"Technical", "pattern":[{"lower":"bokeh"}]}
+{"label":"Technical", "pattern":[{"lower":"d3.js"}]}
+{"label":"Technical", "pattern":[{"lower":"webpack"}]}
+{"label":"Technical", "pattern":[{"lower":"babel"}]}
+{"label":"Technical", "pattern":[{"lower":"es6"}]}
+{"label":"Technical", "pattern":[{"lower":"authentication"}]}
+{"label":"Technical", "pattern":[{"lower":"authorization"}]}
+{"label":"Technical", "pattern":[{"lower":"oauth2"}]}
+{"label":"Technical", "pattern":[{"lower":"jwt"}]}
+{"label":"Technical", "pattern":[{"lower":"sentry"}]}
+{"label":"Technical", "pattern":[{"lower":"content management systems"}]}
+{"label":"Technical", "pattern":[{"lower":"wordpress"}]}
+{"label":"Technical", "pattern":[{"lower":"drupal"}]}
+{"label":"Technical", "pattern":[{"lower":"joomla"}]}
+{"label":"Technical", "pattern":[{"lower":"magento"}]}
+{"label":"Technical", "pattern":[{"lower":"shopify"}]}
+{"label":"Technical", "pattern":[{"lower":"computer architecture"}]}
+{"label":"Technical", "pattern":[{"lower":"operating systems"}]}
+{"label":"Technical", "pattern":[{"lower":"compilers"}]}
+{"label":"Technical", "pattern":[{"lower":"distributed systems"}]}
+{"label":"Technical", "pattern":[{"lower":"networking"}]}
+{"label":"Technical", "pattern":[{"lower":"tcp/ip"}]}
+{"label":"Technical", "pattern":[{"lower":"dns"}]}
+{"label":"Technical", "pattern":[{"lower":"http"}]}
+{"label":"Technical", "pattern":[{"lower":"grpc streaming"}]}
+{"label":"Technical", "pattern":[{"lower":"websockets"}]}
+{"label":"Technical", "pattern":[{"lower":"mqtt"}]}
+{"label":"Technical", "pattern":[{"lower":"bluetooth low energy"}]}
+{"label":"Technical", "pattern":[{"lower":"zigbee"}]}
+{"label":"Technical", "pattern":[{"lower":"lorawan"}]}
+{"label":"Technical", "pattern":[{"lower":"5g"}]}
+{"label":"Technical", "pattern":[{"lower":"edge computing"}]}
+{"label":"Business", "pattern":[{"lower":"strategic planning"}]}
+{"label":"Business", "pattern":[{"lower":"financial modeling"}]}
+{"label":"Business", "pattern":[{"lower":"budgeting"}]}
+{"label":"Business", "pattern":[{"lower":"forecasting"}]}
+{"label":"Business", "pattern":[{"lower":"accounting"}]}
+{"label":"Business", "pattern":[{"lower":"bookkeeping"}]}
+{"label":"Business", "pattern":[{"lower":"gaap"}]}
+{"label":"Business", "pattern":[{"lower":"ifrs"}]}
+{"label":"Business", "pattern":[{"lower":"cash flow management"}]}
+{"label":"Business", "pattern":[{"lower":"cost accounting"}]}
+{"label":"Business", "pattern":[{"lower":"auditing"}]}
+{"label":"Business", "pattern":[{"lower":"taxation"}]}
+{"label":"Business", "pattern":[{"lower":"mergers and acquisitions"}]}
+{"label":"Business", "pattern":[{"lower":"valuation"}]}
+{"label":"Business", "pattern":[{"lower":"risk management"}]}
+{"label":"Business", "pattern":[{"lower":"compliance"}]}
+{"label":"Business", "pattern":[{"lower":"corporate governance"}]}
+{"label":"Business", "pattern":[{"lower":"business analysis"}]}
+{"label":"Business", "pattern":[{"lower":"requirements gathering"}]}
+{"label":"Business", "pattern":[{"lower":"process mapping"}]}
+{"label":"Business", "pattern":[{"lower":"process improvement"}]}
+{"label":"Business", "pattern":[{"lower":"lean"}]}
+{"label":"Business", "pattern":[{"lower":"six sigma"}]}
+{"label":"Business", "pattern":[{"lower":"kaizen"}]}
+{"label":"Business", "pattern":[{"lower":"change management"}]}
+{"label":"Business", "pattern":[{"lower":"project management"}]}
+{"label":"Business", "pattern":[{"lower":"pmo"}]}
+{"label":"Business", "pattern":[{"lower":"portfolio management"}]}
+{"label":"Business", "pattern":[{"lower":"program management"}]}
+{"label":"Business", "pattern":[{"lower":"product management"}]}
+{"label":"Business", "pattern":[{"lower":"roadmapping"}]}
+{"label":"Business", "pattern":[{"lower":"market research"}]}
+{"label":"Business", "pattern":[{"lower":"competitive analysis"}]}
+{"label":"Business", "pattern":[{"lower":"pricing strategy"}]}
+{"label":"Business", "pattern":[{"lower":"go-to-market"}]}
+{"label":"Business", "pattern":[{"lower":"sales strategy"}]}
+{"label":"Business", "pattern":[{"lower":"crm"}]}
+{"label":"Business", "pattern":[{"lower":"lead generation"}]}
+{"label":"Business", "pattern":[{"lower":"sales operations"}]}
+{"label":"Business", "pattern":[{"lower":"negotiation"}]}
+{"label":"Business", "pattern":[{"lower":"contract management"}]}
+{"label":"Business", "pattern":[{"lower":"procurement"}]}
+{"label":"Business", "pattern":[{"lower":"supply chain"}]}
+{"label":"Business", "pattern":[{"lower":"logistics"}]}
+{"label":"Business", "pattern":[{"lower":"inventory management"}]}
+{"label":"Business", "pattern":[{"lower":"vendor management"}]}
+{"label":"Business", "pattern":[{"lower":"partnerships"}]}
+{"label":"Business", "pattern":[{"lower":"business development"}]}
+{"label":"Business", "pattern":[{"lower":"client management"}]}
+{"label":"Business", "pattern":[{"lower":"customer success"}]}
+{"label":"Business", "pattern":[{"lower":"account management"}]}
+{"label":"Business", "pattern":[{"lower":"marketing strategy"}]}
+{"label":"Business", "pattern":[{"lower":"brand management"}]}
+{"label":"Business", "pattern":[{"lower":"content marketing"}]}
+{"label":"Business", "pattern":[{"lower":"seo"}]}
+{"label":"Business", "pattern":[{"lower":"sem"}]}
+{"label":"Business", "pattern":[{"lower":"ppc"}]}
+{"label":"Business", "pattern":[{"lower":"email marketing"}]}
+{"label":"Business", "pattern":[{"lower":"social media marketing"}]}
+{"label":"Business", "pattern":[{"lower":"influencer marketing"}]}
+{"label":"Business", "pattern":[{"lower":"affiliate marketing"}]}
+{"label":"Business", "pattern":[{"lower":"marketing automation"}]}
+{"label":"Business", "pattern":[{"lower":"hubspot"}]}
+{"label":"Business", "pattern":[{"lower":"marketo"}]}
+{"label":"Business", "pattern":[{"lower":"eloqua"}]}
+{"label":"Business", "pattern":[{"lower":"salesforce marketing cloud"}]}
+{"label":"Business", "pattern":[{"lower":"public relations"}]}
+{"label":"Business", "pattern":[{"lower":"event management"}]}
+{"label":"Business", "pattern":[{"lower":"product marketing"}]}
+{"label":"Business", "pattern":[{"lower":"copywriting"}]}
+{"label":"Business", "pattern":[{"lower":"creative direction"}]}
+{"label":"Business", "pattern":[{"lower":"ux research"}]}
+{"label":"Business", "pattern":[{"lower":"user interviews"}]}
+{"label":"Business", "pattern":[{"lower":"usability testing"}]}
+{"label":"Business", "pattern":[{"lower":"a/b testing marketing"}]}
+{"label":"Business", "pattern":[{"lower":"growth hacking"}]}
+{"label":"Business", "pattern":[{"lower":"unit economics"}]}
+{"label":"Business", "pattern":[{"lower":"cohort analysis"}]}
+{"label":"Business", "pattern":[{"lower":"ltv/cac"}]}
+{"label":"Business", "pattern":[{"lower":"churn analysis"}]}
+{"label":"Business", "pattern":[{"lower":"customer segmentation"}]}
+{"label":"Business", "pattern":[{"lower":"nps programs"}]}
+{"label":"Business", "pattern":[{"lower":"customer journey mapping"}]}
+{"label":"Business", "pattern":[{"lower":"design thinking"}]}
+{"label":"Business", "pattern":[{"lower":"okrs"}]}
+{"label":"Business", "pattern":[{"lower":"kpis"}]}
+{"label":"Business", "pattern":[{"lower":"dashboarding"}]}
+{"label":"Business", "pattern":[{"lower":"business intelligence"}]}
+{"label":"Business", "pattern":[{"lower":"data-driven decision making"}]}
+{"label":"Business", "pattern":[{"lower":"storytelling"}]}
+{"label":"Business", "pattern":[{"lower":"presentation skills"}]}
+{"label":"Business", "pattern":[{"lower":"stakeholder management"}]}
+{"label":"Business", "pattern":[{"lower":"rfps"}]}
+{"label":"Business", "pattern":[{"lower":"sows"}]}
+{"label":"Business", "pattern":[{"lower":"legal basics"}]}
+{"label":"Business", "pattern":[{"lower":"privacy compliance"}]}
+{"label":"Business", "pattern":[{"lower":"gdpr"}]}
+{"label":"Business", "pattern":[{"lower":"ccpa"}]}
+{"label":"Business", "pattern":[{"lower":"quality assurance business"}]}
+{"label":"Business", "pattern":[{"lower":"operational excellence"}]}
+{"label":"Business", "pattern":[{"lower":"workforce planning"}]}
+{"label":"Business", "pattern":[{"lower":"talent acquisition"}]}
+{"label":"Business", "pattern":[{"lower":"performance management"}]}
+{"label":"Business", "pattern":[{"lower":"compensation and benefits"}]}
+{"label":"Business", "pattern":[{"lower":"learning and development"}]}
+{"label":"Business", "pattern":[{"lower":"hris"}]}
+{"label":"Business", "pattern":[{"lower":"organizational development"}]}
+{"label":"Business", "pattern":[{"lower":"culture building"}]}
+{"label":"Business", "pattern":[{"lower":"dei programs"}]}
+{"label":"Business", "pattern":[{"lower":"employer branding"}]}
+{"label":"Business", "pattern":[{"lower":"e-commerce strategy"}]}
+{"label":"Business", "pattern":[{"lower":"merchandising"}]}
+{"label":"Business", "pattern":[{"lower":"retail operations"}]}
+{"label":"Business", "pattern":[{"lower":"category management"}]}
+{"label":"Business", "pattern":[{"lower":"store management"}]}
+{"label":"Business", "pattern":[{"lower":"franchise management"}]}
+{"label":"Business", "pattern":[{"lower":"omnichannel strategy"}]}
+{"label":"Design", "pattern":[{"lower":"graphic design"}]}
+{"label":"Design", "pattern":[{"lower":"ui design"}]}
+{"label":"Design", "pattern":[{"lower":"ux design"}]}
+{"label":"Design", "pattern":[{"lower":"product design"}]}
+{"label":"Design", "pattern":[{"lower":"interaction design"}]}
+{"label":"Design", "pattern":[{"lower":"visual design"}]}
+{"label":"Design", "pattern":[{"lower":"information architecture"}]}
+{"label":"Design", "pattern":[{"lower":"wireframing"}]}
+{"label":"Design", "pattern":[{"lower":"prototyping"}]}
+{"label":"Design", "pattern":[{"lower":"figma"}]}
+{"label":"Design", "pattern":[{"lower":"sketch"}]}
+{"label":"Design", "pattern":[{"lower":"adobe xd"}]}
+{"label":"Design", "pattern":[{"lower":"invision"}]}
+{"label":"Design", "pattern":[{"lower":"photoshop"}]}
+{"label":"Design", "pattern":[{"lower":"illustrator"}]}
+{"label":"Design", "pattern":[{"lower":"indesign"}]}
+{"label":"Design", "pattern":[{"lower":"after effects"}]}
+{"label":"Design", "pattern":[{"lower":"premiere pro"}]}
+{"label":"Design", "pattern":[{"lower":"motion graphics"}]}
+{"label":"Design", "pattern":[{"lower":"3d modeling"}]}
+{"label":"Design", "pattern":[{"lower":"blender"}]}
+{"label":"Design", "pattern":[{"lower":"cinema 4d"}]}
+{"label":"Design", "pattern":[{"lower":"maya"}]}
+{"label":"Design", "pattern":[{"lower":"3ds max"}]}
+{"label":"Design", "pattern":[{"lower":"zbrush"}]}
+{"label":"Design", "pattern":[{"lower":"character design"}]}
+{"label":"Design", "pattern":[{"lower":"storyboarding"}]}
+{"label":"Design", "pattern":[{"lower":"typography"}]}
+{"label":"Design", "pattern":[{"lower":"color theory"}]}
+{"label":"Design", "pattern":[{"lower":"brand identity"}]}
+{"label":"Design", "pattern":[{"lower":"design systems"}]}
+{"label":"Design", "pattern":[{"lower":"accessibility"}]}
+{"label":"Design", "pattern":[{"lower":"responsive design"}]}
+{"label":"Design", "pattern":[{"lower":"mobile-first design"}]}
+{"label":"Design", "pattern":[{"lower":"user flows"}]}
+{"label":"Design", "pattern":[{"lower":"journey mapping"}]}
+{"label":"Design", "pattern":[{"lower":"usability heuristics"}]}
+{"label":"Design", "pattern":[{"lower":"ar/vr design"}]}
+{"label":"Design", "pattern":[{"lower":"game ui"}]}
+{"label":"Design", "pattern":[{"lower":"iconography"}]}
+{"label":"Design", "pattern":[{"lower":"infographics"}]}
+{"label":"Design", "pattern":[{"lower":"print design"}]}
+{"label":"Design", "pattern":[{"lower":"packaging design"}]}
+{"label":"Design", "pattern":[{"lower":"web design"}]}
+{"label":"Design", "pattern":[{"lower":"email design"}]}
+{"label":"Design", "pattern":[{"lower":"creative coding"}]}
+{"label":"Operations", "pattern":[{"lower":"operations management"}]}
+{"label":"Operations", "pattern":[{"lower":"process optimization"}]}
+{"label":"Operations", "pattern":[{"lower":"lean manufacturing"}]}
+{"label":"Operations", "pattern":[{"lower":"six sigma operations"}]}
+{"label":"Operations", "pattern":[{"lower":"quality control"}]}
+{"label":"Operations", "pattern":[{"lower":"iso standards"}]}
+{"label":"Operations", "pattern":[{"lower":"ohsas"}]}
+{"label":"Operations", "pattern":[{"lower":"root cause analysis"}]}
+{"label":"Operations", "pattern":[{"lower":"5s"}]}
+{"label":"Operations", "pattern":[{"lower":"kaizen ops"}]}
+{"label":"Operations", "pattern":[{"lower":"total productive maintenance"}]}
+{"label":"Operations", "pattern":[{"lower":"production planning"}]}
+{"label":"Operations", "pattern":[{"lower":"capacity planning"}]}
+{"label":"Operations", "pattern":[{"lower":"demand planning"}]}
+{"label":"Operations", "pattern":[{"lower":"s&op"}]}
+{"label":"Operations", "pattern":[{"lower":"warehouse management"}]}
+{"label":"Operations", "pattern":[{"lower":"fleet management"}]}
+{"label":"Operations", "pattern":[{"lower":"route optimization"}]}
+{"label":"Operations", "pattern":[{"lower":"maintenance planning"}]}
+{"label":"Operations", "pattern":[{"lower":"facility management"}]}
+{"label":"Operations", "pattern":[{"lower":"safety management"}]}
+{"label":"Operations", "pattern":[{"lower":"incident management"}]}
+{"label":"Operations", "pattern":[{"lower":"business continuity"}]}
+{"label":"Operations", "pattern":[{"lower":"disaster recovery"}]}
+{"label":"Operations", "pattern":[{"lower":"itil"}]}
+{"label":"Operations", "pattern":[{"lower":"service delivery"}]}
+{"label":"Operations", "pattern":[{"lower":"service desk"}]}
+{"label":"Operations", "pattern":[{"lower":"sla management"}]}
+{"label":"Soft Skills", "pattern":[{"lower":"communication"}]}
+{"label":"Soft Skills", "pattern":[{"lower":"public speaking"}]}
+{"label":"Soft Skills", "pattern":[{"lower":"active listening"}]}
+{"label":"Soft Skills", "pattern":[{"lower":"negotiation soft"}]}
+{"label":"Soft Skills", "pattern":[{"lower":"conflict resolution"}]}
+{"label":"Soft Skills", "pattern":[{"lower":"teamwork"}]}
+{"label":"Soft Skills", "pattern":[{"lower":"collaboration"}]}
+{"label":"Soft Skills", "pattern":[{"lower":"leadership"}]}
+{"label":"Soft Skills", "pattern":[{"lower":"coaching"}]}
+{"label":"Soft Skills", "pattern":[{"lower":"mentoring"}]}
+{"label":"Soft Skills", "pattern":[{"lower":"empathy"}]}
+{"label":"Soft Skills", "pattern":[{"lower":"emotional intelligence"}]}
+{"label":"Soft Skills", "pattern":[{"lower":"problem solving"}]}
+{"label":"Soft Skills", "pattern":[{"lower":"critical thinking"}]}
+{"label":"Soft Skills", "pattern":[{"lower":"creativity"}]}
+{"label":"Soft Skills", "pattern":[{"lower":"adaptability"}]}
+{"label":"Soft Skills", "pattern":[{"lower":"time management"}]}
+{"label":"Soft Skills", "pattern":[{"lower":"prioritization"}]}
+{"label":"Soft Skills", "pattern":[{"lower":"decision making"}]}
+{"label":"Soft Skills", "pattern":[{"lower":"attention to detail"}]}
+{"label":"Soft Skills", "pattern":[{"lower":"work ethic"}]}
+{"label":"Soft Skills", "pattern":[{"lower":"accountability"}]}
+{"label":"Soft Skills", "pattern":[{"lower":"stakeholder communication"}]}
+{"label":"Soft Skills", "pattern":[{"lower":"presentation"}]}
+{"label":"Soft Skills", "pattern":[{"lower":"writing"}]}
+{"label":"Soft Skills", "pattern":[{"lower":"storytelling soft"}]}
+{"label":"Soft Skills", "pattern":[{"lower":"facilitation"}]}
+{"label":"Soft Skills", "pattern":[{"lower":"networking"}]}
+{"label":"Soft Skills", "pattern":[{"lower":"persuasion"}]}
+{"label":"Soft Skills", "pattern":[{"lower":"resilience"}]}
+{"label":"Soft Skills", "pattern":[{"lower":"stress management"}]}
+{"label":"Soft Skills", "pattern":[{"lower":"cultural awareness"}]}
+{"label":"Soft Skills", "pattern":[{"lower":"growth mindset"}]}
+{"label":"Soft Skills", "pattern":[{"lower":"learning agility"}]}
+{"label":"Healthcare", "pattern":[{"lower":"patient care"}]}
+{"label":"Healthcare", "pattern":[{"lower":"clinical research"}]}
+{"label":"Healthcare", "pattern":[{"lower":"medical terminology"}]}
+{"label":"Healthcare", "pattern":[{"lower":"phlebotomy"}]}
+{"label":"Healthcare", "pattern":[{"lower":"ekg"}]}
+{"label":"Healthcare", "pattern":[{"lower":"bls"}]}
+{"label":"Healthcare", "pattern":[{"lower":"acls"}]}
+{"label":"Healthcare", "pattern":[{"lower":"pals"}]}
+{"label":"Healthcare", "pattern":[{"lower":"medication administration"}]}
+{"label":"Healthcare", "pattern":[{"lower":"wound care"}]}
+{"label":"Healthcare", "pattern":[{"lower":"infection control"}]}
+{"label":"Healthcare", "pattern":[{"lower":"hipaa compliance"}]}
+{"label":"Healthcare", "pattern":[{"lower":"electronic health records"}]}
+{"label":"Healthcare", "pattern":[{"lower":"epic"}]}
+{"label":"Healthcare", "pattern":[{"lower":"cerner"}]}
+{"label":"Healthcare", "pattern":[{"lower":"meditech"}]}
+{"label":"Healthcare", "pattern":[{"lower":"icd-10 coding"}]}
+{"label":"Healthcare", "pattern":[{"lower":"cpt coding"}]}
+{"label":"Healthcare", "pattern":[{"lower":"hl7"}]}
+{"label":"Healthcare", "pattern":[{"lower":"dicom"}]}
+{"label":"Healthcare", "pattern":[{"lower":"telemedicine"}]}
+{"label":"Healthcare", "pattern":[{"lower":"care coordination"}]}
+{"label":"Healthcare", "pattern":[{"lower":"case management"}]}
+{"label":"Healthcare", "pattern":[{"lower":"nursing"}]}
+{"label":"Healthcare", "pattern":[{"lower":"physiotherapy"}]}
+{"label":"Healthcare", "pattern":[{"lower":"occupational therapy"}]}
+{"label":"Healthcare", "pattern":[{"lower":"radiology"}]}
+{"label":"Healthcare", "pattern":[{"lower":"medical imaging"}]}
+{"label":"Healthcare", "pattern":[{"lower":"oncology"}]}
+{"label":"Healthcare", "pattern":[{"lower":"cardiology"}]}
+{"label":"Healthcare", "pattern":[{"lower":"pediatrics"}]}
+{"label":"Healthcare", "pattern":[{"lower":"geriatrics"}]}
+{"label":"Healthcare", "pattern":[{"lower":"pharmacy"}]}
+{"label":"Healthcare", "pattern":[{"lower":"pharmacology"}]}
+{"label":"Healthcare", "pattern":[{"lower":"medical device knowledge"}]}
+{"label":"Education", "pattern":[{"lower":"curriculum development"}]}
+{"label":"Education", "pattern":[{"lower":"instructional design"}]}
+{"label":"Education", "pattern":[{"lower":"lesson planning"}]}
+{"label":"Education", "pattern":[{"lower":"classroom management"}]}
+{"label":"Education", "pattern":[{"lower":"assessment design"}]}
+{"label":"Education", "pattern":[{"lower":"edtech"}]}
+{"label":"Education", "pattern":[{"lower":"lms"}]}
+{"label":"Education", "pattern":[{"lower":"moodle"}]}
+{"label":"Education", "pattern":[{"lower":"blackboard"}]}
+{"label":"Education", "pattern":[{"lower":"canvas"}]}
+{"label":"Education", "pattern":[{"lower":"educational psychology"}]}
+{"label":"Education", "pattern":[{"lower":"special education"}]}
+{"label":"Education", "pattern":[{"lower":"tesol"}]}
+{"label":"Education", "pattern":[{"lower":"esl"}]}
+{"label":"Education", "pattern":[{"lower":"early childhood education"}]}
+{"label":"Education", "pattern":[{"lower":"stem education"}]}
+{"label":"Education", "pattern":[{"lower":"hybrid learning"}]}
+{"label":"Education", "pattern":[{"lower":"flipped classroom"}]}
+{"label":"Education", "pattern":[{"lower":"gamification in education"}]}
+{"label":"Education", "pattern":[{"lower":"student counseling"}]}
+{"label":"Legal", "pattern":[{"lower":"legal research"}]}
+{"label":"Legal", "pattern":[{"lower":"contract law"}]}
+{"label":"Legal", "pattern":[{"lower":"corporate law"}]}
+{"label":"Legal", "pattern":[{"lower":"intellectual property"}]}
+{"label":"Legal", "pattern":[{"lower":"trademark law"}]}
+{"label":"Legal", "pattern":[{"lower":"patent law"}]}
+{"label":"Legal", "pattern":[{"lower":"litigation"}]}
+{"label":"Legal", "pattern":[{"lower":"mediation"}]}
+{"label":"Legal", "pattern":[{"lower":"arbitration"}]}
+{"label":"Legal", "pattern":[{"lower":"compliance legal"}]}
+{"label":"Legal", "pattern":[{"lower":"ediscovery"}]}
+{"label":"Legal", "pattern":[{"lower":"legal writing"}]}
+{"label":"Legal", "pattern":[{"lower":"due diligence"}]}
+{"label":"Legal", "pattern":[{"lower":"regulatory affairs"}]}
+{"label":"Finance", "pattern":[{"lower":"financial reporting"}]}
+{"label":"Finance", "pattern":[{"lower":"treasury"}]}
+{"label":"Finance", "pattern":[{"lower":"hedging"}]}
+{"label":"Finance", "pattern":[{"lower":"derivatives"}]}
+{"label":"Finance", "pattern":[{"lower":"trading"}]}
+{"label":"Finance", "pattern":[{"lower":"portfolio management"}]}
+{"label":"Finance", "pattern":[{"lower":"asset allocation"}]}
+{"label":"Finance", "pattern":[{"lower":"wealth management"}]}
+{"label":"Finance", "pattern":[{"lower":"private equity"}]}
+{"label":"Finance", "pattern":[{"lower":"venture capital"}]}
+{"label":"Finance", "pattern":[{"lower":"investment banking"}]}
+{"label":"Finance", "pattern":[{"lower":"equity research"}]}
+{"label":"Finance", "pattern":[{"lower":"fixed income"}]}
+{"label":"Finance", "pattern":[{"lower":"commodities"}]}
+{"label":"Finance", "pattern":[{"lower":"real estate finance"}]}
+{"label":"Finance", "pattern":[{"lower":"mortgage underwriting"}]}
+{"label":"Finance", "pattern":[{"lower":"credit analysis"}]}
+{"label":"Finance", "pattern":[{"lower":"fraud detection"}]}
+{"label":"Finance", "pattern":[{"lower":"aml"}]}
+{"label":"Finance", "pattern":[{"lower":"kyc"}]}
+{"label":"Manufacturing", "pattern":[{"lower":"cnc programming"}]}
+{"label":"Manufacturing", "pattern":[{"lower":"cnc operation"}]}
+{"label":"Manufacturing", "pattern":[{"lower":"cad/cam"}]}
+{"label":"Manufacturing", "pattern":[{"lower":"welding"}]}
+{"label":"Manufacturing", "pattern":[{"lower":"machining"}]}
+{"label":"Manufacturing", "pattern":[{"lower":"metrology"}]}
+{"label":"Manufacturing", "pattern":[{"lower":"gd&t"}]}
+{"label":"Manufacturing", "pattern":[{"lower":"injection molding"}]}
+{"label":"Manufacturing", "pattern":[{"lower":"3d printing mfg"}]}
+{"label":"Manufacturing", "pattern":[{"lower":"assembly"}]}
+{"label":"Manufacturing", "pattern":[{"lower":"soldering"}]}
+{"label":"Manufacturing", "pattern":[{"lower":"lean mfg"}]}
+{"label":"Manufacturing", "pattern":[{"lower":"smed"}]}
+{"label":"Manufacturing", "pattern":[{"lower":"kaizen mfg"}]}
+{"label":"Manufacturing", "pattern":[{"lower":"poka-yoke"}]}
+{"label":"Manufacturing", "pattern":[{"lower":"fmea"}]}
+{"label":"Manufacturing", "pattern":[{"lower":"apqp"}]}
+{"label":"Manufacturing", "pattern":[{"lower":"ppap"}]}
+{"label":"Manufacturing", "pattern":[{"lower":"spc"}]}
+{"label":"Energy", "pattern":[{"lower":"renewable energy"}]}
+{"label":"Energy", "pattern":[{"lower":"solar pv"}]}
+{"label":"Energy", "pattern":[{"lower":"wind turbines"}]}
+{"label":"Energy", "pattern":[{"lower":"battery storage"}]}
+{"label":"Energy", "pattern":[{"lower":"smart grid"}]}
+{"label":"Energy", "pattern":[{"lower":"energy auditing"}]}
+{"label":"Energy", "pattern":[{"lower":"hvac"}]}
+{"label":"Energy", "pattern":[{"lower":"building management systems"}]}
+{"label":"Energy", "pattern":[{"lower":"electrical design"}]}
+{"label":"Energy", "pattern":[{"lower":"power systems"}]}
+{"label":"Energy", "pattern":[{"lower":"substation design"}]}
+{"label":"Energy", "pattern":[{"lower":"transmission lines"}]}
+{"label":"Energy", "pattern":[{"lower":"scada energy"}]}
+{"label":"Energy", "pattern":[{"lower":"hse"}]}
+{"label":"Construction", "pattern":[{"lower":"project scheduling"}]}
+{"label":"Construction", "pattern":[{"lower":"primavera p6"}]}
+{"label":"Construction", "pattern":[{"lower":"ms project"}]}
+{"label":"Construction", "pattern":[{"lower":"bim"}]}
+{"label":"Construction", "pattern":[{"lower":"revit"}]}
+{"label":"Construction", "pattern":[{"lower":"autocad constr"}]}
+{"label":"Construction", "pattern":[{"lower":"cost estimation"}]}
+{"label":"Construction", "pattern":[{"lower":"quantity surveying"}]}
+{"label":"Construction", "pattern":[{"lower":"site management"}]}
+{"label":"Construction", "pattern":[{"lower":"contract administration"}]}
+{"label":"Construction", "pattern":[{"lower":"rfi/rfp"}]}
+{"label":"Construction", "pattern":[{"lower":"hse construction"}]}
+{"label":"Construction", "pattern":[{"lower":"leed"}]}
+{"label":"Construction", "pattern":[{"lower":"green building"}]}
+{"label":"Hospitality", "pattern":[{"lower":"front desk operations"}]}
+{"label":"Hospitality", "pattern":[{"lower":"housekeeping"}]}
+{"label":"Hospitality", "pattern":[{"lower":"food safety"}]}
+{"label":"Hospitality", "pattern":[{"lower":"barista"}]}
+{"label":"Hospitality", "pattern":[{"lower":"bartending"}]}
+{"label":"Hospitality", "pattern":[{"lower":"sommelier"}]}
+{"label":"Hospitality", "pattern":[{"lower":"event planning"}]}
+{"label":"Hospitality", "pattern":[{"lower":"banquet management"}]}
+{"label":"Hospitality", "pattern":[{"lower":"culinary arts"}]}
+{"label":"Hospitality", "pattern":[{"lower":"menu engineering"}]}
+{"label":"Hospitality", "pattern":[{"lower":"revenue management"}]}
+{"label":"Hospitality", "pattern":[{"lower":"reservation systems"}]}
+{"label":"Hospitality", "pattern":[{"lower":"pos systems"}]}
+{"label":"Hospitality", "pattern":[{"lower":"customer service"}]}
+{"label":"Sales", "pattern":[{"lower":"prospecting"}]}
+{"label":"Sales", "pattern":[{"lower":"cold calling"}]}
+{"label":"Sales", "pattern":[{"lower":"demoing"}]}
+{"label":"Sales", "pattern":[{"lower":"objection handling"}]}
+{"label":"Sales", "pattern":[{"lower":"territory management"}]}
+{"label":"Sales", "pattern":[{"lower":"sales enablement"}]}
+{"label":"Sales", "pattern":[{"lower":"channel sales"}]}
+{"label":"Sales", "pattern":[{"lower":"field sales"}]}
+{"label":"Sales", "pattern":[{"lower":"inside sales"}]}
+{"label":"Sales", "pattern":[{"lower":"enterprise sales"}]}
+{"label":"Sales", "pattern":[{"lower":"retail sales"}]}
+{"label":"Sales", "pattern":[{"lower":"b2b sales"}]}
+{"label":"Sales", "pattern":[{"lower":"b2c sales"}]}
+{"label":"Sales", "pattern":[{"lower":"meddic"}]}
+{"label":"Sales", "pattern":[{"lower":"spin selling"}]}
+{"label":"Sales", "pattern":[{"lower":"challenger sale"}]}
+{"label":"Sales", "pattern":[{"lower":"sandler"}]}
+{"label":"Sales", "pattern":[{"lower":"saas sales"}]}
+{"label":"Science", "pattern":[{"lower":"laboratory techniques"}]}
+{"label":"Science", "pattern":[{"lower":"pcr"}]}
+{"label":"Science", "pattern":[{"lower":"qpcr"}]}
+{"label":"Science", "pattern":[{"lower":"western blot"}]}
+{"label":"Science", "pattern":[{"lower":"elisa"}]}
+{"label":"Science", "pattern":[{"lower":"flow cytometry"}]}
+{"label":"Science", "pattern":[{"lower":"cell culture"}]}
+{"label":"Science", "pattern":[{"lower":"microscopy"}]}
+{"label":"Science", "pattern":[{"lower":"mass spectrometry"}]}
+{"label":"Science", "pattern":[{"lower":"chromatography"}]}
+{"label":"Science", "pattern":[{"lower":"hplc"}]}
+{"label":"Science", "pattern":[{"lower":"nmr"}]}
+{"label":"Science", "pattern":[{"lower":"data analysis science"}]}
+{"label":"Science", "pattern":[{"lower":"bioinformatics"}]}
+{"label":"Science", "pattern":[{"lower":"genomics"}]}
+{"label":"Science", "pattern":[{"lower":"proteomics"}]}
+{"label":"Science", "pattern":[{"lower":"metabolomics"}]}
+{"label":"Science", "pattern":[{"lower":"crispr"}]}
+{"label":"Science", "pattern":[{"lower":"gene editing"}]}
+{"label":"Science", "pattern":[{"lower":"animal handling"}]}
+{"label":"Languages", "pattern":[{"lower":"english"}]}
+{"label":"Languages", "pattern":[{"lower":"spanish"}]}
+{"label":"Languages", "pattern":[{"lower":"mandarin"}]}
+{"label":"Languages", "pattern":[{"lower":"hindi"}]}
+{"label":"Languages", "pattern":[{"lower":"arabic"}]}
+{"label":"Languages", "pattern":[{"lower":"french"}]}
+{"label":"Languages", "pattern":[{"lower":"bengali"}]}
+{"label":"Languages", "pattern":[{"lower":"russian"}]}
+{"label":"Languages", "pattern":[{"lower":"portuguese"}]}
+{"label":"Languages", "pattern":[{"lower":"urdu"}]}
+{"label":"Languages", "pattern":[{"lower":"indonesian"}]}
+{"label":"Languages", "pattern":[{"lower":"german"}]}
+{"label":"Languages", "pattern":[{"lower":"japanese"}]}
+{"label":"Languages", "pattern":[{"lower":"swahili"}]}
+{"label":"Languages", "pattern":[{"lower":"marathi"}]}
+{"label":"Languages", "pattern":[{"lower":"telugu"}]}
+{"label":"Languages", "pattern":[{"lower":"turkish"}]}
+{"label":"Languages", "pattern":[{"lower":"tamil"}]}
+{"label":"Languages", "pattern":[{"lower":"vietnamese"}]}
+{"label":"Languages", "pattern":[{"lower":"korean"}]}
+{"label":"Languages", "pattern":[{"lower":"italian"}]}
+{"label":"Languages", "pattern":[{"lower":"polish"}]}
+{"label":"Languages", "pattern":[{"lower":"ukrainian"}]}
+{"label":"Languages", "pattern":[{"lower":"romanian"}]}
+{"label":"Languages", "pattern":[{"lower":"dutch"}]}
+{"label":"Languages", "pattern":[{"lower":"greek"}]}
+{"label":"Languages", "pattern":[{"lower":"czech"}]}
+{"label":"Languages", "pattern":[{"lower":"hungarian"}]}
+{"label":"Languages", "pattern":[{"lower":"thai"}]}
+{"label":"Languages", "pattern":[{"lower":"persian"}]}
+{"label":"Languages", "pattern":[{"lower":"hebrew"}]}
+{"label":"Arts", "pattern":[{"lower":"music theory"}]}
+{"label":"Arts", "pattern":[{"lower":"singing"}]}
+{"label":"Arts", "pattern":[{"lower":"guitar"}]}
+{"label":"Arts", "pattern":[{"lower":"piano"}]}
+{"label":"Arts", "pattern":[{"lower":"audio engineering"}]}
+{"label":"Arts", "pattern":[{"lower":"sound design"}]}
+{"label":"Arts", "pattern":[{"lower":"photography"}]}
+{"label":"Arts", "pattern":[{"lower":"videography"}]}
+{"label":"Arts", "pattern":[{"lower":"video editing"}]}
+{"label":"Arts", "pattern":[{"lower":"color grading"}]}
+{"label":"Arts", "pattern":[{"lower":"lighting"}]}
+{"label":"Arts", "pattern":[{"lower":"set design"}]}
+{"label":"Arts", "pattern":[{"lower":"acting"}]}
+{"label":"Arts", "pattern":[{"lower":"scriptwriting"}]}
+{"label":"Arts", "pattern":[{"lower":"directing"}]}
+{"label":"Arts", "pattern":[{"lower":"animation"}]}
+{"label":"Arts", "pattern":[{"lower":"2d animation"}]}
+{"label":"Arts", "pattern":[{"lower":"3d animation"}]}
+{"label":"Arts", "pattern":[{"lower":"vfx"}]}
+{"label":"Arts", "pattern":[{"lower":"compositing"}]}
+{"label":"Sports", "pattern":[{"lower":"coaching sports"}]}
+{"label":"Sports", "pattern":[{"lower":"sports science"}]}
+{"label":"Sports", "pattern":[{"lower":"strength and conditioning"}]}
+{"label":"Sports", "pattern":[{"lower":"physiotherapy sports"}]}
+{"label":"Sports", "pattern":[{"lower":"nutrition"}]}
+{"label":"Sports", "pattern":[{"lower":"sports psychology"}]}
+{"label":"Sports", "pattern":[{"lower":"refereeing"}]}
+{"label":"Sports", "pattern":[{"lower":"scouting"}]}
+{"label":"Sports", "pattern":[{"lower":"analytics sports"}]}
+{"label":"Technical","pattern":[{"TEXT":".NET"}]}
+{"label":"Technical","pattern":[{"LOWER":""},{"LOWER":"net"}]}
+{"label":"Technical","pattern":[{"LOWER":"1password"}]}
+{"label":"Technical","pattern":[{"TEXT":"3D"}]}
+{"label":"Technical","pattern":[{"LOWER":"3d"},{"LOWER":"reconstruction"}]}
+{"label":"Technical","pattern":[{"LOWER":"aboutness"}]}
+{"label":"Technical","pattern":[{"LOWER":"abstract"},{"LOWER":"data"},{"LOWER":"type"}]}
+{"label":"Technical","pattern":[{"LOWER":"abstract"},{"LOWER":"interpretation"}]}
+{"label":"Technical","pattern":[{"LOWER":"abstract"},{"LOWER":"machine"}]}
+{"label":"Technical","pattern":[{"LOWER":"access"},{"LOWER":"control"}]}
+{"label":"Technical","pattern":[{"LOWER":"access"},{"LOWER":"method"}]}
+{"label":"Technical","pattern":[{"LOWER":"access"},{"LOWER":"network"}]}
+{"label":"Technical","pattern":[{"LOWER":"accounting"}]}
+{"label":"Technical","pattern":[{"LOWER":"active"},{"LOWER":"appearance"},{"LOWER":"model"}]}
+{"label":"Technical","pattern":[{"LOWER":"active"},{"LOWER":"database"}]}
+{"label":"Technical","pattern":[{"LOWER":"active"},{"LOWER":"networking"}]}
+{"label":"Technical","pattern":[{"LOWER":"active"},{"LOWER":"shape"},{"LOWER":"model"}]}
+{"label":"Technical","pattern":[{"LOWER":"activemq"}]}
+{"label":"Technical","pattern":[{"LOWER":"activity"},{"LOWER":"recognition"}]}
+{"label":"Technical","pattern":[{"LOWER":"actuarial"},{"LOWER":"science"}]}
+{"label":"Technical","pattern":[{"LOWER":"actuator"}]}
+{"label":"Technical","pattern":[{"LOWER":"adaboost"}]}
+{"label":"Technical","pattern":[{"LOWER":"adaptive"},{"LOWER":"routing"}]}
+{"label":"Technical","pattern":[{"LOWER":"adaptive"},{"LOWER":"system"}]}
+{"label":"Technical","pattern":[{"LOWER":"adder"}]}
+{"label":"Technical","pattern":[{"LOWER":"adobe"},{"LOWER":"illustrator"}]}
+{"label":"Technical","pattern":[{"LOWER":"adobe"},{"LOWER":"photoshop"}]}
+{"label":"Technical","pattern":[{"LOWER":"advertising"}]}
+{"label":"Technical","pattern":[{"LOWER":"aerial"},{"LOWER":"photography"}]}
+{"label":"Technical","pattern":[{"LOWER":"aeronautics"}]}
+{"label":"Technical","pattern":[{"LOWER":"aerospace"},{"LOWER":"engineering"}]}
+{"label":"Technical","pattern":[{"LOWER":"aerospike"}]}
+{"label":"Technical","pattern":[{"LOWER":"agile"},{"LOWER":"project"},{"LOWER":"management"}]}
+{"label":"Technical","pattern":[{"LOWER":"agricultural"},{"LOWER":"engineering"}]}
+{"label":"Technical","pattern":[{"LOWER":"airflow"}]}
+{"label":"Technical","pattern":[{"LOWER":"airtable"}]}
+{"label":"Technical","pattern":[{"LOWER":"ajax"}]}
+{"label":"Technical","pattern":[{"LOWER":"akamai"}]}
+{"label":"Technical","pattern":[{"LOWER":"akka"}]}
+{"label":"Technical","pattern":[{"LOWER":"algolia"}]}
+{"label":"Technical","pattern":[{"LOWER":"algorithms"}]}
+{"label":"Technical","pattern":[{"LOWER":"algorithm"}]}
+{"label":"Technical","pattern":[{"LOWER":"algorithm"},{"LOWER":"design"}]}
+{"label":"Technical","pattern":[{"LOWER":"alpine"},{"LOWER":"linux"}]}
+{"label":"Technical","pattern":[{"LOWER":"amazon"},{"LOWER":"api"},{"LOWER":"gateway"}]}
+{"label":"Technical","pattern":[{"LOWER":"amazon"},{"LOWER":"athena"}]}
+{"label":"Technical","pattern":[{"LOWER":"amazon"},{"LOWER":"cloudfront"}]}
+{"label":"Technical","pattern":[{"LOWER":"amazon"},{"LOWER":"cloudwatch"}]}
+{"label":"Technical","pattern":[{"LOWER":"amazon"},{"LOWER":"cognito"}]}
+{"label":"Technical","pattern":[{"LOWER":"amazon"},{"LOWER":"dynamodb"}]}
+{"label":"Technical","pattern":[{"LOWER":"amazon"},{"LOWER":"ebs"}]}
+{"label":"Technical","pattern":[{"LOWER":"amazon"},{"LOWER":"ec2"}]}
+{"label":"Technical","pattern":[{"LOWER":"amazon"},{"LOWER":"ec2"},{"LOWER":"container"},{"LOWER":"service"}]}
+{"label":"Technical","pattern":[{"LOWER":"amazon"},{"LOWER":"eks"}]}
+{"label":"Technical","pattern":[{"LOWER":"amazon"},{"LOWER":"elasticache"}]}
+{"label":"Technical","pattern":[{"LOWER":"amazon"},{"LOWER":"elasticsearch"},{"LOWER":"service"}]}
+{"label":"Technical","pattern":[{"LOWER":"amazon"},{"LOWER":"emr"}]}
+{"label":"Technical","pattern":[{"LOWER":"amazon"},{"LOWER":"kinesis"}]}
+{"label":"Technical","pattern":[{"LOWER":"amazon"},{"LOWER":"kinesis"},{"LOWER":"firehose"}]}
+{"label":"Technical","pattern":[{"LOWER":"amazon"},{"LOWER":"machine"},{"LOWER":"learning"}]}
+{"label":"Technical","pattern":[{"LOWER":"amazon"},{"LOWER":"rds"}]}
+{"label":"Technical","pattern":[{"LOWER":"amazon"},{"LOWER":"rds"},{"LOWER":"for"},{"LOWER":"aurora"}]}
+{"label":"Technical","pattern":[{"LOWER":"amazon"},{"LOWER":"rds"},{"LOWER":"for"},{"LOWER":"postgresql"}]}
+{"label":"Technical","pattern":[{"LOWER":"amazon"},{"LOWER":"redshift"}]}
+{"label":"Technical","pattern":[{"LOWER":"amazon"},{"LOWER":"route"},{"LOWER":"53"}]}
+{"label":"Technical","pattern":[{"LOWER":"amazon"},{"LOWER":"s3"}]}
+{"label":"Technical","pattern":[{"LOWER":"amazon"},{"LOWER":"ses"}]}
+{"label":"Technical","pattern":[{"LOWER":"amazon"},{"LOWER":"sns"}]}
+{"label":"Technical","pattern":[{"LOWER":"amazon"},{"LOWER":"sqs"}]}
+{"label":"Technical","pattern":[{"LOWER":"amazon"},{"LOWER":"vpc"}]}
+{"label":"Technical","pattern":[{"LOWER":"ambiguity"}]}
+{"label":"Technical","pattern":[{"LOWER":"amp"}]}
+{"label":"Technical","pattern":[{"LOWER":"amplitude"}]}
+{"label":"Technical","pattern":[{"LOWER":"analog-to-digital"},{"LOWER":"converter"}]}
+{"label":"Technical","pattern":[{"LOWER":"analog"},{"LOWER":"to"},{"LOWER":"digital converter"}]}
+{"label":"Technical","pattern":[{"LOWER":"analysis"},{"LOWER":"of"},{"LOWER":"algorithms"}]}
+{"label":"Technical","pattern":[{"LOWER":"analysis"},{"LOWER":"of"},{"LOWER":"covariance"}]}
+{"label":"Technical","pattern":[{"LOWER":"analysis"},{"LOWER":"of"},{"LOWER":"variance"}]}
+{"label":"Technical","pattern":[{"LOWER":"analytics"}]}
+{"label":"Technical","pattern":[{"LOWER":"analytics"},{"LOWER":"integrator"}]}
+{"label":"Technical","pattern":[{"LOWER":"android"}]}
+{"label":"Technical","pattern":[{"LOWER":"android"},{"LOWER":"sdk"}]}
+{"label":"Technical","pattern":[{"LOWER":"android"},{"LOWER":"studio"}]}
+{"label":"Technical","pattern":[{"LOWER":"angular"}]}
+{"label":"Technical","pattern":[{"LOWER":"angular"},{"LOWER":"2"}]}
+{"label":"Technical","pattern":[{"LOWER":"angularjs"}]}
+{"label":"Technical","pattern":[{"LOWER":"angularui"}]}
+{"label":"Technical","pattern":[{"LOWER":"anomaly"},{"LOWER":"detection"}]}
+{"label":"Technical","pattern":[{"LOWER":"ansible"}]}
+{"label":"Technical","pattern":[{"LOWER":"ant"},{"LOWER":"design"}]}
+{"label":"Technical","pattern":[{"LOWER":"apache"},{"LOWER":"ant"}]}
+{"label":"Technical","pattern":[{"LOWER":"apache"},{"LOWER":"cordova"}]}
+{"label":"Technical","pattern":[{"LOWER":"apache"},{"LOWER":"flink"}]}
+{"label":"Technical","pattern":[{"LOWER":"apache"},{"LOWER":"http"},{"LOWER":"server"}]}
+{"label":"Technical","pattern":[{"LOWER":"apache"},{"LOWER":"maven"}]}
+{"label":"Technical","pattern":[{"LOWER":"apache"},{"LOWER":"mesos"}]}
+{"label":"Technical","pattern":[{"LOWER":"apache"},{"LOWER":"spark"}]}
+{"label":"Technical","pattern":[{"LOWER":"apache"},{"LOWER":"tomcat"}]}
+{"label":"Technical","pattern":[{"LOWER":"apache"},{"LOWER":"zeppelin"}]}
+{"label":"Technical","pattern":[{"TEXT":"API"}]}
+{"label":"Technical","pattern":[{"LOWER":"api"},{"LOWER":"documentation"},{"LOWER":"browser"}]}
+{"label":"Technical","pattern":[{"LOWER":"api"},{"LOWER":"tools"}]}
+{"label":"Technical","pattern":[{"LOWER":"api.ai"}]}
+{"label":"Technical","pattern":[{"LOWER":"api"},{"LOWER":"ai"}]}
+{"label":"Technical","pattern":[{"LOWER":"apiary"}]}
+{"label":"Technical","pattern":[{"LOWER":"apigee"}]}
+{"label":"Technical","pattern":[{"LOWER":"apollo"}]}
+{"label":"Technical","pattern":[{"LOWER":"appium"}]}
+{"label":"Technical","pattern":[{"LOWER":"application"},{"LOWER":"and"},{"LOWER":"data"}]}
+{"label":"Technical","pattern":[{"LOWER":"application"},{"LOWER":"hosting"}]}
+{"label":"Technical","pattern":[{"LOWER":"application"},{"LOWER":"programming"},{"LOWER":"interface"}]}
+{"label":"Technical","pattern":[{"LOWER":"application"},{"LOWER":"server"}]}
+{"label":"Technical","pattern":[{"LOWER":"application-specific"},{"LOWER":"integrated"},{"LOWER":"circuit"}]}
+{"label":"Technical","pattern":[{"LOWER":"application"},{"LOWER":"specific integrated circuit"}]}
+{"label":"Technical","pattern":[{"LOWER":"application"},{"LOWER":"utilities"}]}
+{"label":"Technical","pattern":[{"LOWER":"appveyor"}]}
+{"label":"Technical","pattern":[{"LOWER":"arangodb"}]}
+{"label":"Technical","pattern":[{"LOWER":"arbol"}]}
+{"label":"Technical","pattern":[{"LOWER":"arboriculture"}]}
+{"label":"Technical","pattern":[{"LOWER":"arborist"}]}
+{"label":"Technical","pattern":[{"LOWER":"arch"},{"LOWER":"linux"}]}
+{"label":"Technical","pattern":[{"LOWER":"architectural"},{"LOWER":"engineering"}]}
+{"label":"Technical","pattern":[{"LOWER":"arduino"}]}
+{"label":"Technical","pattern":[{"LOWER":"art"},{"LOWER":"&"},{"LOWER":"architecture"},{"LOWER":"thesaurus"}]}
+{"label":"Technical","pattern":[{"LOWER":"ai"}]}
+{"label":"Technical","pattern":[{"LOWER":"artificial"},{"LOWER":"intelligence"}]}
+{"label":"Technical","pattern":[{"LOWER":"artificial"},{"LOWER":"neural"},{"LOWER":"network"}]}
+{"label":"Technical","pattern":[{"LOWER":"asana"}]}
+{"label":"Technical","pattern":[{"TEXT":"ASP.NET"}]}
+{"label":"Technical","pattern":[{"LOWER":"asp"},{"LOWER":"net"}]}
+{"label":"Technical","pattern":[{"LOWER":"aspect-oriented"},{"LOWER":"programming"}]}
+{"label":"Technical","pattern":[{"LOWER":"aspect"},{"LOWER":"oriented programming"}]}
+{"label":"Technical","pattern":[{"TEXT":"ASP.NET"}]}
+{"label":"Technical","pattern":[{"LOWER":"asp"},{"LOWER":"net"}]}
+{"label":"Technical","pattern":[{"LOWER":"assets"},{"LOWER":"and"},{"LOWER":"media"}]}
+{"label":"Technical","pattern":[{"LOWER":"association"},{"LOWER":"rule"},{"LOWER":"learning"}]}
+{"label":"Technical","pattern":[{"LOWER":"asynchronous"},{"LOWER":"communication"}]}
+{"label":"Technical","pattern":[{"LOWER":"asynchronous"},{"LOWER":"transfer"},{"LOWER":"mode"}]}
+{"label":"Technical","pattern":[{"LOWER":"atom"}]}
+{"label":"Technical","pattern":[{"LOWER":"audio"},{"LOWER":"signal"}]}
+{"label":"Technical","pattern":[{"LOWER":"augmented"},{"LOWER":"reality"}]}
+{"label":"Technical","pattern":[{"LOWER":"aurelia"}]}
+{"label":"Technical","pattern":[{"LOWER":"auth0"}]}
+{"label":"Technical","pattern":[{"LOWER":"authentication"}]}
+{"label":"Technical","pattern":[{"LOWER":"authy"}]}
+{"label":"Technical","pattern":[{"LOWER":"automated"},{"LOWER":"reasoning"}]}
+{"label":"Technical","pattern":[{"LOWER":"automated"},{"LOWER":"theorem"},{"LOWER":"proving"}]}
+{"label":"Technical","pattern":[{"LOWER":"automatic"},{"LOWER":"programming"}]}
+{"label":"Technical","pattern":[{"LOWER":"automatic"},{"LOWER":"summarization"}]}
+{"label":"Technical","pattern":[{"LOWER":"automatic"},{"LOWER":"taxonomy"},{"LOWER":"induction"}]}
+{"label":"Technical","pattern":[{"LOWER":"automaton"}]}
+{"label":"Technical","pattern":[{"LOWER":"automotive"},{"LOWER":"engineering"}]}
+{"label":"Technical","pattern":[{"LOWER":"autonomic"},{"LOWER":"computing"}]}
+{"label":"Technical","pattern":[{"TEXT":"AVA"}]}
+{"label":"Technical","pattern":[{"LOWER":"awesome"},{"LOWER":"lists"}]}
+{"label":"Technical","pattern":[{"LOWER":"amazon"},{"LOWER":"web"},{"LOWER":"services"}]}
+{"label":"Technical","pattern":[{"LOWER":"aws"},{"LOWER":"cloudformation"}]}
+{"label":"Technical","pattern":[{"LOWER":"aws"},{"LOWER":"codebuild"}]}
+{"label":"Technical","pattern":[{"LOWER":"aws"},{"LOWER":"codecommit"}]}
+{"label":"Technical","pattern":[{"LOWER":"aws"},{"LOWER":"codedeploy"}]}
+{"label":"Technical","pattern":[{"LOWER":"aws"},{"LOWER":"codepipeline"}]}
+{"label":"Technical","pattern":[{"LOWER":"aws"},{"LOWER":"direct"},{"LOWER":"connect"}]}
+{"label":"Technical","pattern":[{"LOWER":"aws"},{"LOWER":"elastic"},{"LOWER":"beanstalk"}]}
+{"label":"Technical","pattern":[{"LOWER":"aws"},{"LOWER":"elastic"},{"LOWER":"load"},{"LOWER":"balancing"},{"LOWER":"elb"}]}
+{"label":"Technical","pattern":[{"LOWER":"aws"},{"LOWER":"fargate"}]}
+{"label":"Technical","pattern":[{"LOWER":"aws"},{"LOWER":"iam"}]}
+{"label":"Technical","pattern":[{"LOWER":"aws"},{"LOWER":"lambda"}]}
+{"label":"Technical","pattern":[{"LOWER":"aws"},{"LOWER":"opsworks"}]}
+{"label":"Technical","pattern":[{"TEXT":"AWX"}]}
+{"label":"Technical","pattern":[{"LOWER":"azure"}]}
+{"label":"Technical","pattern":[{"LOWER":"azure"},{"LOWER":"cosmos"},{"LOWER":"db"}]}
+{"label":"Technical","pattern":[{"LOWER":"azure"},{"LOWER":"functions"}]}
+{"label":"Technical","pattern":[{"LOWER":"azure"},{"LOWER":"machine"},{"LOWER":"learning"}]}
+{"label":"Technical","pattern":[{"LOWER":"azure"},{"LOWER":"storage"}]}
+{"label":"Technical","pattern":[{"LOWER":"azure"},{"LOWER":"websites"}]}
+{"label":"Technical","pattern":[{"LOWER":"babel"}]}
+{"label":"Technical","pattern":[{"LOWER":"back"},{"LOWER":"office"}]}
+{"label":"Technical","pattern":[{"LOWER":"backbone.js"}]}
+{"label":"Technical","pattern":[{"LOWER":"backbone"},{"LOWER":"js"}]}
+{"label":"Technical","pattern":[{"LOWER":"background"},{"LOWER":"processing"}]}
+{"label":"Technical","pattern":[{"LOWER":"background"},{"LOWER":"subtraction"}]}
+{"label":"Technical","pattern":[{"LOWER":"bag-of-words"},{"LOWER":"model"}]}
+{"label":"Technical","pattern":[{"LOWER":"bag"},{"LOWER":"of"},{"LOWER":"words model"}]}
+{"label":"Technical","pattern":[{"LOWER":"bamboo"}]}
+{"label":"Technical","pattern":[{"LOWER":"base"},{"LOWER":"station"}]}
+{"label":"Technical","pattern":[{"LOWER":"bash"}]}
+{"label":"Technical","pattern":[{"LOWER":"batch"},{"LOWER":"processing"}]}
+{"label":"Technical","pattern":[{"LOWER":"bayesian"},{"LOWER":"inference"}]}
+{"label":"Technical","pattern":[{"LOWER":"bayesian"},{"LOWER":"network"}]}
+{"label":"Technical","pattern":[{"LOWER":"bayesian"},{"LOWER":"probability"}]}
+{"label":"Technical","pattern":[{"LOWER":"bazel"}]}
+{"label":"Technical","pattern":[{"LOWER":"beanstalk"}]}
+{"label":"Technical","pattern":[{"LOWER":"beanstalkd"}]}
+{"label":"Technical","pattern":[{"LOWER":"benchmark"},{"LOWER":"computing"}]}
+{"label":"Technical","pattern":[{"LOWER":"beta"},{"LOWER":"by"},{"LOWER":"crashlytics"}]}
+{"label":"Technical","pattern":[{"LOWER":"beta"},{"LOWER":"testing"},{"LOWER":"/"},{"LOWER":"mobile"},{"LOWER":"app"},{"LOWER":"distribution"}]}
+{"label":"Technical","pattern":[{"LOWER":"beta testing "},{"LOWER":" mobile app distribution"}]}
+{"label":"Technical","pattern":[{"LOWER":"bibliographic"},{"LOWER":"database"}]}
+{"label":"Technical","pattern":[{"LOWER":"bibliometrics"}]}
+{"label":"Technical","pattern":[{"LOWER":"big"},{"LOWER":"data"}]}
+{"label":"Technical","pattern":[{"LOWER":"big"},{"LOWER":"data"},{"LOWER":"as"},{"LOWER":"a"},{"LOWER":"service"}]}
+{"label":"Technical","pattern":[{"LOWER":"big"},{"LOWER":"data"},{"LOWER":"tools"}]}
+{"label":"Technical","pattern":[{"LOWER":"binary"},{"LOWER":"search"},{"LOWER":"tree"}]}
+{"label":"Technical","pattern":[{"LOWER":"biochemical"},{"LOWER":"engineering"}]}
+{"label":"Technical","pattern":[{"LOWER":"biological"},{"LOWER":"database"}]}
+{"label":"Technical","pattern":[{"LOWER":"biomedical"},{"LOWER":"engineering"}]}
+{"label":"Technical","pattern":[{"LOWER":"biometrics"}]}
+{"label":"Technical","pattern":[{"LOWER":"bitbucket"}]}
+{"label":"Technical","pattern":[{"LOWER":"bitcoin"}]}
+{"label":"Technical","pattern":[{"LOWER":"bitrise"}]}
+{"label":"Technical","pattern":[{"LOWER":"blind"},{"LOWER":"signal"},{"LOWER":"separation"}]}
+{"label":"Technical","pattern":[{"LOWER":"blockchain"}]}
+{"label":"Technical","pattern":[{"LOWER":"body"},{"LOWER":"text"}]}
+{"label":"Technical","pattern":[{"LOWER":"boolean"},{"LOWER":"algebra"}]}
+{"label":"Technical","pattern":[{"LOWER":"boolean"},{"LOWER":"expression"}]}
+{"label":"Technical","pattern":[{"LOWER":"boosting"},{"LOWER":"machine"},{"LOWER":"learning"}]}
+{"label":"Technical","pattern":[{"LOWER":"boot2docker"}]}
+{"label":"Technical","pattern":[{"LOWER":"bootstrap"}]}
+{"label":"Technical","pattern":[{"LOWER":"bootswatch"}]}
+{"label":"Technical","pattern":[{"LOWER":"bot"}]}
+{"label":"Technical","pattern":[{"LOWER":"bourbon"}]}
+{"label":"Technical","pattern":[{"LOWER":"bower"}]}
+{"label":"Technical","pattern":[{"LOWER":"box"}]}
+{"label":"Technical","pattern":[{"LOWER":"brackets"}]}
+{"label":"Technical","pattern":[{"LOWER":"brain"},{"LOWER":"mapping"}]}
+{"label":"Technical","pattern":[{"LOWER":"braintree"}]}
+{"label":"Technical","pattern":[{"LOWER":"branch"},{"LOWER":"and"},{"LOWER":"bound"}]}
+{"label":"Technical","pattern":[{"LOWER":"breadth-first"},{"LOWER":"search"}]}
+{"label":"Technical","pattern":[{"LOWER":"breadth"},{"LOWER":"first search"}]}
+{"label":"Technical","pattern":[{"LOWER":"brightness"}]}
+{"label":"Technical","pattern":[{"LOWER":"broadcasting"}]}
+{"label":"Technical","pattern":[{"LOWER":"browser"},{"LOWER":"testing"}]}
+{"label":"Technical","pattern":[{"LOWER":"browserify"}]}
+{"label":"Technical","pattern":[{"LOWER":"browserstack"}]}
+{"label":"Technical","pattern":[{"LOWER":"browsersync"}]}
+{"label":"Technical","pattern":[{"LOWER":"brunch"}]}
+{"label":"Technical","pattern":[{"LOWER":"brute-force"},{"LOWER":"search"}]}
+{"label":"Technical","pattern":[{"LOWER":"brute"},{"LOWER":"force search"}]}
+{"label":"Technical","pattern":[{"LOWER":"buddy"}]}
+{"label":"Technical","pattern":[{"LOWER":"buffer"}]}
+{"label":"Technical","pattern":[{"LOWER":"buffer"},{"LOWER":"overflow"}]}
+{"label":"Technical","pattern":[{"LOWER":"build,"},{"LOWER":"test,"},{"LOWER":"deploy"}]}
+{"label":"Technical","pattern":[{"LOWER":"buildkite"}]}
+{"label":"Technical","pattern":[{"LOWER":"built-in"},{"LOWER":"self-test"}]}
+{"label":"Technical","pattern":[{"LOWER":"built"},{"LOWER":"in self"},{"LOWER":"test"}]}
+{"label":"Technical","pattern":[{"LOWER":"bulma"}]}
+{"label":"Technical","pattern":[{"LOWER":"business"}]}
+{"label":"Technical","pattern":[{"LOWER":"business"},{"LOWER":"administration"}]}
+{"label":"Technical","pattern":[{"LOWER":"business"},{"LOWER":"dashboards"}]}
+{"label":"Technical","pattern":[{"LOWER":"business"},{"LOWER":"intelligence"}]}
+{"label":"Technical","pattern":[{"LOWER":"business"},{"LOWER":"intelligence"}]}
+{"label":"Technical","pattern":[{"LOWER":"business"},{"LOWER":"process"}]}
+{"label":"Technical","pattern":[{"LOWER":"business"},{"LOWER":"tools"}]}
+{"label":"Technical","pattern":[{"TEXT":"C++"}]}
+{"label":"Technical","pattern":[{"TEXT":"C"}]}
+{"label":"Technical","pattern":[{"LOWER":"c3.js"}]}
+{"label":"Technical","pattern":[{"LOWER":"c3"},{"LOWER":"js"}]}
+{"label":"Technical","pattern":[{"LOWER":"caddy"}]}
+{"label":"Technical","pattern":[{"LOWER":"cakephp"}]}
+{"label":"Technical","pattern":[{"LOWER":"canonical"},{"LOWER":"correlation"}]}
+{"label":"Technical","pattern":[{"LOWER":"canonical"},{"LOWER":"model"}]}
+{"label":"Technical","pattern":[{"LOWER":"capistrano"}]}
+{"label":"Technical","pattern":[{"LOWER":"capybara"}]}
+{"label":"Technical","pattern":[{"LOWER":"case-based"},{"LOWER":"reasoning"}]}
+{"label":"Technical","pattern":[{"LOWER":"case"},{"LOWER":"based reasoning"}]}
+{"label":"Technical","pattern":[{"LOWER":"cassandra"}]}
+{"label":"Technical","pattern":[{"LOWER":"cataloging"}]}
+{"label":"Technical","pattern":[{"LOWER":"cdnjs"}]}
+{"label":"Technical","pattern":[{"LOWER":"celery"}]}
+{"label":"Technical","pattern":[{"LOWER":"cellular"},{"LOWER":"network"}]}
+{"label":"Technical","pattern":[{"LOWER":"centos"}]}
+{"label":"Technical","pattern":[{"LOWER":"central"},{"LOWER":"processing"},{"LOWER":"unit"}]}
+{"label":"Technical","pattern":[{"LOWER":"cepstrum"}]}
+{"label":"Technical","pattern":[{"LOWER":"certificate"}]}
+{"label":"Technical","pattern":[{"LOWER":"certificate"},{"LOWER":"authority"}]}
+{"label":"Technical","pattern":[{"LOWER":"change"},{"LOWER":"detection"}]}
+{"label":"Technical","pattern":[{"LOWER":"chartbeat"}]}
+{"label":"Technical","pattern":[{"LOWER":"charting"},{"LOWER":"libraries"}]}
+{"label":"Technical","pattern":[{"LOWER":"chatbot"},{"LOWER":"platforms"},{"LOWER":"&"},{"LOWER":"tools"}]}
+{"label":"Technical","pattern":[{"LOWER":"chatops"}]}
+{"label":"Technical","pattern":[{"LOWER":"chef"}]}
+{"label":"Technical","pattern":[{"LOWER":"chemical"},{"LOWER":"engineering"}]}
+{"label":"Technical","pattern":[{"LOWER":"chemometrics"}]}
+{"label":"Technical","pattern":[{"LOWER":"chrome"}]}
+{"label":"Technical","pattern":[{"LOWER":"chrome"},{"LOWER":"extension"}]}
+{"label":"Technical","pattern":[{"LOWER":"circleci"}]}
+{"label":"Technical","pattern":[{"LOWER":"circumscription"}]}
+{"label":"Technical","pattern":[{"LOWER":"civil"},{"LOWER":"engineering"}]}
+{"label":"Technical","pattern":[{"LOWER":"classical"},{"LOWER":"logic"}]}
+{"label":"Technical","pattern":[{"LOWER":"classifier"},{"LOWER":"linguistics"}]}
+{"label":"Technical","pattern":[{"LOWER":"clef"}]}
+{"label":"Technical","pattern":[{"LOWER":"clever"},{"LOWER":"cloud"}]}
+{"label":"Technical","pattern":[{"LOWER":"command"},{"LOWER":"line"},{"LOWER":"interface"}]}
+{"label":"Technical","pattern":[{"LOWER":"clicktale"}]}
+{"label":"Technical","pattern":[{"LOWER":"clicky"}]}
+{"label":"Technical","pattern":[{"LOWER":"client\u2013server"},{"LOWER":"model"}]}
+{"label":"Technical","pattern":[{"LOWER":"clinicalkey"}]}
+{"label":"Technical","pattern":[{"LOWER":"clion"}]}
+{"label":"Technical","pattern":[{"LOWER":"clojure"}]}
+{"label":"Technical","pattern":[{"LOWER":"clojurescript"}]}
+{"label":"Technical","pattern":[{"LOWER":"clone"},{"LOWER":"java"},{"LOWER":"method"}]}
+{"label":"Technical","pattern":[{"LOWER":"cloud"},{"LOWER":"access"},{"LOWER":"management"}]}
+{"label":"Technical","pattern":[{"LOWER":"cloud"},{"LOWER":"content"},{"LOWER":"management"},{"LOWER":"system"}]}
+{"label":"Technical","pattern":[{"LOWER":"cloud"},{"LOWER":"firestore"}]}
+{"label":"Technical","pattern":[{"LOWER":"cloud"},{"LOWER":"foundry"}]}
+{"label":"Technical","pattern":[{"LOWER":"cloud"},{"LOWER":"functions"},{"LOWER":"for"},{"LOWER":"firebase"}]}
+{"label":"Technical","pattern":[{"LOWER":"cloud"},{"LOWER":"hosting"}]}
+{"label":"Technical","pattern":[{"LOWER":"cloud"},{"LOWER":"ide"}]}
+{"label":"Technical","pattern":[{"LOWER":"cloud"},{"LOWER":"monitoring"}]}
+{"label":"Technical","pattern":[{"LOWER":"cloud"},{"LOWER":"storage"}]}
+{"label":"Technical","pattern":[{"LOWER":"cloud9"},{"LOWER":"ide"}]}
+{"label":"Technical","pattern":[{"LOWER":"cloudflare"}]}
+{"label":"Technical","pattern":[{"LOWER":"cloudinary"}]}
+{"label":"Technical","pattern":[{"LOWER":"clubhouse"}]}
+{"label":"Technical","pattern":[{"LOWER":"cluster"},{"LOWER":"analysis"}]}
+{"label":"Technical","pattern":[{"LOWER":"cluster"},{"LOWER":"management"}]}
+{"label":"Technical","pattern":[{"TEXT":"COBOL"}]}
+{"label":"Technical","pattern":[{"LOWER":"cocoa"},{"LOWER":"touch"},{"LOWER":"ios"}]}
+{"label":"Technical","pattern":[{"LOWER":"codacy"}]}
+{"label":"Technical","pattern":[{"LOWER":"code"},{"LOWER":"climate"}]}
+{"label":"Technical","pattern":[{"LOWER":"code"},{"LOWER":"collaboration"},{"LOWER":"&"},{"LOWER":"version"},{"LOWER":"control"}]}
+{"label":"Technical","pattern":[{"LOWER":"code"},{"LOWER":"coverage"}]}
+{"label":"Technical","pattern":[{"LOWER":"code"},{"LOWER":"generation"}]}
+{"label":"Technical","pattern":[{"LOWER":"code"},{"LOWER":"quality"}]}
+{"label":"Technical","pattern":[{"LOWER":"code"},{"LOWER":"review"}]}
+{"label":"Technical","pattern":[{"LOWER":"code"},{"LOWER":"review"}]}
+{"label":"Technical","pattern":[{"LOWER":"codeanywhere"}]}
+{"label":"Technical","pattern":[{"LOWER":"codebook"}]}
+{"label":"Technical","pattern":[{"LOWER":"codec"}]}
+{"label":"Technical","pattern":[{"LOWER":"codecov"}]}
+{"label":"Technical","pattern":[{"LOWER":"codeigniter"}]}
+{"label":"Technical","pattern":[{"LOWER":"codekit"}]}
+{"label":"Technical","pattern":[{"LOWER":"codemirror"}]}
+{"label":"Technical","pattern":[{"LOWER":"codenvy"}]}
+{"label":"Technical","pattern":[{"LOWER":"codeship"}]}
+{"label":"Technical","pattern":[{"LOWER":"coding"},{"LOWER":"social"},{"LOWER":"sciences"}]}
+{"label":"Technical","pattern":[{"LOWER":"coffeescript"}]}
+{"label":"Technical","pattern":[{"LOWER":"cognitive"},{"LOWER":"neuroscience"},{"LOWER":"of"},{"LOWER":"visual"},{"LOWER":"object"},{"LOWER":"recognition"}]}
+{"label":"Technical","pattern":[{"LOWER":"collaboration"}]}
+{"label":"Technical","pattern":[{"LOWER":"collision"}]}
+{"label":"Technical","pattern":[{"LOWER":"color"},{"LOWER":"vision"}]}
+{"label":"Technical","pattern":[{"LOWER":"colorimetry"}]}
+{"label":"Technical","pattern":[{"LOWER":"combinatorial"},{"LOWER":"optimization"}]}
+{"label":"Technical","pattern":[{"LOWER":"commenting"},{"LOWER":"service"}]}
+{"label":"Technical","pattern":[{"LOWER":"commerce"}]}
+{"label":"Technical","pattern":[{"LOWER":"common"},{"LOWER":"object"},{"LOWER":"request"},{"LOWER":"broker"},{"LOWER":"architecture"}]}
+{"label":"Technical","pattern":[{"LOWER":"communication"},{"LOWER":"complexity"}]}
+{"label":"Technical","pattern":[{"LOWER":"communication"},{"LOWER":"in"},{"LOWER":"small"},{"LOWER":"groups"}]}
+{"label":"Technical","pattern":[{"LOWER":"communications"}]}
+{"label":"Technical","pattern":[{"LOWER":"communications"},{"LOWER":"protocol"}]}
+{"label":"Technical","pattern":[{"LOWER":"communications"},{"LOWER":"sdk"}]}
+{"label":"Technical","pattern":[{"LOWER":"communications"},{"LOWER":"system"}]}
+{"label":"Technical","pattern":[{"LOWER":"compass"}]}
+{"label":"Technical","pattern":[{"LOWER":"compiler"}]}
+{"label":"Technical","pattern":[{"LOWER":"complex"},{"LOWER":"data"},{"LOWER":"type"}]}
+{"label":"Technical","pattern":[{"LOWER":"complex"},{"LOWER":"system"}]}
+{"label":"Technical","pattern":[{"LOWER":"component"}]}
+{"label":"Technical","pattern":[{"LOWER":"component"},{"LOWER":"analysis"}]}
+{"label":"Technical","pattern":[{"LOWER":"compose"}]}
+{"label":"Technical","pattern":[{"LOWER":"composer"}]}
+{"label":"Technical","pattern":[{"LOWER":"composite"},{"LOWER":"index"}]}
+{"label":"Technical","pattern":[{"LOWER":"composite"},{"LOWER":"number"}]}
+{"label":"Technical","pattern":[{"LOWER":"comprehension"}]}
+{"label":"Technical","pattern":[{"LOWER":"compressed"},{"LOWER":"sensing"}]}
+{"label":"Technical","pattern":[{"LOWER":"computability"}]}
+{"label":"Technical","pattern":[{"LOWER":"computability"},{"LOWER":"theory"}]}
+{"label":"Technical","pattern":[{"LOWER":"computation"}]}
+{"label":"Technical","pattern":[{"LOWER":"computational"},{"LOWER":"complexity"},{"LOWER":"theory"}]}
+{"label":"Technical","pattern":[{"LOWER":"computational"},{"LOWER":"geometry"}]}
+{"label":"Technical","pattern":[{"LOWER":"computational"},{"LOWER":"mathematics"}]}
+{"label":"Technical","pattern":[{"LOWER":"computational"},{"LOWER":"model"}]}
+{"label":"Technical","pattern":[{"LOWER":"computational"},{"LOWER":"science"}]}
+{"label":"Technical","pattern":[{"LOWER":"computer-aided"},{"LOWER":"software"},{"LOWER":"engineering"}]}
+{"label":"Technical","pattern":[{"LOWER":"computer"},{"LOWER":"aided software engineering"}]}
+{"label":"Technical","pattern":[{"LOWER":"computer"},{"LOWER":"architecture"}]}
+{"label":"Technical","pattern":[{"LOWER":"computer"},{"LOWER":"cluster"}]}
+{"label":"Technical","pattern":[{"LOWER":"computer"},{"LOWER":"data"},{"LOWER":"storage"}]}
+{"label":"Technical","pattern":[{"LOWER":"computer"},{"LOWER":"engineering"}]}
+{"label":"Technical","pattern":[{"LOWER":"computer"},{"LOWER":"file"}]}
+{"label":"Technical","pattern":[{"LOWER":"computer"},{"LOWER":"graphics"}]}
+{"label":"Technical","pattern":[{"LOWER":"computer"},{"LOWER":"graphics"},{"LOWER":"images"}]}
+{"label":"Technical","pattern":[{"LOWER":"computer"},{"LOWER":"hardware"}]}
+{"label":"Technical","pattern":[{"LOWER":"computer"},{"LOWER":"multitasking"}]}
+{"label":"Technical","pattern":[{"LOWER":"computer"},{"LOWER":"network"}]}
+{"label":"Technical","pattern":[{"LOWER":"computer"},{"LOWER":"program"}]}
+{"label":"Technical","pattern":[{"LOWER":"computer"},{"LOWER":"programming"}]}
+{"label":"Technical","pattern":[{"LOWER":"computer"},{"LOWER":"science"}]}
+{"label":"Technical","pattern":[{"LOWER":"computer"},{"LOWER":"security"}]}
+{"label":"Technical","pattern":[{"LOWER":"computer"},{"LOWER":"vision"}]}
+{"label":"Technical","pattern":[{"LOWER":"concept"},{"LOWER":"learning"}]}
+{"label":"Technical","pattern":[{"LOWER":"conceptual"},{"LOWER":"model"}]}
+{"label":"Technical","pattern":[{"LOWER":"concourse"}]}
+{"label":"Technical","pattern":[{"LOWER":"concurrency"}]}
+{"label":"Technical","pattern":[{"LOWER":"concurrency"},{"LOWER":"control"}]}
+{"label":"Technical","pattern":[{"LOWER":"concurrency"},{"LOWER":"frameworks"}]}
+{"label":"Technical","pattern":[{"LOWER":"concurrent"},{"LOWER":"computing"}]}
+{"label":"Technical","pattern":[{"LOWER":"conditional"},{"LOWER":"random"},{"LOWER":"field"}]}
+{"label":"Technical","pattern":[{"LOWER":"conductor"}]}
+{"label":"Technical","pattern":[{"LOWER":"confirmatory"},{"LOWER":"factor"},{"LOWER":"analysis"}]}
+{"label":"Technical","pattern":[{"LOWER":"confluence"}]}
+{"label":"Technical","pattern":[{"LOWER":"consistency"},{"LOWER":"model"}]}
+{"label":"Technical","pattern":[{"LOWER":"constant"},{"LOWER":"false"},{"LOWER":"alarm"},{"LOWER":"rate"}]}
+{"label":"Technical","pattern":[{"LOWER":"construction"},{"LOWER":"engineering"}]}
+{"label":"Technical","pattern":[{"LOWER":"consul"}]}
+{"label":"Technical","pattern":[{"LOWER":"container"},{"LOWER":"tools"}]}
+{"label":"Technical","pattern":[{"LOWER":"containers"},{"LOWER":"as"},{"LOWER":"a"},{"LOWER":"service"}]}
+{"label":"Technical","pattern":[{"LOWER":"content"},{"LOWER":"delivery"},{"LOWER":"network"}]}
+{"label":"Technical","pattern":[{"LOWER":"content"},{"LOWER":"management"}]}
+{"label":"Technical","pattern":[{"LOWER":"context-free"},{"LOWER":"language"}]}
+{"label":"Technical","pattern":[{"LOWER":"context"},{"LOWER":"free language"}]}
+{"label":"Technical","pattern":[{"LOWER":"contextual"},{"LOWER":"query"},{"LOWER":"language"}]}
+{"label":"Technical","pattern":[{"LOWER":"contingency"},{"LOWER":"table"}]}
+{"label":"Technical","pattern":[{"LOWER":"continuous"},{"LOWER":"deployment"}]}
+{"label":"Technical","pattern":[{"LOWER":"continuous"},{"LOWER":"integration"}]}
+{"label":"Technical","pattern":[{"LOWER":"continuous"},{"LOWER":"integration"}]}
+{"label":"Technical","pattern":[{"LOWER":"continuum"},{"LOWER":"design"},{"LOWER":"consultancy"}]}
+{"label":"Technical","pattern":[{"LOWER":"control"},{"LOWER":"engineering"}]}
+{"label":"Technical","pattern":[{"LOWER":"control"},{"LOWER":"flow"}]}
+{"label":"Technical","pattern":[{"LOWER":"control"},{"LOWER":"reconfiguration"}]}
+{"label":"Technical","pattern":[{"LOWER":"control"},{"LOWER":"theory"}]}
+{"label":"Technical","pattern":[{"LOWER":"controlled"},{"LOWER":"vocabulary"}]}
+{"label":"Technical","pattern":[{"LOWER":"conventional"},{"LOWER":"pci"}]}
+{"label":"Technical","pattern":[{"LOWER":"convergence"},{"LOWER":"routing"}]}
+{"label":"Technical","pattern":[{"LOWER":"coordinate"},{"LOWER":"system"}]}
+{"label":"Technical","pattern":[{"LOWER":"copy"},{"LOWER":"protection"}]}
+{"label":"Technical","pattern":[{"LOWER":"core"},{"LOWER":"network"}]}
+{"label":"Technical","pattern":[{"LOWER":"coreos"}]}
+{"label":"Technical","pattern":[{"LOWER":"corner"},{"LOWER":"detection"}]}
+{"label":"Technical","pattern":[{"LOWER":"correctness"}]}
+{"label":"Technical","pattern":[{"LOWER":"correlation"},{"LOWER":"coefficient"}]}
+{"label":"Technical","pattern":[{"LOWER":"cost"},{"LOWER":"database"}]}
+{"label":"Technical","pattern":[{"LOWER":"couchbase"}]}
+{"label":"Technical","pattern":[{"LOWER":"couchdb"}]}
+{"label":"Technical","pattern":[{"LOWER":"coveralls"}]}
+{"label":"Technical","pattern":[{"TEXT":"C++"}]}
+{"label":"Technical","pattern":[{"LOWER":"cranfield"},{"LOWER":"experiments"}]}
+{"label":"Technical","pattern":[{"LOWER":"crashlytics"}]}
+{"label":"Technical","pattern":[{"LOWER":"crazy"},{"LOWER":"egg"}]}
+{"label":"Technical","pattern":[{"LOWER":"create"},{"LOWER":"react"},{"LOWER":"app"}]}
+{"label":"Technical","pattern":[{"LOWER":"create"},{"LOWER":"react"},{"LOWER":"native"},{"LOWER":"app"}]}
+{"label":"Technical","pattern":[{"LOWER":"critical"},{"LOWER":"mass"},{"LOWER":"software"},{"LOWER":"engineering"}]}
+{"label":"Technical","pattern":[{"LOWER":"critical"},{"LOWER":"path"},{"LOWER":"method"}]}
+{"label":"Technical","pattern":[{"LOWER":"critical"},{"LOWER":"section"}]}
+{"label":"Technical","pattern":[{"TEXT":"CRM"}]}
+{"label":"Technical","pattern":[{"LOWER":"cross-correlation"}]}
+{"label":"Technical","pattern":[{"LOWER":"cross"},{"LOWER":"correlation"}]}
+{"label":"Technical","pattern":[{"LOWER":"cross-platform"},{"LOWER":"desktop"},{"LOWER":"development"}]}
+{"label":"Technical","pattern":[{"LOWER":"cross"},{"LOWER":"platform desktop development"}]}
+{"label":"Technical","pattern":[{"LOWER":"cross-platform"},{"LOWER":"mobile"},{"LOWER":"development"}]}
+{"label":"Technical","pattern":[{"LOWER":"cross"},{"LOWER":"platform mobile development"}]}
+{"label":"Technical","pattern":[{"LOWER":"cross-platform"},{"LOWER":"mobile"},{"LOWER":"tools"}]}
+{"label":"Technical","pattern":[{"LOWER":"cross"},{"LOWER":"platform mobile tools"}]}
+{"label":"Technical","pattern":[{"LOWER":"cross-validation"}]}
+{"label":"Technical","pattern":[{"LOWER":"cross"},{"LOWER":"validation"}]}
+{"label":"Technical","pattern":[{"LOWER":"crowdsourcing"}]}
+{"label":"Technical","pattern":[{"LOWER":"cryptocurrency"}]}
+{"label":"Technical","pattern":[{"LOWER":"cryptographic"},{"LOWER":"protocol"}]}
+{"label":"Technical","pattern":[{"LOWER":"cryptography"}]}
+{"label":"Technical","pattern":[{"LOWER":"crystal"}]}
+{"label":"Technical","pattern":[{"TEXT":"C#"}]}
+{"label":"Technical","pattern":[{"TEXT":"CSS"}]}
+{"label":"Technical","pattern":[{"LOWER":"css"},{"LOWER":"pre-processors"},{"LOWER":"/"},{"LOWER":"extensions"}]}
+{"label":"Technical","pattern":[{"LOWER":"css pre-processors "},{"LOWER":" extensions"}]}
+{"label":"Technical","pattern":[{"LOWER":"css pre"},{"LOWER":"processors / extensions"}]}
+{"label":"Technical","pattern":[{"LOWER":"cucumber"}]}
+{"label":"Technical","pattern":[{"LOWER":"curse"},{"LOWER":"of"},{"LOWER":"dimensionality"}]}
+{"label":"Technical","pattern":[{"LOWER":"curve"},{"LOWER":"fitting"}]}
+{"label":"Technical","pattern":[{"LOWER":"custom"},{"LOWER":"analytics"}]}
+{"label":"Technical","pattern":[{"LOWER":"customer"},{"LOWER":"analytics"}]}
+{"label":"Technical","pattern":[{"LOWER":"customer"},{"LOWER":"relationship"},{"LOWER":"management"}]}
+{"label":"Technical","pattern":[{"LOWER":"customer"},{"LOWER":"support"},{"LOWER":"chat"}]}
+{"label":"Technical","pattern":[{"LOWER":"cypress"}]}
+{"label":"Technical","pattern":[{"LOWER":"d3.js"}]}
+{"label":"Technical","pattern":[{"LOWER":"d3"},{"LOWER":"js"}]}
+{"label":"Technical","pattern":[{"LOWER":"dart"}]}
+{"label":"Technical","pattern":[{"LOWER":"dash"}]}
+{"label":"Technical","pattern":[{"LOWER":"data"},{"LOWER":"access"}]}
+{"label":"Technical","pattern":[{"LOWER":"data"},{"LOWER":"acquisition"}]}
+{"label":"Technical","pattern":[{"LOWER":"data"},{"LOWER":"analysis"}]}
+{"label":"Technical","pattern":[{"LOWER":"data"},{"LOWER":"as"},{"LOWER":"a"},{"LOWER":"service"}]}
+{"label":"Technical","pattern":[{"LOWER":"data"},{"LOWER":"center"}]}
+{"label":"Technical","pattern":[{"LOWER":"data"},{"LOWER":"classification"}]}
+{"label":"Technical","pattern":[{"LOWER":"data"},{"LOWER":"compression"}]}
+{"label":"Technical","pattern":[{"LOWER":"data"},{"LOWER":"consistency"}]}
+{"label":"Technical","pattern":[{"LOWER":"data"},{"LOWER":"cube"}]}
+{"label":"Technical","pattern":[{"LOWER":"data"},{"LOWER":"exchange"}]}
+{"label":"Technical","pattern":[{"LOWER":"data"},{"LOWER":"extraction"}]}
+{"label":"Technical","pattern":[{"LOWER":"data"},{"LOWER":"file"}]}
+{"label":"Technical","pattern":[{"LOWER":"data"},{"LOWER":"flow"},{"LOWER":"diagram"}]}
+{"label":"Technical","pattern":[{"LOWER":"data"},{"LOWER":"integration"}]}
+{"label":"Technical","pattern":[{"LOWER":"data"},{"LOWER":"integrity"}]}
+{"label":"Technical","pattern":[{"LOWER":"data"},{"LOWER":"logger"}]}
+{"label":"Technical","pattern":[{"LOWER":"data"},{"LOWER":"management"}]}
+{"label":"Technical","pattern":[{"LOWER":"data"},{"LOWER":"manipulation"},{"LOWER":"language"}]}
+{"label":"Technical","pattern":[{"LOWER":"data"},{"LOWER":"mining"}]}
+{"label":"Technical","pattern":[{"LOWER":"data"},{"LOWER":"model"}]}
+{"label":"Technical","pattern":[{"LOWER":"data"},{"LOWER":"modeling"}]}
+{"label":"Technical","pattern":[{"LOWER":"data"},{"LOWER":"pre-processing"}]}
+{"label":"Technical","pattern":[{"LOWER":"data pre"},{"LOWER":"processing"}]}
+{"label":"Technical","pattern":[{"LOWER":"data"},{"LOWER":"processing"}]}
+{"label":"Technical","pattern":[{"LOWER":"data"},{"LOWER":"quality"}]}
+{"label":"Technical","pattern":[{"LOWER":"data"},{"LOWER":"reduction"}]}
+{"label":"Technical","pattern":[{"LOWER":"data"},{"LOWER":"retrieval"}]}
+{"label":"Technical","pattern":[{"LOWER":"data"},{"LOWER":"science"}]}
+{"label":"Technical","pattern":[{"LOWER":"data"},{"LOWER":"science"},{"LOWER":"notebooks"}]}
+{"label":"Technical","pattern":[{"LOWER":"data"},{"LOWER":"science"},{"LOWER":"tools"}]}
+{"label":"Technical","pattern":[{"LOWER":"data"},{"LOWER":"sharing"}]}
+{"label":"Technical","pattern":[{"LOWER":"data"},{"LOWER":"stores"}]}
+{"label":"Technical","pattern":[{"LOWER":"data"},{"LOWER":"stream"}]}
+{"label":"Technical","pattern":[{"LOWER":"data"},{"LOWER":"stream"},{"LOWER":"mining"}]}
+{"label":"Technical","pattern":[{"LOWER":"data"},{"LOWER":"structure"}]}
+{"label":"Technical","pattern":[{"LOWER":"data"},{"LOWER":"structures"}]}
+{"label":"Technical","pattern":[{"LOWER":"data"},{"LOWER":"system"}]}
+{"label":"Technical","pattern":[{"LOWER":"data"},{"LOWER":"transmission"}]}
+{"label":"Technical","pattern":[{"LOWER":"data"},{"LOWER":"type"}]}
+{"label":"Technical","pattern":[{"LOWER":"data"},{"LOWER":"validation"}]}
+{"label":"Technical","pattern":[{"LOWER":"data"},{"LOWER":"visualization"}]}
+{"label":"Technical","pattern":[{"LOWER":"data"},{"LOWER":"warehouse"}]}
+{"label":"Technical","pattern":[{"LOWER":"database"}]}
+{"label":"Technical","pattern":[{"LOWER":"database"},{"LOWER":"design"}]}
+{"label":"Technical","pattern":[{"LOWER":"database"},{"LOWER":"security"}]}
+{"label":"Technical","pattern":[{"LOWER":"database"},{"LOWER":"tools"}]}
+{"label":"Technical","pattern":[{"LOWER":"database"},{"LOWER":"transaction"}]}
+{"label":"Technical","pattern":[{"LOWER":"databases"}]}
+{"label":"Technical","pattern":[{"LOWER":"datadog"}]}
+{"label":"Technical","pattern":[{"LOWER":"datalog"}]}
+{"label":"Technical","pattern":[{"TEXT":"DC/OS"}]}
+{"label":"Technical","pattern":[{"LOWER":"dc"},{"LOWER":"os"}]}
+{"label":"Technical","pattern":[{"LOWER":"deadlock"}]}
+{"label":"Technical","pattern":[{"LOWER":"debian"}]}
+{"label":"Technical","pattern":[{"LOWER":"debugging"}]}
+{"label":"Technical","pattern":[{"LOWER":"decidability"}]}
+{"label":"Technical","pattern":[{"LOWER":"decision"},{"LOWER":"problem"}]}
+{"label":"Technical","pattern":[{"LOWER":"decision"},{"LOWER":"rule"}]}
+{"label":"Technical","pattern":[{"LOWER":"decision"},{"LOWER":"support"},{"LOWER":"system"}]}
+{"label":"Technical","pattern":[{"LOWER":"decision"},{"LOWER":"tree"}]}
+{"label":"Technical","pattern":[{"LOWER":"deco"}]}
+{"label":"Technical","pattern":[{"LOWER":"decomposition"},{"LOWER":"method"},{"LOWER":"constraint"},{"LOWER":"satisfaction"}]}
+{"label":"Technical","pattern":[{"LOWER":"dedicated"},{"LOWER":"cloud"},{"LOWER":"hosting"}]}
+{"label":"Technical","pattern":[{"LOWER":"deductive"},{"LOWER":"database"}]}
+{"label":"Technical","pattern":[{"LOWER":"deep"},{"LOWER":"learning"}]}
+{"label":"Technical","pattern":[{"LOWER":"dempster\u2013shafer"},{"LOWER":"theory"}]}
+{"label":"Technical","pattern":[{"LOWER":"denial-of-service"},{"LOWER":"attack"}]}
+{"label":"Technical","pattern":[{"LOWER":"denial"},{"LOWER":"of"},{"LOWER":"service attack"}]}
+{"label":"Technical","pattern":[{"LOWER":"deontic"},{"LOWER":"logic"}]}
+{"label":"Technical","pattern":[{"LOWER":"dependency"},{"LOWER":"management"}]}
+{"label":"Technical","pattern":[{"LOWER":"dependency"},{"LOWER":"monitoring"}]}
+{"label":"Technical","pattern":[{"LOWER":"deploybot"}]}
+{"label":"Technical","pattern":[{"LOWER":"deployment"}]}
+{"label":"Technical","pattern":[{"LOWER":"deployment"},{"LOWER":"as"},{"LOWER":"a"},{"LOWER":"service"}]}
+{"label":"Technical","pattern":[{"LOWER":"description"},{"LOWER":"logic"}]}
+{"label":"Technical","pattern":[{"LOWER":"design"}]}
+{"label":"Technical","pattern":[{"LOWER":"design"},{"LOWER":"for"},{"LOWER":"testing"}]}
+{"label":"Technical","pattern":[{"LOWER":"detection"},{"LOWER":"theory"}]}
+{"label":"Technical","pattern":[{"LOWER":"deterministic"},{"LOWER":"automaton"}]}
+{"label":"Technical","pattern":[{"LOWER":"devdocs"}]}
+{"label":"Technical","pattern":[{"LOWER":"devise"}]}
+{"label":"Technical","pattern":[{"LOWER":"devops"}]}
+{"label":"Technical","pattern":[{"LOWER":"diagram"}]}
+{"label":"Technical","pattern":[{"LOWER":"digital"},{"LOWER":"filter"}]}
+{"label":"Technical","pattern":[{"LOWER":"digital"},{"LOWER":"radio"}]}
+{"label":"Technical","pattern":[{"LOWER":"digital"},{"LOWER":"signal"},{"LOWER":"processing"}]}
+{"label":"Technical","pattern":[{"LOWER":"digital"},{"LOWER":"signature"}]}
+{"label":"Technical","pattern":[{"LOWER":"digital"},{"LOWER":"subscriber"},{"LOWER":"line"}]}
+{"label":"Technical","pattern":[{"LOWER":"digitalocean"}]}
+{"label":"Technical","pattern":[{"LOWER":"dijkstra's"},{"LOWER":"algorithm"}]}
+{"label":"Technical","pattern":[{"LOWER":"dimensionality"},{"LOWER":"reduction"}]}
+{"label":"Technical","pattern":[{"LOWER":"directed"},{"LOWER":"graph"}]}
+{"label":"Technical","pattern":[{"LOWER":"discrete"},{"LOWER":"cosine"},{"LOWER":"transform"}]}
+{"label":"Technical","pattern":[{"LOWER":"discrete"},{"LOWER":"event"},{"LOWER":"simulation"}]}
+{"label":"Technical","pattern":[{"LOWER":"discrete"},{"LOWER":"logarithm"}]}
+{"label":"Technical","pattern":[{"LOWER":"discrete"},{"LOWER":"system"}]}
+{"label":"Technical","pattern":[{"LOWER":"discriminative"},{"LOWER":"model"}]}
+{"label":"Technical","pattern":[{"LOWER":"disjunctive"},{"LOWER":"normal"},{"LOWER":"form"}]}
+{"label":"Technical","pattern":[{"LOWER":"display"},{"LOWER":"device"}]}
+{"label":"Technical","pattern":[{"LOWER":"disqus"}]}
+{"label":"Technical","pattern":[{"LOWER":"distance"},{"LOWER":"transform"}]}
+{"label":"Technical","pattern":[{"LOWER":"distributed"},{"LOWER":"algorithm"}]}
+{"label":"Technical","pattern":[{"LOWER":"distributed"},{"LOWER":"computing"}]}
+{"label":"Technical","pattern":[{"LOWER":"distributed"},{"LOWER":"computing"},{"LOWER":"environment"}]}
+{"label":"Technical","pattern":[{"LOWER":"distributed"},{"LOWER":"data"},{"LOWER":"store"}]}
+{"label":"Technical","pattern":[{"LOWER":"distributed"},{"LOWER":"database"}]}
+{"label":"Technical","pattern":[{"LOWER":"distributed"},{"LOWER":"file"},{"LOWER":"system"}]}
+{"label":"Technical","pattern":[{"LOWER":"distributed"},{"LOWER":"memory"}]}
+{"label":"Technical","pattern":[{"LOWER":"distributed"},{"LOWER":"object"}]}
+{"label":"Technical","pattern":[{"LOWER":"divide"},{"LOWER":"and"},{"LOWER":"conquer"},{"LOWER":"algorithms"}]}
+{"label":"Technical","pattern":[{"LOWER":"django"}]}
+{"label":"Technical","pattern":[{"LOWER":"django"},{"LOWER":"rest"},{"LOWER":"framework"}]}
+{"label":"Technical","pattern":[{"LOWER":"dns"},{"LOWER":"management"}]}
+{"label":"Technical","pattern":[{"LOWER":"dnsimple"}]}
+{"label":"Technical","pattern":[{"LOWER":"docker"}]}
+{"label":"Technical","pattern":[{"LOWER":"docker"},{"LOWER":"cloud"}]}
+{"label":"Technical","pattern":[{"LOWER":"docker"},{"LOWER":"compose"}]}
+{"label":"Technical","pattern":[{"LOWER":"docker"},{"LOWER":"for"},{"LOWER":"aws"}]}
+{"label":"Technical","pattern":[{"LOWER":"docker"},{"LOWER":"machine"}]}
+{"label":"Technical","pattern":[{"LOWER":"docker"},{"LOWER":"swarm"}]}
+{"label":"Technical","pattern":[{"LOWER":"doctrine"},{"LOWER":"2"}]}
+{"label":"Technical","pattern":[{"LOWER":"document"},{"LOWER":"classification"}]}
+{"label":"Technical","pattern":[{"LOWER":"document"},{"LOWER":"collaboration"}]}
+{"label":"Technical","pattern":[{"LOWER":"document"},{"LOWER":"layout"},{"LOWER":"analysis"}]}
+{"label":"Technical","pattern":[{"LOWER":"document"},{"LOWER":"management"},{"LOWER":"system"}]}
+{"label":"Technical","pattern":[{"LOWER":"document"},{"LOWER":"processing"}]}
+{"label":"Technical","pattern":[{"LOWER":"document"},{"LOWER":"retrieval"}]}
+{"label":"Technical","pattern":[{"LOWER":"document"},{"LOWER":"signature"}]}
+{"label":"Technical","pattern":[{"LOWER":"documentation"}]}
+{"label":"Technical","pattern":[{"LOWER":"documentation"},{"LOWER":"as"},{"LOWER":"a"},{"LOWER":"service"},{"LOWER":"&"},{"LOWER":"tools"}]}
+{"label":"Technical","pattern":[{"LOWER":"dokku"}]}
+{"label":"Technical","pattern":[{"LOWER":"domain"},{"LOWER":"knowledge"}]}
+{"label":"Technical","pattern":[{"LOWER":"domain"},{"LOWER":"model"}]}
+{"label":"Technical","pattern":[{"LOWER":"domain"},{"LOWER":"registration"}]}
+{"label":"Technical","pattern":[{"TEXT":".NET"}]}
+{"label":"Technical","pattern":[{"LOWER":""},{"LOWER":"net"}]}
+{"label":"Technical","pattern":[{"LOWER":"drone.io"}]}
+{"label":"Technical","pattern":[{"LOWER":"drone"},{"LOWER":"io"}]}
+{"label":"Technical","pattern":[{"LOWER":"dropbox"}]}
+{"label":"Technical","pattern":[{"LOWER":"dropwizard"}]}
+{"label":"Technical","pattern":[{"LOWER":"druid"}]}
+{"label":"Technical","pattern":[{"LOWER":"drupal"}]}
+{"label":"Technical","pattern":[{"LOWER":"duplicate"},{"LOWER":"content"}]}
+{"label":"Technical","pattern":[{"LOWER":"durability"}]}
+{"label":"Technical","pattern":[{"LOWER":"dyn"}]}
+{"label":"Technical","pattern":[{"LOWER":"dynamic"},{"LOWER":"data"}]}
+{"label":"Technical","pattern":[{"LOWER":"dynamic"},{"LOWER":"loading"}]}
+{"label":"Technical","pattern":[{"LOWER":"dynamic"},{"LOWER":"programming"}]}
+{"label":"Technical","pattern":[{"LOWER":"dynamic"},{"LOWER":"range"}]}
+{"label":"Technical","pattern":[{"LOWER":"dynamic"},{"LOWER":"source"},{"LOWER":"routing"}]}
+{"label":"Technical","pattern":[{"LOWER":"dynamic"},{"LOWER":"testing"}]}
+{"label":"Technical","pattern":[{"LOWER":"dynamic"},{"LOWER":"time"},{"LOWER":"warping"}]}
+{"label":"Technical","pattern":[{"LOWER":"echo"}]}
+{"label":"Technical","pattern":[{"LOWER":"eclipse"}]}
+{"label":"Technical","pattern":[{"LOWER":"ecommerce"}]}
+{"label":"Technical","pattern":[{"LOWER":"econometric"},{"LOWER":"model"}]}
+{"label":"Technical","pattern":[{"LOWER":"economic"},{"LOWER":"policy"}]}
+{"label":"Technical","pattern":[{"LOWER":"edit"},{"LOWER":"distance"}]}
+{"label":"Technical","pattern":[{"LOWER":"elasticsearch"}]}
+{"label":"Technical","pattern":[{"LOWER":"electrical"},{"LOWER":"engineering"}]}
+{"label":"Technical","pattern":[{"LOWER":"electroencephalography"}]}
+{"label":"Technical","pattern":[{"LOWER":"electron"}]}
+{"label":"Technical","pattern":[{"LOWER":"electronic"},{"LOWER":"data"},{"LOWER":"interchange"}]}
+{"label":"Technical","pattern":[{"LOWER":"electronic"},{"LOWER":"document"}]}
+{"label":"Technical","pattern":[{"LOWER":"electronic"},{"LOWER":"engineering"}]}
+{"label":"Technical","pattern":[{"LOWER":"elixir"}]}
+{"label":"Technical","pattern":[{"LOWER":"elm"}]}
+{"label":"Technical","pattern":[{"LOWER":"emacs"}]}
+{"label":"Technical","pattern":[{"LOWER":"email"},{"LOWER":"marketing"}]}
+{"label":"Technical","pattern":[{"LOWER":"email"},{"LOWER":"testing"}]}
+{"label":"Technical","pattern":[{"LOWER":"embedded"},{"LOWER":"system"}]}
+{"label":"Technical","pattern":[{"LOWER":"ember"}]}
+{"label":"Technical","pattern":[{"LOWER":"ember.js"}]}
+{"label":"Technical","pattern":[{"LOWER":"ember"},{"LOWER":"js"}]}
+{"label":"Technical","pattern":[{"LOWER":"emoji"}]}
+{"label":"Technical","pattern":[{"LOWER":"emotion"}]}
+{"label":"Technical","pattern":[{"LOWER":"emotion"},{"LOWER":"recognition"}]}
+{"label":"Technical","pattern":[{"LOWER":"emulator"}]}
+{"label":"Technical","pattern":[{"LOWER":"encoding"},{"LOWER":"memory"}]}
+{"label":"Technical","pattern":[{"LOWER":"encryption"}]}
+{"label":"Technical","pattern":[{"LOWER":"engagement/lifecycle"},{"LOWER":"marketing"}]}
+{"label":"Technical","pattern":[{"LOWER":"engagement"},{"LOWER":"lifecycle marketing"}]}
+{"label":"Technical","pattern":[{"LOWER":"engineering"}]}
+{"label":"Technical","pattern":[{"LOWER":"engineering"},{"LOWER":"drawing"}]}
+{"label":"Technical","pattern":[{"LOWER":"engineering"},{"LOWER":"ethics"}]}
+{"label":"Technical","pattern":[{"LOWER":"ensemble"},{"LOWER":"learning"}]}
+{"label":"Technical","pattern":[{"LOWER":"enterprise"},{"LOWER":"information"},{"LOWER":"security"},{"LOWER":"architecture"}]}
+{"label":"Technical","pattern":[{"LOWER":"enterprise"},{"LOWER":"system"}]}
+{"label":"Technical","pattern":[{"LOWER":"entity\u2013relationship"},{"LOWER":"model"}]}
+{"label":"Technical","pattern":[{"LOWER":"environmental"},{"LOWER":"engineering"}]}
+{"label":"Technical","pattern":[{"LOWER":"enzyme"}]}
+{"label":"Technical","pattern":[{"LOWER":"erasure"},{"LOWER":"code"}]}
+{"label":"Technical","pattern":[{"LOWER":"erlang"}]}
+{"label":"Technical","pattern":[{"LOWER":"error"},{"LOWER":"concealment"}]}
+{"label":"Technical","pattern":[{"LOWER":"error"},{"LOWER":"detection"},{"LOWER":"and"},{"LOWER":"correction"}]}
+{"label":"Technical","pattern":[{"LOWER":"errors-in-variables"},{"LOWER":"models"}]}
+{"label":"Technical","pattern":[{"LOWER":"errors"},{"LOWER":"in"},{"LOWER":"variables models"}]}
+{"label":"Technical","pattern":[{"TEXT":"ES6"}]}
+{"label":"Technical","pattern":[{"LOWER":"eslint"}]}
+{"label":"Technical","pattern":[{"TEXT":"ESPACE"}]}
+{"label":"Technical","pattern":[{"LOWER":"etcd"}]}
+{"label":"Technical","pattern":[{"LOWER":"ethereum"}]}
+{"label":"Technical","pattern":[{"LOWER":"ethernet"}]}
+{"label":"Technical","pattern":[{"LOWER":"euclidean"},{"LOWER":"distance"}]}
+{"label":"Technical","pattern":[{"LOWER":"eureka"}]}
+{"label":"Technical","pattern":[{"LOWER":"evolutionary"},{"LOWER":"algorithm"}]}
+{"label":"Technical","pattern":[{"LOWER":"exact"},{"LOWER":"algorithm"}]}
+{"label":"Technical","pattern":[{"LOWER":"exception"},{"LOWER":"monitoring"}]}
+{"label":"Technical","pattern":[{"LOWER":"expander"},{"LOWER":"graph"}]}
+{"label":"Technical","pattern":[{"LOWER":"expectation\u2013maximization"},{"LOWER":"algorithm"}]}
+{"label":"Technical","pattern":[{"LOWER":"expert"},{"LOWER":"system"}]}
+{"label":"Technical","pattern":[{"LOWER":"exploratory"},{"LOWER":"data"},{"LOWER":"analysis"}]}
+{"label":"Technical","pattern":[{"LOWER":"express"},{"LOWER":"js"}]}
+{"label":"Technical","pattern":[{"LOWER":"expressjs"}]}
+{"label":"Technical","pattern":[{"LOWER":"external"},{"LOWER":"data"},{"LOWER":"representation"}]}
+{"label":"Technical","pattern":[{"LOWER":"eye"},{"LOWER":"movement"}]}
+{"label":"Technical","pattern":[{"LOWER":"eye"},{"LOWER":"tracking"}]}
+{"label":"Technical","pattern":[{"TEXT":"F#"}]}
+{"label":"Technical","pattern":[{"LOWER":"fabric"}]}
+{"label":"Technical","pattern":[{"LOWER":"fabric"},{"LOWER":"by"},{"LOWER":"twitter"}]}
+{"label":"Technical","pattern":[{"LOWER":"faceted"},{"LOWER":"classification"}]}
+{"label":"Technical","pattern":[{"LOWER":"faceted"},{"LOWER":"search"}]}
+{"label":"Technical","pattern":[{"LOWER":"facial"},{"LOWER":"expression"}]}
+{"label":"Technical","pattern":[{"LOWER":"facial"},{"LOWER":"recognition"},{"LOWER":"system"}]}
+{"label":"Technical","pattern":[{"LOWER":"factorial"},{"LOWER":"experiment"}]}
+{"label":"Technical","pattern":[{"LOWER":"false"},{"LOWER":"positive"},{"LOWER":"rate"}]}
+{"label":"Technical","pattern":[{"LOWER":"fast"},{"LOWER":"fourier"},{"LOWER":"transform"}]}
+{"label":"Technical","pattern":[{"LOWER":"fastlane"}]}
+{"label":"Technical","pattern":[{"LOWER":"fastly"}]}
+{"label":"Technical","pattern":[{"LOWER":"fault"},{"LOWER":"model"}]}
+{"label":"Technical","pattern":[{"LOWER":"fault"},{"LOWER":"tolerance"}]}
+{"label":"Technical","pattern":[{"LOWER":"feathersjs"}]}
+{"label":"Technical","pattern":[{"LOWER":"feature"},{"LOWER":"detection"}]}
+{"label":"Technical","pattern":[{"LOWER":"feature"},{"LOWER":"extraction"}]}
+{"label":"Technical","pattern":[{"LOWER":"feature"},{"LOWER":"selection"}]}
+{"label":"Technical","pattern":[{"LOWER":"feature"},{"LOWER":"vector"}]}
+{"label":"Technical","pattern":[{"LOWER":"fedora"}]}
+{"label":"Technical","pattern":[{"TEXT":"FFMPEG"}]}
+{"label":"Technical","pattern":[{"LOWER":"field"},{"LOWER":"of"},{"LOWER":"view"}]}
+{"label":"Technical","pattern":[{"LOWER":"field-programmable"},{"LOWER":"gate"},{"LOWER":"array"}]}
+{"label":"Technical","pattern":[{"LOWER":"field"},{"LOWER":"programmable gate array"}]}
+{"label":"Technical","pattern":[{"LOWER":"figma"}]}
+{"label":"Technical","pattern":[{"LOWER":"figure"},{"LOWER":"of"},{"LOWER":"merit"}]}
+{"label":"Technical","pattern":[{"LOWER":"file"},{"LOWER":"format"}]}
+{"label":"Technical","pattern":[{"LOWER":"file"},{"LOWER":"storage"}]}
+{"label":"Technical","pattern":[{"LOWER":"file"},{"LOWER":"system"}]}
+{"label":"Technical","pattern":[{"LOWER":"file"},{"LOWER":"uploads"}]}
+{"label":"Technical","pattern":[{"LOWER":"filestack"}]}
+{"label":"Technical","pattern":[{"LOWER":"filter"},{"LOWER":"signal"},{"LOWER":"processing"}]}
+{"label":"Technical","pattern":[{"LOWER":"finagle"}]}
+{"label":"Technical","pattern":[{"LOWER":"finance"}]}
+{"label":"Technical","pattern":[{"LOWER":"financial"},{"LOWER":"system"}]}
+{"label":"Technical","pattern":[{"LOWER":"findability"}]}
+{"label":"Technical","pattern":[{"LOWER":"fingerprint"}]}
+{"label":"Technical","pattern":[{"LOWER":"fingerprint"},{"LOWER":"recognition"}]}
+{"label":"Technical","pattern":[{"LOWER":"finite-state"},{"LOWER":"machine"}]}
+{"label":"Technical","pattern":[{"LOWER":"finite"},{"LOWER":"state machine"}]}
+{"label":"Technical","pattern":[{"LOWER":"firebase"}]}
+{"label":"Technical","pattern":[{"LOWER":"firefox"}]}
+{"label":"Technical","pattern":[{"LOWER":"first"},{"LOWER":"class"}]}
+{"label":"Technical","pattern":[{"LOWER":"first-order"},{"LOWER":"logic"}]}
+{"label":"Technical","pattern":[{"LOWER":"first"},{"LOWER":"order logic"}]}
+{"label":"Technical","pattern":[{"LOWER":"flash"},{"LOWER":"memory"}]}
+{"label":"Technical","pattern":[{"LOWER":"flask"}]}
+{"label":"Technical","pattern":[{"LOWER":"flat"},{"LOWER":"panel"},{"LOWER":"display"}]}
+{"label":"Technical","pattern":[{"LOWER":"flip-flop"}]}
+{"label":"Technical","pattern":[{"LOWER":"flip"},{"LOWER":"flop"}]}
+{"label":"Technical","pattern":[{"LOWER":"floating"},{"LOWER":"point"}]}
+{"label":"Technical","pattern":[{"LOWER":"flow"},{"LOWER":"control"},{"LOWER":"data"}]}
+{"label":"Technical","pattern":[{"LOWER":"flow"},{"LOWER":"type"}]}
+{"label":"Technical","pattern":[{"LOWER":"fluentd"}]}
+{"label":"Technical","pattern":[{"LOWER":"flurry"}]}
+{"label":"Technical","pattern":[{"LOWER":"flutter"}]}
+{"label":"Technical","pattern":[{"LOWER":"flux"}]}
+{"label":"Technical","pattern":[{"LOWER":"flyway"}]}
+{"label":"Technical","pattern":[{"LOWER":"folksonomy"}]}
+{"label":"Technical","pattern":[{"LOWER":"font"}]}
+{"label":"Technical","pattern":[{"LOWER":"forensic"},{"LOWER":"engineering"}]}
+{"label":"Technical","pattern":[{"LOWER":"formal"},{"LOWER":"concept"},{"LOWER":"analysis"}]}
+{"label":"Technical","pattern":[{"LOWER":"formal"},{"LOWER":"language"}]}
+{"label":"Technical","pattern":[{"LOWER":"formal"},{"LOWER":"methods"}]}
+{"label":"Technical","pattern":[{"LOWER":"formal"},{"LOWER":"specification"}]}
+{"label":"Technical","pattern":[{"LOWER":"formal"},{"LOWER":"verification"}]}
+{"label":"Technical","pattern":[{"LOWER":"fortran"}]}
+{"label":"Technical","pattern":[{"LOWER":"forums"}]}
+{"label":"Technical","pattern":[{"TEXT":"FOSSA"}]}
+{"label":"Technical","pattern":[{"LOWER":"fragmentation"},{"LOWER":"computing"}]}
+{"label":"Technical","pattern":[{"LOWER":"framer"}]}
+{"label":"Technical","pattern":[{"LOWER":"framework"}]}
+{"label":"Technical","pattern":[{"LOWER":"framework7"}]}
+{"label":"Technical","pattern":[{"LOWER":"frameworks"},{"LOWER":"full"},{"LOWER":"stack"}]}
+{"label":"Technical","pattern":[{"LOWER":"frequency"},{"LOWER":"analysis"}]}
+{"label":"Technical","pattern":[{"LOWER":"frequency"},{"LOWER":"domain"}]}
+{"label":"Technical","pattern":[{"LOWER":"front"},{"LOWER":"and"},{"LOWER":"back"},{"LOWER":"ends"}]}
+{"label":"Technical","pattern":[{"LOWER":"front-end"},{"LOWER":"frameworks"}]}
+{"label":"Technical","pattern":[{"LOWER":"front"},{"LOWER":"end frameworks"}]}
+{"label":"Technical","pattern":[{"LOWER":"front"},{"LOWER":"end"},{"LOWER":"package"},{"LOWER":"manager"}]}
+{"label":"Technical","pattern":[{"LOWER":"front"},{"LOWER":"end"}]}
+{"label":"Technical","pattern":[{"LOWER":"fullstory"}]}
+{"label":"Technical","pattern":[{"LOWER":"functional"},{"LOWER":"dependency"}]}
+{"label":"Technical","pattern":[{"LOWER":"functional"},{"LOWER":"programming"}]}
+{"label":"Technical","pattern":[{"LOWER":"functional"},{"LOWER":"testing"}]}
+{"label":"Technical","pattern":[{"LOWER":"funnel"},{"LOWER":"analysis"},{"LOWER":"analytics"}]}
+{"label":"Technical","pattern":[{"LOWER":"fusion"}]}
+{"label":"Technical","pattern":[{"LOWER":"fuzzy"},{"LOWER":"logic"}]}
+{"label":"Technical","pattern":[{"LOWER":"g"},{"LOWER":"suite"}]}
+{"label":"Technical","pattern":[{"LOWER":"game"},{"LOWER":"development"}]}
+{"label":"Technical","pattern":[{"LOWER":"game"},{"LOWER":"engine"}]}
+{"label":"Technical","pattern":[{"LOWER":"garbage"},{"LOWER":"collection"}]}
+{"label":"Technical","pattern":[{"LOWER":"gatling"}]}
+{"label":"Technical","pattern":[{"LOWER":"gatsby"}]}
+{"label":"Technical","pattern":[{"LOWER":"gauges"}]}
+{"label":"Technical","pattern":[{"LOWER":"gaussian"},{"LOWER":"noise"}]}
+{"label":"Technical","pattern":[{"LOWER":"gaussian"},{"LOWER":"process"}]}
+{"label":"Technical","pattern":[{"LOWER":"gearman"}]}
+{"label":"Technical","pattern":[{"LOWER":"geckoboard"}]}
+{"label":"Technical","pattern":[{"LOWER":"general"},{"LOWER":"analytics"}]}
+{"label":"Technical","pattern":[{"LOWER":"generalization"},{"LOWER":"error"}]}
+{"label":"Technical","pattern":[{"LOWER":"generalized"},{"LOWER":"linear"},{"LOWER":"model"}]}
+{"label":"Technical","pattern":[{"LOWER":"genetic"},{"LOWER":"algorithm"}]}
+{"label":"Technical","pattern":[{"LOWER":"geographic"},{"LOWER":"information"},{"LOWER":"retrieval"}]}
+{"label":"Technical","pattern":[{"LOWER":"geometric"},{"LOWER":"modeling"}]}
+{"label":"Technical","pattern":[{"LOWER":"geoparsing"}]}
+{"label":"Technical","pattern":[{"LOWER":"geospatial"},{"LOWER":"analysis"}]}
+{"label":"Technical","pattern":[{"LOWER":"geotagging"}]}
+{"label":"Technical","pattern":[{"LOWER":"geotechnical"},{"LOWER":"engineering"}]}
+{"label":"Technical","pattern":[{"LOWER":"gerrit"},{"LOWER":"code"},{"LOWER":"review"}]}
+{"label":"Technical","pattern":[{"LOWER":"gist"}]}
+{"label":"Technical","pattern":[{"LOWER":"git"}]}
+{"label":"Technical","pattern":[{"LOWER":"git"},{"LOWER":"tools"}]}
+{"label":"Technical","pattern":[{"LOWER":"gitbucket"}]}
+{"label":"Technical","pattern":[{"LOWER":"github"}]}
+{"label":"Technical","pattern":[{"LOWER":"github"},{"LOWER":"api"}]}
+{"label":"Technical","pattern":[{"LOWER":"github"},{"LOWER":"enterprise"}]}
+{"label":"Technical","pattern":[{"LOWER":"github"},{"LOWER":"pages"}]}
+{"label":"Technical","pattern":[{"LOWER":"gitkraken"}]}
+{"label":"Technical","pattern":[{"LOWER":"gitlab"}]}
+{"label":"Technical","pattern":[{"LOWER":"gitlab"},{"LOWER":"ci"}]}
+{"label":"Technical","pattern":[{"LOWER":"gitlab"},{"LOWER":"pages"}]}
+{"label":"Technical","pattern":[{"LOWER":"gluon"}]}
+{"label":"Technical","pattern":[{"LOWER":"gnu"},{"LOWER":"bash"}]}
+{"label":"Technical","pattern":[{"LOWER":"go.cd"}]}
+{"label":"Technical","pattern":[{"LOWER":"go"},{"LOWER":"cd"}]}
+{"label":"Technical","pattern":[{"LOWER":"godaddy"}]}
+{"label":"Technical","pattern":[{"LOWER":"gogs"}]}
+{"label":"Technical","pattern":[{"LOWER":"goodness"},{"LOWER":"of"},{"LOWER":"fit"}]}
+{"label":"Technical","pattern":[{"LOWER":"google"}]}
+{"label":"Technical","pattern":[{"LOWER":"google"},{"LOWER":"analytics"}]}
+{"label":"Technical","pattern":[{"LOWER":"google"},{"LOWER":"app"},{"LOWER":"engine"}]}
+{"label":"Technical","pattern":[{"LOWER":"google"},{"LOWER":"app"},{"LOWER":"maker"}]}
+{"label":"Technical","pattern":[{"LOWER":"google"},{"LOWER":"bigquery"}]}
+{"label":"Technical","pattern":[{"LOWER":"google"},{"LOWER":"cloud"},{"LOWER":"bigtable"}]}
+{"label":"Technical","pattern":[{"LOWER":"google"},{"LOWER":"cloud"},{"LOWER":"container"},{"LOWER":"builder"}]}
+{"label":"Technical","pattern":[{"LOWER":"google"},{"LOWER":"cloud"},{"LOWER":"dataflow"}]}
+{"label":"Technical","pattern":[{"LOWER":"google"},{"LOWER":"cloud"},{"LOWER":"datastore"}]}
+{"label":"Technical","pattern":[{"LOWER":"google"},{"LOWER":"cloud"},{"LOWER":"dns"}]}
+{"label":"Technical","pattern":[{"LOWER":"google"},{"LOWER":"cloud"},{"LOWER":"functions"}]}
+{"label":"Technical","pattern":[{"LOWER":"google"},{"LOWER":"cloud"},{"LOWER":"memorystore"}]}
+{"label":"Technical","pattern":[{"LOWER":"google"},{"LOWER":"cloud"},{"LOWER":"messaging"}]}
+{"label":"Technical","pattern":[{"LOWER":"google"},{"LOWER":"cloud"},{"LOWER":"pub/sub"}]}
+{"label":"Technical","pattern":[{"LOWER":"google cloud pub"},{"LOWER":"sub"}]}
+{"label":"Technical","pattern":[{"LOWER":"google"},{"LOWER":"cloud"},{"LOWER":"sql"}]}
+{"label":"Technical","pattern":[{"LOWER":"google"},{"LOWER":"cloud"},{"LOWER":"storage"}]}
+{"label":"Technical","pattern":[{"LOWER":"google"},{"LOWER":"cloud"},{"LOWER":"vision"},{"LOWER":"api"}]}
+{"label":"Technical","pattern":[{"LOWER":"google"},{"LOWER":"compute"},{"LOWER":"engine"}]}
+{"label":"Technical","pattern":[{"LOWER":"google"},{"LOWER":"drive"}]}
+{"label":"Technical","pattern":[{"LOWER":"google"},{"LOWER":"kubernetes"},{"LOWER":"engine"}]}
+{"label":"Technical","pattern":[{"LOWER":"google"},{"LOWER":"maps"}]}
+{"label":"Technical","pattern":[{"LOWER":"google"},{"LOWER":"scholar"},{"LOWER":"and"},{"LOWER":"academic"},{"LOWER":"libraries"}]}
+{"label":"Technical","pattern":[{"LOWER":"google"},{"LOWER":"sheets"}]}
+{"label":"Technical","pattern":[{"LOWER":"google"},{"LOWER":"tag"},{"LOWER":"manager"}]}
+{"label":"Technical","pattern":[{"LOWER":"gradient"},{"LOWER":"descent"}]}
+{"label":"Technical","pattern":[{"LOWER":"gradle"}]}
+{"label":"Technical","pattern":[{"LOWER":"grafana"}]}
+{"label":"Technical","pattern":[{"LOWER":"grails"}]}
+{"label":"Technical","pattern":[{"LOWER":"grape"}]}
+{"label":"Technical","pattern":[{"LOWER":"graph"},{"LOWER":"databases"}]}
+{"label":"Technical","pattern":[{"LOWER":"graphic"},{"LOWER":"design"}]}
+{"label":"Technical","pattern":[{"LOWER":"graphical"},{"LOWER":"model"}]}
+{"label":"Technical","pattern":[{"LOWER":"graphical"},{"LOWER":"user"},{"LOWER":"interface"}]}
+{"label":"Technical","pattern":[{"LOWER":"graphite"}]}
+{"label":"Technical","pattern":[{"LOWER":"graphql"}]}
+{"label":"Technical","pattern":[{"LOWER":"greedy"},{"LOWER":"algorithm"}]}
+{"label":"Technical","pattern":[{"LOWER":"groovy"}]}
+{"label":"Technical","pattern":[{"LOWER":"ground"},{"LOWER":"truth"}]}
+{"label":"Technical","pattern":[{"LOWER":"group"},{"LOWER":"chat"},{"LOWER":"&"},{"LOWER":"notifications"}]}
+{"label":"Technical","pattern":[{"LOWER":"growbag"}]}
+{"label":"Technical","pattern":[{"LOWER":"grpc"}]}
+{"label":"Technical","pattern":[{"LOWER":"grunt"}]}
+{"label":"Technical","pattern":[{"TEXT":"GSM"}]}
+{"label":"Technical","pattern":[{"TEXT":"GTP'"}]}
+{"label":"Technical","pattern":[{"LOWER":"gulp"}]}
+{"label":"Technical","pattern":[{"LOWER":"gulp"}]}
+{"label":"Technical","pattern":[{"LOWER":"gunicorn"}]}
+{"label":"Technical","pattern":[{"LOWER":"guzzle"}]}
+{"label":"Technical","pattern":[{"LOWER":"hadoop"}]}
+{"label":"Technical","pattern":[{"TEXT":"HAML"}]}
+{"label":"Technical","pattern":[{"LOWER":"handlebars.js"}]}
+{"label":"Technical","pattern":[{"LOWER":"handlebars"},{"LOWER":"js"}]}
+{"label":"Technical","pattern":[{"LOWER":"handover"}]}
+{"label":"Technical","pattern":[{"LOWER":"hapi"}]}
+{"label":"Technical","pattern":[{"LOWER":"haproxy"}]}
+{"label":"Technical","pattern":[{"LOWER":"haptic"},{"LOWER":"technology"}]}
+{"label":"Technical","pattern":[{"LOWER":"hash"},{"LOWER":"function"}]}
+{"label":"Technical","pattern":[{"LOWER":"haskell"}]}
+{"label":"Technical","pattern":[{"LOWER":"hasura"}]}
+{"label":"Technical","pattern":[{"LOWER":"hazelcast"}]}
+{"label":"Technical","pattern":[{"LOWER":"hbase"}]}
+{"label":"Technical","pattern":[{"LOWER":"headless"},{"LOWER":"browsers"}]}
+{"label":"Technical","pattern":[{"LOWER":"heap"}]}
+{"label":"Technical","pattern":[{"LOWER":"heap"},{"LOWER":"data"},{"LOWER":"structure"}]}
+{"label":"Technical","pattern":[{"LOWER":"heatmap"},{"LOWER":"analytics"}]}
+{"label":"Technical","pattern":[{"LOWER":"helm"}]}
+{"label":"Technical","pattern":[{"LOWER":"help"},{"LOWER":"desk"}]}
+{"label":"Technical","pattern":[{"LOWER":"heroku"}]}
+{"label":"Technical","pattern":[{"LOWER":"heroku"},{"LOWER":"ci"}]}
+{"label":"Technical","pattern":[{"LOWER":"heroku"},{"LOWER":"postgres"}]}
+{"label":"Technical","pattern":[{"LOWER":"heroku"},{"LOWER":"redis"}]}
+{"label":"Technical","pattern":[{"LOWER":"hetzner"},{"LOWER":"online"},{"LOWER":"ag"}]}
+{"label":"Technical","pattern":[{"LOWER":"hexo"}]}
+{"label":"Technical","pattern":[{"LOWER":"hhvm"},{"LOWER":"hiphop"},{"LOWER":"virtual"},{"LOWER":"machine"}]}
+{"label":"Technical","pattern":[{"LOWER":"hibernate"}]}
+{"label":"Technical","pattern":[{"LOWER":"hidden"},{"LOWER":"markov"},{"LOWER":"model"}]}
+{"label":"Technical","pattern":[{"LOWER":"hierarchical"},{"LOWER":"database"},{"LOWER":"model"}]}
+{"label":"Technical","pattern":[{"LOWER":"high"},{"LOWER":"availability"}]}
+{"label":"Technical","pattern":[{"LOWER":"high-level"},{"LOWER":"programming"},{"LOWER":"language"}]}
+{"label":"Technical","pattern":[{"LOWER":"high"},{"LOWER":"level programming language"}]}
+{"label":"Technical","pattern":[{"LOWER":"high-level"},{"LOWER":"synthesis"}]}
+{"label":"Technical","pattern":[{"LOWER":"high"},{"LOWER":"level synthesis"}]}
+{"label":"Technical","pattern":[{"LOWER":"highcharts"}]}
+{"label":"Technical","pattern":[{"LOWER":"higher-order"},{"LOWER":"statistics"}]}
+{"label":"Technical","pattern":[{"LOWER":"higher"},{"LOWER":"order statistics"}]}
+{"label":"Technical","pattern":[{"LOWER":"hilbert\u2013huang"},{"LOWER":"transform"}]}
+{"label":"Technical","pattern":[{"LOWER":"hipchat"}]}
+{"label":"Technical","pattern":[{"LOWER":"histogram"}]}
+{"label":"Technical","pattern":[{"LOWER":"hockeyapp"}]}
+{"label":"Technical","pattern":[{"LOWER":"hogan.js"}]}
+{"label":"Technical","pattern":[{"LOWER":"hogan"},{"LOWER":"js"}]}
+{"label":"Technical","pattern":[{"LOWER":"homebrew"}]}
+{"label":"Technical","pattern":[{"LOWER":"homebridge"}]}
+{"label":"Technical","pattern":[{"LOWER":"homogeneity"},{"LOWER":"statistics"}]}
+{"label":"Technical","pattern":[{"LOWER":"hosted"},{"LOWER":"blogging"},{"LOWER":"platforms"}]}
+{"label":"Technical","pattern":[{"LOWER":"hotjar"}]}
+{"label":"Technical","pattern":[{"LOWER":"hough"},{"LOWER":"transform"}]}
+{"label":"Technical","pattern":[{"TEXT":"HTML"}]}
+{"label":"Technical","pattern":[{"TEXT":"HTML5"}]}
+{"label":"Technical","pattern":[{"TEXT":"HTTP"}]}
+{"label":"Technical","pattern":[{"LOWER":"hubspot"}]}
+{"label":"Technical","pattern":[{"LOWER":"hugo"}]}
+{"label":"Technical","pattern":[{"LOWER":"human"},{"LOWER":"visual"},{"LOWER":"system"},{"LOWER":"model"}]}
+{"label":"Technical","pattern":[{"LOWER":"human\u2013computer"},{"LOWER":"information"},{"LOWER":"retrieval"}]}
+{"label":"Technical","pattern":[{"LOWER":"human\u2013computer"},{"LOWER":"interaction"}]}
+{"label":"Technical","pattern":[{"LOWER":"hybrid"},{"LOWER":"algorithm"}]}
+{"label":"Technical","pattern":[{"LOWER":"hybrid"},{"LOWER":"system"}]}
+{"label":"Technical","pattern":[{"LOWER":"hypercube"}]}
+{"label":"Technical","pattern":[{"LOWER":"hyperspectral"},{"LOWER":"imaging"}]}
+{"label":"Technical","pattern":[{"LOWER":"ibm"},{"LOWER":"-"},{"LOWER":"api"},{"LOWER":"connect"}]}
+{"label":"Technical","pattern":[{"LOWER":"ibm "},{"LOWER":" api connect"}]}
+{"label":"Technical","pattern":[{"LOWER":"ibm"},{"LOWER":"db2"}]}
+{"label":"Technical","pattern":[{"LOWER":"icon"},{"LOWER":"font"}]}
+{"label":"Technical","pattern":[{"LOWER":"iframely"}]}
+{"label":"Technical","pattern":[{"TEXT":"IFTTT"}]}
+{"label":"Technical","pattern":[{"LOWER":"image"},{"LOWER":"analysis"},{"LOWER":"api"}]}
+{"label":"Technical","pattern":[{"LOWER":"image"},{"LOWER":"fusion"}]}
+{"label":"Technical","pattern":[{"LOWER":"image"},{"LOWER":"meta"},{"LOWER":"search"}]}
+{"label":"Technical","pattern":[{"LOWER":"image"},{"LOWER":"processing"}]}
+{"label":"Technical","pattern":[{"LOWER":"image"},{"LOWER":"processing"},{"LOWER":"and"},{"LOWER":"management"}]}
+{"label":"Technical","pattern":[{"LOWER":"image"},{"LOWER":"quality"}]}
+{"label":"Technical","pattern":[{"LOWER":"image"},{"LOWER":"registration"}]}
+{"label":"Technical","pattern":[{"LOWER":"image"},{"LOWER":"resolution"}]}
+{"label":"Technical","pattern":[{"LOWER":"image"},{"LOWER":"retrieval"}]}
+{"label":"Technical","pattern":[{"LOWER":"image"},{"LOWER":"segmentation"}]}
+{"label":"Technical","pattern":[{"LOWER":"image"},{"LOWER":"sensor"}]}
+{"label":"Technical","pattern":[{"LOWER":"imgix"}]}
+{"label":"Technical","pattern":[{"LOWER":"immutable.js"}]}
+{"label":"Technical","pattern":[{"LOWER":"immutable"},{"LOWER":"js"}]}
+{"label":"Technical","pattern":[{"LOWER":"impala"}]}
+{"label":"Technical","pattern":[{"LOWER":"in-memory"},{"LOWER":"databases"}]}
+{"label":"Technical","pattern":[{"LOWER":"in"},{"LOWER":"memory databases"}]}
+{"label":"Technical","pattern":[{"LOWER":"incapsula"}]}
+{"label":"Technical","pattern":[{"LOWER":"incremental"},{"LOWER":"learning"}]}
+{"label":"Technical","pattern":[{"LOWER":"indentation"}]}
+{"label":"Technical","pattern":[{"LOWER":"independent"},{"LOWER":"component"},{"LOWER":"analysis"}]}
+{"label":"Technical","pattern":[{"LOWER":"independent"},{"LOWER":"set"}]}
+{"label":"Technical","pattern":[{"LOWER":"index"},{"LOWER":"term"}]}
+{"label":"Technical","pattern":[{"LOWER":"industrial"},{"LOWER":"engineering"}]}
+{"label":"Technical","pattern":[{"LOWER":"industrial"},{"LOWER":"organization"}]}
+{"label":"Technical","pattern":[{"LOWER":"inference"}]}
+{"label":"Technical","pattern":[{"LOWER":"influxdb"}]}
+{"label":"Technical","pattern":[{"LOWER":"infobox"}]}
+{"label":"Technical","pattern":[{"LOWER":"information"},{"LOWER":"discovery"}]}
+{"label":"Technical","pattern":[{"LOWER":"information"},{"LOWER":"extraction"}]}
+{"label":"Technical","pattern":[{"LOWER":"information"},{"LOWER":"filtering"},{"LOWER":"system"}]}
+{"label":"Technical","pattern":[{"LOWER":"information"},{"LOWER":"flow"},{"LOWER":"information"},{"LOWER":"theory"}]}
+{"label":"Technical","pattern":[{"LOWER":"information"},{"LOWER":"integration"}]}
+{"label":"Technical","pattern":[{"LOWER":"information"},{"LOWER":"management"}]}
+{"label":"Technical","pattern":[{"LOWER":"information"},{"LOWER":"model"}]}
+{"label":"Technical","pattern":[{"LOWER":"information"},{"LOWER":"overload"}]}
+{"label":"Technical","pattern":[{"LOWER":"information"},{"LOWER":"retrieval"}]}
+{"label":"Technical","pattern":[{"LOWER":"information"},{"LOWER":"retrieval"},{"LOWER":"applications"}]}
+{"label":"Technical","pattern":[{"LOWER":"information"},{"LOWER":"retrieval"},{"LOWER":"query"},{"LOWER":"language"}]}
+{"label":"Technical","pattern":[{"LOWER":"information"},{"LOWER":"seeking"}]}
+{"label":"Technical","pattern":[{"LOWER":"information"},{"LOWER":"theory"}]}
+{"label":"Technical","pattern":[{"LOWER":"infrastructure"},{"LOWER":"build"},{"LOWER":"tools"}]}
+{"label":"Technical","pattern":[{"LOWER":"inkwell"}]}
+{"label":"Technical","pattern":[{"LOWER":"input"},{"LOWER":"device"}]}
+{"label":"Technical","pattern":[{"LOWER":"insomnia"},{"LOWER":"rest"},{"LOWER":"client"}]}
+{"label":"Technical","pattern":[{"LOWER":"inspec"}]}
+{"label":"Technical","pattern":[{"LOWER":"instrumental"},{"LOWER":"variable"}]}
+{"label":"Technical","pattern":[{"LOWER":"integer"},{"LOWER":"programming"}]}
+{"label":"Technical","pattern":[{"LOWER":"integrated"},{"LOWER":"circuit"},{"LOWER":"design"}]}
+{"label":"Technical","pattern":[{"LOWER":"integrated"},{"LOWER":"development"},{"LOWER":"environment"}]}
+{"label":"Technical","pattern":[{"LOWER":"integrated"},{"LOWER":"development"},{"LOWER":"environment"},{"LOWER":"tools"}]}
+{"label":"Technical","pattern":[{"LOWER":"integrated"},{"LOWER":"services"},{"LOWER":"digital"},{"LOWER":"network"}]}
+{"label":"Technical","pattern":[{"LOWER":"intelligent"},{"LOWER":"agent"}]}
+{"label":"Technical","pattern":[{"LOWER":"intelligent"},{"LOWER":"document"}]}
+{"label":"Technical","pattern":[{"LOWER":"intelligent"},{"LOWER":"network"}]}
+{"label":"Technical","pattern":[{"LOWER":"intellij"},{"LOWER":"idea"}]}
+{"label":"Technical","pattern":[{"LOWER":"inter-process"},{"LOWER":"communication"}]}
+{"label":"Technical","pattern":[{"LOWER":"inter"},{"LOWER":"process communication"}]}
+{"label":"Technical","pattern":[{"LOWER":"interaction"}]}
+{"label":"Technical","pattern":[{"LOWER":"interactive"},{"LOWER":"mockups"}]}
+{"label":"Technical","pattern":[{"LOWER":"intercom"}]}
+{"label":"Technical","pattern":[{"LOWER":"interconnection"}]}
+{"label":"Technical","pattern":[{"LOWER":"international"},{"LOWER":"trade"}]}
+{"label":"Technical","pattern":[{"LOWER":"internet"},{"LOWER":"of"},{"LOWER":"things"}]}
+{"label":"Technical","pattern":[{"LOWER":"internet"},{"LOWER":"of"},{"LOWER":"things"},{"LOWER":"hardware"}]}
+{"label":"Technical","pattern":[{"LOWER":"internet"},{"LOWER":"privacy"}]}
+{"label":"Technical","pattern":[{"LOWER":"internet"},{"LOWER":"protocol"},{"LOWER":"suite"}]}
+{"label":"Technical","pattern":[{"LOWER":"internetworking"}]}
+{"label":"Technical","pattern":[{"LOWER":"interpolation"}]}
+{"label":"Technical","pattern":[{"LOWER":"intrusion"},{"LOWER":"detection"},{"LOWER":"system"}]}
+{"label":"Technical","pattern":[{"LOWER":"intuitionistic"},{"LOWER":"logic"}]}
+{"label":"Technical","pattern":[{"LOWER":"invision"}]}
+{"label":"Technical","pattern":[{"LOWER":"ionic"}]}
+{"label":"Technical","pattern":[{"LOWER":"ios"}]}
+{"label":"Technical","pattern":[{"TEXT":"IPFS"}]}
+{"label":"Technical","pattern":[{"LOWER":"ir"},{"LOWER":"evaluation"}]}
+{"label":"Technical","pattern":[{"LOWER":"issue"},{"LOWER":"tracking"}]}
+{"label":"Technical","pattern":[{"LOWER":"istio"}]}
+{"label":"Technical","pattern":[{"LOWER":"iterative"},{"LOWER":"reconstruction"}]}
+{"label":"Technical","pattern":[{"LOWER":"jasmine"}]}
+{"label":"Technical","pattern":[{"LOWER":"java"}]}
+{"label":"Technical","pattern":[{"LOWER":"java"},{"LOWER":"build"},{"LOWER":"tools"}]}
+{"label":"Technical","pattern":[{"LOWER":"javascript"}]}
+{"label":"Technical","pattern":[{"LOWER":"javascript"},{"LOWER":"framework"},{"LOWER":"components"}]}
+{"label":"Technical","pattern":[{"LOWER":"javascript"},{"LOWER":"mvc"},{"LOWER":"frameworks"}]}
+{"label":"Technical","pattern":[{"LOWER":"javascript"},{"LOWER":"testing"},{"LOWER":"framework"}]}
+{"label":"Technical","pattern":[{"LOWER":"javascript"},{"LOWER":"ui"},{"LOWER":"libraries"}]}
+{"label":"Technical","pattern":[{"LOWER":"javascript"},{"LOWER":"utilities"},{"LOWER":"&"},{"LOWER":"libraries"}]}
+{"label":"Technical","pattern":[{"LOWER":"jekyll"}]}
+{"label":"Technical","pattern":[{"LOWER":"jenkins"}]}
+{"label":"Technical","pattern":[{"LOWER":"jest"}]}
+{"label":"Technical","pattern":[{"LOWER":"jetty"}]}
+{"label":"Technical","pattern":[{"TEXT":"JIRA"}]}
+{"label":"Technical","pattern":[{"LOWER":"jitter"}]}
+{"label":"Technical","pattern":[{"LOWER":"jquery"}]}
+{"label":"Technical","pattern":[{"LOWER":"jquery"},{"LOWER":"mobile"}]}
+{"label":"Technical","pattern":[{"LOWER":"jquery"},{"LOWER":"ui"}]}
+{"label":"Technical","pattern":[{"LOWER":"jruby"}]}
+{"label":"Technical","pattern":[{"LOWER":"js"},{"LOWER":"build"},{"LOWER":"tools"},{"LOWER":"/"},{"LOWER":"js"},{"LOWER":"task"},{"LOWER":"runners"}]}
+{"label":"Technical","pattern":[{"LOWER":"js build tools "},{"LOWER":" js task runners"}]}
+{"label":"Technical","pattern":[{"LOWER":"jsdoc"}]}
+{"label":"Technical","pattern":[{"TEXT":"JSON"}]}
+{"label":"Technical","pattern":[{"LOWER":"json"},{"LOWER":"server"}]}
+{"label":"Technical","pattern":[{"LOWER":"the"},{"LOWER":"julia"},{"LOWER":"language"}]}
+{"label":"Technical","pattern":[{"LOWER":"julia"}]}
+{"label":"Technical","pattern":[{"LOWER":"junit"}]}
+{"label":"Technical","pattern":[{"LOWER":"jupyter"}]}
+{"label":"Technical","pattern":[{"LOWER":"jupyter"},{"LOWER":"notebook"}]}
+{"label":"Technical","pattern":[{"LOWER":"k-d"},{"LOWER":"tree"}]}
+{"label":"Technical","pattern":[{"LOWER":"k"},{"LOWER":"d tree"}]}
+{"label":"Technical","pattern":[{"LOWER":"k-nearest"},{"LOWER":"neighbors"},{"LOWER":"algorithm"}]}
+{"label":"Technical","pattern":[{"LOWER":"k"},{"LOWER":"nearest neighbors algorithm"}]}
+{"label":"Technical","pattern":[{"LOWER":"kafka"}]}
+{"label":"Technical","pattern":[{"LOWER":"kalman"},{"LOWER":"filter"}]}
+{"label":"Technical","pattern":[{"LOWER":"kanban"},{"LOWER":"for"},{"LOWER":"github"},{"LOWER":"issues"}]}
+{"label":"Technical","pattern":[{"LOWER":"kanban"},{"LOWER":"tool"}]}
+{"label":"Technical","pattern":[{"LOWER":"karhunen\u2013lo\u00e8ve"},{"LOWER":"theorem"}]}
+{"label":"Technical","pattern":[{"LOWER":"karma"}]}
+{"label":"Technical","pattern":[{"LOWER":"kendo"},{"LOWER":"ui"}]}
+{"label":"Technical","pattern":[{"LOWER":"keras"}]}
+{"label":"Technical","pattern":[{"LOWER":"kernel"},{"LOWER":"linear"},{"LOWER":"algebra"}]}
+{"label":"Technical","pattern":[{"LOWER":"key"},{"LOWER":"exchange"}]}
+{"label":"Technical","pattern":[{"LOWER":"key"},{"LOWER":"lock"}]}
+{"label":"Technical","pattern":[{"LOWER":"keycdn"}]}
+{"label":"Technical","pattern":[{"LOWER":"keyword"},{"LOWER":"extraction"}]}
+{"label":"Technical","pattern":[{"LOWER":"kibana"}]}
+{"label":"Technical","pattern":[{"LOWER":"kissmetrics"}]}
+{"label":"Technical","pattern":[{"LOWER":"kitematic"}]}
+{"label":"Technical","pattern":[{"LOWER":"knapsack"},{"LOWER":"problem"}]}
+{"label":"Technical","pattern":[{"LOWER":"knex.js"}]}
+{"label":"Technical","pattern":[{"LOWER":"knex"},{"LOWER":"js"}]}
+{"label":"Technical","pattern":[{"LOWER":"knockoutjs"}]}
+{"label":"Technical","pattern":[{"LOWER":"knowledge"},{"LOWER":"acquisition"}]}
+{"label":"Technical","pattern":[{"LOWER":"knowledge"},{"LOWER":"base"}]}
+{"label":"Technical","pattern":[{"LOWER":"knowledge-based"},{"LOWER":"systems"}]}
+{"label":"Technical","pattern":[{"LOWER":"knowledge"},{"LOWER":"based systems"}]}
+{"label":"Technical","pattern":[{"LOWER":"knowledge"},{"LOWER":"extraction"}]}
+{"label":"Technical","pattern":[{"LOWER":"knowledge"},{"LOWER":"management"}]}
+{"label":"Technical","pattern":[{"LOWER":"knowledge"},{"LOWER":"modeling"}]}
+{"label":"Technical","pattern":[{"LOWER":"knowledge"},{"LOWER":"representation"},{"LOWER":"and"},{"LOWER":"reasoning"}]}
+{"label":"Technical","pattern":[{"LOWER":"knowledge"},{"LOWER":"retrieval"}]}
+{"label":"Technical","pattern":[{"LOWER":"koa"}]}
+{"label":"Technical","pattern":[{"LOWER":"koding"}]}
+{"label":"Technical","pattern":[{"LOWER":"kong"}]}
+{"label":"Technical","pattern":[{"LOWER":"kotlin"}]}
+{"label":"Technical","pattern":[{"LOWER":"kubernetes"}]}
+{"label":"Technical","pattern":[{"LOWER":"kullback\u2013leibler"},{"LOWER":"divergence"}]}
+{"label":"Technical","pattern":[{"LOWER":"lambda"},{"LOWER":"calculus"}]}
+{"label":"Technical","pattern":[{"LOWER":"lambdatest"}]}
+{"label":"Technical","pattern":[{"LOWER":"landing"},{"LOWER":"pages"}]}
+{"label":"Technical","pattern":[{"LOWER":"language"},{"LOWER":"acquisition"}]}
+{"label":"Technical","pattern":[{"LOWER":"language"},{"LOWER":"model"}]}
+{"label":"Technical","pattern":[{"LOWER":"languages"}]}
+{"label":"Technical","pattern":[{"LOWER":"languages"},{"LOWER":"&"},{"LOWER":"frameworks"}]}
+{"label":"Technical","pattern":[{"LOWER":"laravel"}]}
+{"label":"Technical","pattern":[{"LOWER":"laravel"},{"LOWER":"forge"}]}
+{"label":"Technical","pattern":[{"LOWER":"laravel"},{"LOWER":"homestead"}]}
+{"label":"Technical","pattern":[{"LOWER":"lastpass"}]}
+{"label":"Technical","pattern":[{"LOWER":"latency"},{"LOWER":"engineering"}]}
+{"label":"Technical","pattern":[{"LOWER":"latent"},{"LOWER":"dirichlet"},{"LOWER":"allocation"}]}
+{"label":"Technical","pattern":[{"LOWER":"latent"},{"LOWER":"semantic"},{"LOWER":"indexing"}]}
+{"label":"Technical","pattern":[{"LOWER":"latex"}]}
+{"label":"Technical","pattern":[{"LOWER":"layout"},{"LOWER":"engine"}]}
+{"label":"Technical","pattern":[{"LOWER":"leaflet"}]}
+{"label":"Technical","pattern":[{"LOWER":"least"},{"LOWER":"squares"}]}
+{"label":"Technical","pattern":[{"LOWER":"legal"},{"LOWER":"information"},{"LOWER":"retrieval"}]}
+{"label":"Technical","pattern":[{"LOWER":"let's"},{"LOWER":"encrypt"}]}
+{"label":"Technical","pattern":[{"LOWER":"level"},{"LOWER":"of"},{"LOWER":"detail"}]}
+{"label":"Technical","pattern":[{"LOWER":"level"},{"LOWER":"set"}]}
+{"label":"Technical","pattern":[{"LOWER":"lexico"}]}
+{"label":"Technical","pattern":[{"LOWER":"libraries"}]}
+{"label":"Technical","pattern":[{"LOWER":"library"}]}
+{"label":"Technical","pattern":[{"LOWER":"library"},{"LOWER":"science"}]}
+{"label":"Technical","pattern":[{"LOWER":"line-of-sight"}]}
+{"label":"Technical","pattern":[{"LOWER":"line"},{"LOWER":"of"},{"LOWER":"sight"}]}
+{"label":"Technical","pattern":[{"LOWER":"linear"},{"LOWER":"discriminant"},{"LOWER":"analysis"}]}
+{"label":"Technical","pattern":[{"LOWER":"linear"},{"LOWER":"logic"}]}
+{"label":"Technical","pattern":[{"LOWER":"linear"},{"LOWER":"model"}]}
+{"label":"Technical","pattern":[{"LOWER":"linear"},{"LOWER":"prediction"}]}
+{"label":"Technical","pattern":[{"LOWER":"linear"},{"LOWER":"programming"}]}
+{"label":"Technical","pattern":[{"LOWER":"linear"},{"LOWER":"regression"}]}
+{"label":"Technical","pattern":[{"LOWER":"linear"},{"LOWER":"search"}]}
+{"label":"Technical","pattern":[{"LOWER":"linear"},{"LOWER":"temporal"},{"LOWER":"logic"}]}
+{"label":"Technical","pattern":[{"LOWER":"link"},{"LOWER":"analysis"}]}
+{"label":"Technical","pattern":[{"LOWER":"link"},{"LOWER":"layer"}]}
+{"label":"Technical","pattern":[{"LOWER":"link"},{"LOWER":"relation"}]}
+{"label":"Technical","pattern":[{"LOWER":"linked"},{"LOWER":"data"}]}
+{"label":"Technical","pattern":[{"LOWER":"linode"}]}
+{"label":"Technical","pattern":[{"LOWER":"linux"}]}
+{"label":"Technical","pattern":[{"LOWER":"linux"},{"LOWER":"mint"}]}
+{"label":"Technical","pattern":[{"LOWER":"liquibase"}]}
+{"label":"Technical","pattern":[{"LOWER":"liquid-crystal"},{"LOWER":"display"}]}
+{"label":"Technical","pattern":[{"LOWER":"liquid"},{"LOWER":"crystal display"}]}
+{"label":"Technical","pattern":[{"LOWER":"live"},{"LOWER":"reloading"}]}
+{"label":"Technical","pattern":[{"LOWER":"livereload"}]}
+{"label":"Technical","pattern":[{"LOWER":"load"},{"LOWER":"and"},{"LOWER":"performance"},{"LOWER":"testing"}]}
+{"label":"Technical","pattern":[{"LOWER":"load"},{"LOWER":"balancer"},{"LOWER":"/"},{"LOWER":"reverse"},{"LOWER":"proxy"}]}
+{"label":"Technical","pattern":[{"LOWER":"load balancer "},{"LOWER":" reverse proxy"}]}
+{"label":"Technical","pattern":[{"LOWER":"load"},{"LOWER":"balancing"},{"LOWER":"computing"}]}
+{"label":"Technical","pattern":[{"LOWER":"load"},{"LOWER":"management"}]}
+{"label":"Technical","pattern":[{"LOWER":"loader.io"}]}
+{"label":"Technical","pattern":[{"LOWER":"loader"},{"LOWER":"io"}]}
+{"label":"Technical","pattern":[{"LOWER":"local"},{"LOWER":"area"},{"LOWER":"network"}]}
+{"label":"Technical","pattern":[{"LOWER":"local"},{"LOWER":"search"},{"LOWER":"optimization"}]}
+{"label":"Technical","pattern":[{"LOWER":"localhost"},{"LOWER":"tools"}]}
+{"label":"Technical","pattern":[{"LOWER":"localization"}]}
+{"label":"Technical","pattern":[{"LOWER":"location-based"},{"LOWER":"service"}]}
+{"label":"Technical","pattern":[{"LOWER":"location"},{"LOWER":"based service"}]}
+{"label":"Technical","pattern":[{"LOWER":"locust"}]}
+{"label":"Technical","pattern":[{"LOWER":"lodash"}]}
+{"label":"Technical","pattern":[{"LOWER":"log"},{"LOWER":"management"}]}
+{"label":"Technical","pattern":[{"LOWER":"loggly"}]}
+{"label":"Technical","pattern":[{"LOWER":"logic"},{"LOWER":"gate"}]}
+{"label":"Technical","pattern":[{"LOWER":"logic"},{"LOWER":"in"},{"LOWER":"computer"},{"LOWER":"science"}]}
+{"label":"Technical","pattern":[{"LOWER":"logic"},{"LOWER":"programming"}]}
+{"label":"Technical","pattern":[{"LOWER":"logic"},{"LOWER":"synthesis"}]}
+{"label":"Technical","pattern":[{"LOWER":"logical"},{"LOWER":"framework"}]}
+{"label":"Technical","pattern":[{"LOWER":"logistic"},{"LOWER":"regression"}]}
+{"label":"Technical","pattern":[{"LOWER":"logrocket"}]}
+{"label":"Technical","pattern":[{"LOWER":"logstash"}]}
+{"label":"Technical","pattern":[{"LOWER":"look-ahead"}]}
+{"label":"Technical","pattern":[{"LOWER":"look"},{"LOWER":"ahead"}]}
+{"label":"Technical","pattern":[{"LOWER":"lookup"},{"LOWER":"table"}]}
+{"label":"Technical","pattern":[{"LOWER":"lottie"}]}
+{"label":"Technical","pattern":[{"LOWER":"low-pass"},{"LOWER":"filter"}]}
+{"label":"Technical","pattern":[{"LOWER":"low"},{"LOWER":"pass filter"}]}
+{"label":"Technical","pattern":[{"LOWER":"lua"}]}
+{"label":"Technical","pattern":[{"LOWER":"lucene"}]}
+{"label":"Technical","pattern":[{"LOWER":"lumen"}]}
+{"label":"Technical","pattern":[{"TEXT":"LXC"}]}
+{"label":"Technical","pattern":[{"TEXT":"LXD"}]}
+{"label":"Technical","pattern":[{"LOWER":"ml"}]}
+{"label":"Technical","pattern":[{"LOWER":"machine"},{"LOWER":"learning"}]}
+{"label":"Technical","pattern":[{"LOWER":"machine"},{"LOWER":"learning"},{"LOWER":"as"},{"LOWER":"a"},{"LOWER":"service"}]}
+{"label":"Technical","pattern":[{"LOWER":"machine"},{"LOWER":"learning"},{"LOWER":"tools"}]}
+{"label":"Technical","pattern":[{"LOWER":"machine"},{"LOWER":"vision"}]}
+{"label":"Technical","pattern":[{"LOWER":"macos"}]}
+{"label":"Technical","pattern":[{"LOWER":"magento"}]}
+{"label":"Technical","pattern":[{"LOWER":"mailchimp"}]}
+{"label":"Technical","pattern":[{"LOWER":"mailgun"}]}
+{"label":"Technical","pattern":[{"LOWER":"mailjet"}]}
+{"label":"Technical","pattern":[{"LOWER":"managed"},{"LOWER":"memcache"}]}
+{"label":"Technical","pattern":[{"LOWER":"management"},{"LOWER":"science"}]}
+{"label":"Technical","pattern":[{"LOWER":"mandrill"}]}
+{"label":"Technical","pattern":[{"LOWER":"manufacturing"},{"LOWER":"engineering"}]}
+{"label":"Technical","pattern":[{"LOWER":"mapbox"}]}
+{"label":"Technical","pattern":[{"LOWER":"mapping"},{"LOWER":"apis"}]}
+{"label":"Technical","pattern":[{"LOWER":"marathon"}]}
+{"label":"Technical","pattern":[{"LOWER":"mariadb"}]}
+{"label":"Technical","pattern":[{"LOWER":"marine"},{"LOWER":"engineering"}]}
+{"label":"Technical","pattern":[{"LOWER":"marionette"}]}
+{"label":"Technical","pattern":[{"LOWER":"markdown"}]}
+{"label":"Technical","pattern":[{"LOWER":"marketing"}]}
+{"label":"Technical","pattern":[{"LOWER":"marketing"},{"LOWER":"automation"}]}
+{"label":"Technical","pattern":[{"LOWER":"markov"},{"LOWER":"chain"}]}
+{"label":"Technical","pattern":[{"LOWER":"markup"},{"LOWER":"language"}]}
+{"label":"Technical","pattern":[{"LOWER":"mastodon"}]}
+{"label":"Technical","pattern":[{"LOWER":"matched"},{"LOWER":"filter"}]}
+{"label":"Technical","pattern":[{"LOWER":"material"}]}
+{"label":"Technical","pattern":[{"LOWER":"material"},{"LOWER":"design"}]}
+{"label":"Technical","pattern":[{"LOWER":"material"},{"LOWER":"design"}]}
+{"label":"Technical","pattern":[{"LOWER":"material"},{"LOWER":"design"},{"LOWER":"for"},{"LOWER":"angular"}]}
+{"label":"Technical","pattern":[{"LOWER":"material"},{"LOWER":"design"},{"LOWER":"for"},{"LOWER":"bootstrap"}]}
+{"label":"Technical","pattern":[{"LOWER":"material"},{"LOWER":"design"},{"LOWER":"lite"}]}
+{"label":"Technical","pattern":[{"LOWER":"material-ui"}]}
+{"label":"Technical","pattern":[{"LOWER":"material"},{"LOWER":"ui"}]}
+{"label":"Technical","pattern":[{"LOWER":"materialize"}]}
+{"label":"Technical","pattern":[{"LOWER":"mathematical"},{"LOWER":"logic"}]}
+{"label":"Technical","pattern":[{"TEXT":"MATLAB"}]}
+{"label":"Technical","pattern":[{"LOWER":"mattermost"}]}
+{"label":"Technical","pattern":[{"LOWER":"maven"}]}
+{"label":"Technical","pattern":[{"LOWER":"maxcdn"}]}
+{"label":"Technical","pattern":[{"LOWER":"maximum"},{"LOWER":"a"},{"LOWER":"posteriori"},{"LOWER":"estimation"}]}
+{"label":"Technical","pattern":[{"TEXT":"MEAN"}]}
+{"label":"Technical","pattern":[{"LOWER":"mean-shift"}]}
+{"label":"Technical","pattern":[{"LOWER":"mean"},{"LOWER":"shift"}]}
+{"label":"Technical","pattern":[{"LOWER":"mechanical"},{"LOWER":"engineering"}]}
+{"label":"Technical","pattern":[{"LOWER":"media"},{"LOWER":"access"},{"LOWER":"control"}]}
+{"label":"Technical","pattern":[{"LOWER":"medical"},{"LOWER":"imaging"}]}
+{"label":"Technical","pattern":[{"LOWER":"medical"},{"LOWER":"literature"},{"LOWER":"retrieval"}]}
+{"label":"Technical","pattern":[{"LOWER":"medium"}]}
+{"label":"Technical","pattern":[{"LOWER":"memcached"}]}
+{"label":"Technical","pattern":[{"LOWER":"memcachier"}]}
+{"label":"Technical","pattern":[{"LOWER":"memory"},{"LOWER":"management"}]}
+{"label":"Technical","pattern":[{"LOWER":"mercurial"}]}
+{"label":"Technical","pattern":[{"LOWER":"mesh"},{"LOWER":"networking"}]}
+{"label":"Technical","pattern":[{"LOWER":"mesosphere"}]}
+{"label":"Technical","pattern":[{"LOWER":"message"},{"LOWER":"passing"}]}
+{"label":"Technical","pattern":[{"LOWER":"message"},{"LOWER":"queue"}]}
+{"label":"Technical","pattern":[{"LOWER":"messenger"},{"LOWER":"platform"}]}
+{"label":"Technical","pattern":[{"LOWER":"metabase"}]}
+{"label":"Technical","pattern":[{"LOWER":"metadata"}]}
+{"label":"Technical","pattern":[{"LOWER":"metamodeling"}]}
+{"label":"Technical","pattern":[{"LOWER":"meteor"}]}
+{"label":"Technical","pattern":[{"LOWER":"metis"}]}
+{"label":"Technical","pattern":[{"LOWER":"microcomputer"}]}
+{"label":"Technical","pattern":[{"LOWER":"microcontroller"}]}
+{"label":"Technical","pattern":[{"LOWER":"microdata"},{"LOWER":"html"}]}
+{"label":"Technical","pattern":[{"LOWER":"microframeworks"},{"LOWER":"backend"}]}
+{"label":"Technical","pattern":[{"LOWER":"microprocessor"}]}
+{"label":"Technical","pattern":[{"LOWER":"microservices"},{"LOWER":"tools"}]}
+{"label":"Technical","pattern":[{"LOWER":"microsoft"},{"LOWER":"azure"}]}
+{"label":"Technical","pattern":[{"LOWER":"microsoft"},{"LOWER":"bot"},{"LOWER":"framework"}]}
+{"label":"Technical","pattern":[{"LOWER":"microsoft"},{"LOWER":"iis"}]}
+{"label":"Technical","pattern":[{"LOWER":"microsoft"},{"LOWER":"sql"},{"LOWER":"server"}]}
+{"label":"Technical","pattern":[{"LOWER":"middleman"}]}
+{"label":"Technical","pattern":[{"LOWER":"middleware"}]}
+{"label":"Technical","pattern":[{"LOWER":"mina"}]}
+{"label":"Technical","pattern":[{"LOWER":"minecraft"}]}
+{"label":"Technical","pattern":[{"LOWER":"minification"}]}
+{"label":"Technical","pattern":[{"LOWER":"mining"},{"LOWER":"engineering"}]}
+{"label":"Technical","pattern":[{"LOWER":"minio"}]}
+{"label":"Technical","pattern":[{"LOWER":"missing"},{"LOWER":"data"}]}
+{"label":"Technical","pattern":[{"LOWER":"mixed"},{"LOWER":"model"}]}
+{"label":"Technical","pattern":[{"LOWER":"mixpanel"}]}
+{"label":"Technical","pattern":[{"LOWER":"mixture"},{"LOWER":"model"}]}
+{"label":"Technical","pattern":[{"LOWER":"ml"},{"LOWER":"kit"}]}
+{"label":"Technical","pattern":[{"LOWER":"mobile"}]}
+{"label":"Technical","pattern":[{"LOWER":"mobile"},{"LOWER":"agent"}]}
+{"label":"Technical","pattern":[{"LOWER":"mobile"},{"LOWER":"analytics"}]}
+{"label":"Technical","pattern":[{"LOWER":"mobile"},{"LOWER":"backend"}]}
+{"label":"Technical","pattern":[{"LOWER":"mobile"},{"LOWER":"computing"}]}
+{"label":"Technical","pattern":[{"LOWER":"mobile"},{"LOWER":"continuous"},{"LOWER":"integration"}]}
+{"label":"Technical","pattern":[{"LOWER":"mobile"},{"LOWER":"database"}]}
+{"label":"Technical","pattern":[{"LOWER":"mobile"},{"LOWER":"error"},{"LOWER":"monitoring"}]}
+{"label":"Technical","pattern":[{"LOWER":"mobile"},{"LOWER":"prototyping"},{"LOWER":"&"},{"LOWER":"interaction"},{"LOWER":"design"},{"LOWER":"tools"}]}
+{"label":"Technical","pattern":[{"LOWER":"mobile"},{"LOWER":"push"},{"LOWER":"messaging"}]}
+{"label":"Technical","pattern":[{"LOWER":"mobile"},{"LOWER":"radio"}]}
+{"label":"Technical","pattern":[{"LOWER":"mobile"},{"LOWER":"robot"}]}
+{"label":"Technical","pattern":[{"LOWER":"mobile"},{"LOWER":"station"}]}
+{"label":"Technical","pattern":[{"LOWER":"mobile"},{"LOWER":"telephony"}]}
+{"label":"Technical","pattern":[{"LOWER":"mobile"},{"LOWER":"testing"},{"LOWER":"frameworks"}]}
+{"label":"Technical","pattern":[{"LOWER":"mobile"},{"LOWER":"ui"},{"LOWER":"frameworks"}]}
+{"label":"Technical","pattern":[{"LOWER":"mobility"},{"LOWER":"management"}]}
+{"label":"Technical","pattern":[{"LOWER":"mobility"},{"LOWER":"model"}]}
+{"label":"Technical","pattern":[{"LOWER":"mobx"}]}
+{"label":"Technical","pattern":[{"LOWER":"mocha"}]}
+{"label":"Technical","pattern":[{"LOWER":"modal"},{"LOWER":"logic"}]}
+{"label":"Technical","pattern":[{"LOWER":"mode"}]}
+{"label":"Technical","pattern":[{"LOWER":"model-based"},{"LOWER":"reasoning"}]}
+{"label":"Technical","pattern":[{"LOWER":"model"},{"LOWER":"based reasoning"}]}
+{"label":"Technical","pattern":[{"LOWER":"model"},{"LOWER":"checking"}]}
+{"label":"Technical","pattern":[{"LOWER":"modular"},{"LOWER":"design"}]}
+{"label":"Technical","pattern":[{"LOWER":"momentjs"}]}
+{"label":"Technical","pattern":[{"LOWER":"monero"}]}
+{"label":"Technical","pattern":[{"LOWER":"mongodb"}]}
+{"label":"Technical","pattern":[{"LOWER":"mongodb"},{"LOWER":"atlas"}]}
+{"label":"Technical","pattern":[{"LOWER":"mongodb"},{"LOWER":"hosting"}]}
+{"label":"Technical","pattern":[{"LOWER":"mongodb"},{"LOWER":"stitch"}]}
+{"label":"Technical","pattern":[{"LOWER":"mongoid"}]}
+{"label":"Technical","pattern":[{"LOWER":"mongolab"}]}
+{"label":"Technical","pattern":[{"LOWER":"mongoose"}]}
+{"label":"Technical","pattern":[{"LOWER":"monitoring"}]}
+{"label":"Technical","pattern":[{"LOWER":"monitoring"},{"LOWER":"aggregation"}]}
+{"label":"Technical","pattern":[{"LOWER":"monitoring"},{"LOWER":"tools"}]}
+{"label":"Technical","pattern":[{"LOWER":"morphology"},{"LOWER":"linguistics"}]}
+{"label":"Technical","pattern":[{"LOWER":"motion"},{"LOWER":"analysis"}]}
+{"label":"Technical","pattern":[{"LOWER":"motion"},{"LOWER":"compensation"}]}
+{"label":"Technical","pattern":[{"LOWER":"motion"},{"LOWER":"detection"}]}
+{"label":"Technical","pattern":[{"LOWER":"motion"},{"LOWER":"estimation"}]}
+{"label":"Technical","pattern":[{"LOWER":"motion"},{"LOWER":"planning"}]}
+{"label":"Technical","pattern":[{"LOWER":"moving"},{"LOWER":"average"}]}
+{"label":"Technical","pattern":[{"LOWER":"multi-agent"},{"LOWER":"system"}]}
+{"label":"Technical","pattern":[{"LOWER":"multi"},{"LOWER":"agent system"}]}
+{"label":"Technical","pattern":[{"LOWER":"multi-core"},{"LOWER":"processor"}]}
+{"label":"Technical","pattern":[{"LOWER":"multi"},{"LOWER":"core processor"}]}
+{"label":"Technical","pattern":[{"LOWER":"multi-objective"},{"LOWER":"optimization"}]}
+{"label":"Technical","pattern":[{"LOWER":"multi"},{"LOWER":"objective optimization"}]}
+{"label":"Technical","pattern":[{"LOWER":"multi-user"}]}
+{"label":"Technical","pattern":[{"LOWER":"multi"},{"LOWER":"user"}]}
+{"label":"Technical","pattern":[{"LOWER":"multicast"}]}
+{"label":"Technical","pattern":[{"LOWER":"multidimensional"},{"LOWER":"analysis"}]}
+{"label":"Technical","pattern":[{"LOWER":"multidimensional"},{"LOWER":"scaling"}]}
+{"label":"Technical","pattern":[{"LOWER":"multilevel"},{"LOWER":"model"}]}
+{"label":"Technical","pattern":[{"LOWER":"multimedia"}]}
+{"label":"Technical","pattern":[{"LOWER":"multimedia"},{"LOWER":"database"}]}
+{"label":"Technical","pattern":[{"LOWER":"multimodal"},{"LOWER":"search"}]}
+{"label":"Technical","pattern":[{"LOWER":"multiprocessing"}]}
+{"label":"Technical","pattern":[{"LOWER":"multisearch"}]}
+{"label":"Technical","pattern":[{"LOWER":"multispectral"},{"LOWER":"image"}]}
+{"label":"Technical","pattern":[{"LOWER":"multivariate"},{"LOWER":"analysis"}]}
+{"label":"Technical","pattern":[{"LOWER":"multivariate"},{"LOWER":"statistics"}]}
+{"label":"Technical","pattern":[{"LOWER":"mustache"}]}
+{"label":"Technical","pattern":[{"LOWER":"mutual"},{"LOWER":"exclusion"}]}
+{"label":"Technical","pattern":[{"LOWER":"mutual"},{"LOWER":"information"}]}
+{"label":"Technical","pattern":[{"LOWER":"mvc"},{"LOWER":"tools"}]}
+{"label":"Technical","pattern":[{"LOWER":"mvvmcross"}]}
+{"label":"Technical","pattern":[{"LOWER":"mysql"}]}
+{"label":"Technical","pattern":[{"LOWER":"naive"},{"LOWER":"bayes"},{"LOWER":"classifier"}]}
+{"label":"Technical","pattern":[{"LOWER":"namecheap"}]}
+{"label":"Technical","pattern":[{"LOWER":"named"},{"LOWER":"entity"}]}
+{"label":"Technical","pattern":[{"LOWER":"nativescript"}]}
+{"label":"Technical","pattern":[{"TEXT":"NATS"}]}
+{"label":"Technical","pattern":[{"LOWER":"natural"},{"LOWER":"deduction"}]}
+{"label":"Technical","pattern":[{"LOWER":"natural"},{"LOWER":"language"}]}
+{"label":"Technical","pattern":[{"LOWER":"natural"},{"LOWER":"language"},{"LOWER":"processing"}]}
+{"label":"Technical","pattern":[{"LOWER":"nlp"}]}
+{"label":"Technical","pattern":[{"LOWER":"natural"},{"LOWER":"language"},{"LOWER":"understanding"}]}
+{"label":"Technical","pattern":[{"LOWER":"nlu"}]}
+{"label":"Technical","pattern":[{"LOWER":"navigation"},{"LOWER":"system"}]}
+{"label":"Technical","pattern":[{"LOWER":"neo4j"}]}
+{"label":"Technical","pattern":[{"LOWER":"neovim"}]}
+{"label":"Technical","pattern":[{"LOWER":"netbeans"},{"LOWER":"ide"}]}
+{"label":"Technical","pattern":[{"LOWER":"netlify"}]}
+{"label":"Technical","pattern":[{"LOWER":"netty"}]}
+{"label":"Technical","pattern":[{"LOWER":"network"},{"LOWER":"architecture"}]}
+{"label":"Technical","pattern":[{"LOWER":"network"},{"LOWER":"congestion"}]}
+{"label":"Technical","pattern":[{"LOWER":"network"},{"LOWER":"delay"}]}
+{"label":"Technical","pattern":[{"LOWER":"network"},{"LOWER":"interface"}]}
+{"label":"Technical","pattern":[{"LOWER":"network"},{"LOWER":"layer"}]}
+{"label":"Technical","pattern":[{"LOWER":"network"},{"LOWER":"management"}]}
+{"label":"Technical","pattern":[{"LOWER":"network"},{"LOWER":"model"}]}
+{"label":"Technical","pattern":[{"LOWER":"network"},{"LOWER":"performance"}]}
+{"label":"Technical","pattern":[{"LOWER":"network"},{"LOWER":"planning"},{"LOWER":"and"},{"LOWER":"design"}]}
+{"label":"Technical","pattern":[{"LOWER":"network"},{"LOWER":"security"}]}
+{"label":"Technical","pattern":[{"LOWER":"network"},{"LOWER":"simulation"}]}
+{"label":"Technical","pattern":[{"LOWER":"network"},{"LOWER":"topology"}]}
+{"label":"Technical","pattern":[{"LOWER":"neural"},{"LOWER":"coding"}]}
+{"label":"Technical","pattern":[{"LOWER":"new"},{"LOWER":"relic"}]}
+{"label":"Technical","pattern":[{"LOWER":"nexmo"}]}
+{"label":"Technical","pattern":[{"LOWER":"next-generation"},{"LOWER":"network"}]}
+{"label":"Technical","pattern":[{"LOWER":"next"},{"LOWER":"generation network"}]}
+{"label":"Technical","pattern":[{"LOWER":"next.js"}]}
+{"label":"Technical","pattern":[{"LOWER":"next"},{"LOWER":"js"}]}
+{"label":"Technical","pattern":[{"LOWER":"nginx"}]}
+{"label":"Technical","pattern":[{"LOWER":"ngrok"}]}
+{"label":"Technical","pattern":[{"LOWER":"nightwatchjs"}]}
+{"label":"Technical","pattern":[{"LOWER":"nim"}]}
+{"label":"Technical","pattern":[{"LOWER":"nitrous.io"}]}
+{"label":"Technical","pattern":[{"LOWER":"nitrous"},{"LOWER":"io"}]}
+{"label":"Technical","pattern":[{"LOWER":"node"},{"LOWER":"networking"}]}
+{"label":"Technical","pattern":[{"LOWER":"node.js"}]}
+{"label":"Technical","pattern":[{"LOWER":"node"},{"LOWER":"js"}]}
+{"label":"Technical","pattern":[{"LOWER":"node.js"},{"LOWER":"process"},{"LOWER":"manager"}]}
+{"label":"Technical","pattern":[{"LOWER":"node"},{"LOWER":"js process manager"}]}
+{"label":"Technical","pattern":[{"LOWER":"node.js"}]}
+{"label":"Technical","pattern":[{"LOWER":"node"},{"LOWER":"js"}]}
+{"label":"Technical","pattern":[{"LOWER":"noise"},{"LOWER":"measurement"}]}
+{"label":"Technical","pattern":[{"LOWER":"noise"},{"LOWER":"reduction"}]}
+{"label":"Technical","pattern":[{"LOWER":"noisy"},{"LOWER":"data"}]}
+{"label":"Technical","pattern":[{"LOWER":"nomad"}]}
+{"label":"Technical","pattern":[{"LOWER":"non-volatile"},{"LOWER":"memory"}]}
+{"label":"Technical","pattern":[{"LOWER":"non"},{"LOWER":"volatile memory"}]}
+{"label":"Technical","pattern":[{"LOWER":"nosql"}]}
+{"label":"Technical","pattern":[{"LOWER":"nosql"},{"LOWER":"database"},{"LOWER":"as"},{"LOWER":"a"},{"LOWER":"service"}]}
+{"label":"Technical","pattern":[{"LOWER":"notepad++"}]}
+{"label":"Technical","pattern":[{"LOWER":"npm"}]}
+{"label":"Technical","pattern":[{"TEXT":"NSQ"}]}
+{"label":"Technical","pattern":[{"LOWER":"nuclear"},{"LOWER":"engineering"}]}
+{"label":"Technical","pattern":[{"LOWER":"numerical"},{"LOWER":"stability"}]}
+{"label":"Technical","pattern":[{"LOWER":"numpy"}]}
+{"label":"Technical","pattern":[{"LOWER":"nuxt"}]}
+{"label":"Technical","pattern":[{"LOWER":"object"},{"LOWER":"detection"}]}
+{"label":"Technical","pattern":[{"LOWER":"object"},{"LOWER":"document"},{"LOWER":"mapper"},{"LOWER":"odm"}]}
+{"label":"Technical","pattern":[{"LOWER":"object"},{"LOWER":"model"}]}
+{"label":"Technical","pattern":[{"LOWER":"object-oriented"},{"LOWER":"programming"}]}
+{"label":"Technical","pattern":[{"LOWER":"object"},{"LOWER":"oriented programming"}]}
+{"label":"Technical","pattern":[{"LOWER":"object"},{"LOWER":"relational"},{"LOWER":"mapper"},{"LOWER":"orm"}]}
+{"label":"Technical","pattern":[{"LOWER":"objective-c"}]}
+{"label":"Technical","pattern":[{"LOWER":"objective"},{"LOWER":"c"}]}
+{"label":"Technical","pattern":[{"LOWER":"octodns"}]}
+{"label":"Technical","pattern":[{"LOWER":"octopus"},{"LOWER":"deploy"}]}
+{"label":"Technical","pattern":[{"LOWER":"omniauth"}]}
+{"label":"Technical","pattern":[{"LOWER":"onesignal"}]}
+{"label":"Technical","pattern":[{"LOWER":"online"},{"LOWER":"algorithm"}]}
+{"label":"Technical","pattern":[{"LOWER":"online"},{"LOWER":"public"},{"LOWER":"access"},{"LOWER":"catalog"}]}
+{"label":"Technical","pattern":[{"LOWER":"onsen"},{"LOWER":"ui"}]}
+{"label":"Technical","pattern":[{"LOWER":"ontology"},{"LOWER":"information"},{"LOWER":"science"}]}
+{"label":"Technical","pattern":[{"LOWER":"open"},{"LOWER":"data"}]}
+{"label":"Technical","pattern":[{"LOWER":"open"},{"LOWER":"postgresql"},{"LOWER":"monitoring"}]}
+{"label":"Technical","pattern":[{"LOWER":"open"},{"LOWER":"source"},{"LOWER":"cloud"}]}
+{"label":"Technical","pattern":[{"LOWER":"open"},{"LOWER":"source"},{"LOWER":"service"},{"LOWER":"discovery"}]}
+{"label":"Technical","pattern":[{"LOWER":"opencv"}]}
+{"label":"Technical","pattern":[{"LOWER":"opengl"}]}
+{"label":"Technical","pattern":[{"LOWER":"openlayers"}]}
+{"label":"Technical","pattern":[{"LOWER":"openresty"}]}
+{"label":"Technical","pattern":[{"LOWER":"openshift"}]}
+{"label":"Technical","pattern":[{"LOWER":"openstack"}]}
+{"label":"Technical","pattern":[{"LOWER":"opensuse"}]}
+{"label":"Technical","pattern":[{"LOWER":"operating"},{"LOWER":"system"}]}
+{"label":"Technical","pattern":[{"LOWER":"operating"},{"LOWER":"systems"}]}
+{"label":"Technical","pattern":[{"LOWER":"operational"},{"LOWER":"transformation"}]}
+{"label":"Technical","pattern":[{"LOWER":"operations"},{"LOWER":"management"}]}
+{"label":"Technical","pattern":[{"LOWER":"operations"},{"LOWER":"research"}]}
+{"label":"Technical","pattern":[{"LOWER":"operator"},{"LOWER":"computer"},{"LOWER":"programming"}]}
+{"label":"Technical","pattern":[{"LOWER":"optical"},{"LOWER":"character"},{"LOWER":"recognition"}]}
+{"label":"Technical","pattern":[{"LOWER":"optical"},{"LOWER":"disc"}]}
+{"label":"Technical","pattern":[{"LOWER":"optical"},{"LOWER":"flow"}]}
+{"label":"Technical","pattern":[{"LOWER":"optical"},{"LOWER":"imaging"}]}
+{"label":"Technical","pattern":[{"LOWER":"optical"},{"LOWER":"recording"}]}
+{"label":"Technical","pattern":[{"LOWER":"optical"},{"LOWER":"transfer"},{"LOWER":"function"}]}
+{"label":"Technical","pattern":[{"LOWER":"optimization"},{"LOWER":"problem"}]}
+{"label":"Technical","pattern":[{"LOWER":"optimizely"}]}
+{"label":"Technical","pattern":[{"LOWER":"oracle"}]}
+{"label":"Technical","pattern":[{"LOWER":"outlier"}]}
+{"label":"Technical","pattern":[{"LOWER":"overlay"},{"LOWER":"network"}]}
+{"label":"Technical","pattern":[{"TEXT":"OVH"}]}
+{"label":"Technical","pattern":[{"LOWER":"oxygene"}]}
+{"label":"Technical","pattern":[{"LOWER":"p"},{"LOWER":"system"}]}
+{"label":"Technical","pattern":[{"TEXT":"P2P"}]}
+{"label":"Technical","pattern":[{"LOWER":"package"},{"LOWER":"manager"}]}
+{"label":"Technical","pattern":[{"LOWER":"package"},{"LOWER":"managers"}]}
+{"label":"Technical","pattern":[{"LOWER":"packer"}]}
+{"label":"Technical","pattern":[{"LOWER":"pandas"}]}
+{"label":"Technical","pattern":[{"LOWER":"parallel"},{"LOWER":"algorithm"}]}
+{"label":"Technical","pattern":[{"LOWER":"parallel"},{"LOWER":"computing"}]}
+{"label":"Technical","pattern":[{"LOWER":"parcel"}]}
+{"label":"Technical","pattern":[{"LOWER":"parse"}]}
+{"label":"Technical","pattern":[{"LOWER":"parse-server"}]}
+{"label":"Technical","pattern":[{"LOWER":"parse"},{"LOWER":"server"}]}
+{"label":"Technical","pattern":[{"LOWER":"language"},{"LOWER":"parsing"}]}
+{"label":"Technical","pattern":[{"LOWER":"parsing"}]}
+{"label":"Technical","pattern":[{"LOWER":"particle"},{"LOWER":"filter"}]}
+{"label":"Technical","pattern":[{"LOWER":"particle"},{"LOWER":"swarm"},{"LOWER":"optimization"}]}
+{"label":"Technical","pattern":[{"LOWER":"passenger"}]}
+{"label":"Technical","pattern":[{"LOWER":"passive"},{"LOWER":"optical"},{"LOWER":"network"}]}
+{"label":"Technical","pattern":[{"LOWER":"password"},{"LOWER":"management"}]}
+{"label":"Technical","pattern":[{"LOWER":"patent"},{"LOWER":"classification"}]}
+{"label":"Technical","pattern":[{"LOWER":"patent"},{"LOWER":"visualisation"}]}
+{"label":"Technical","pattern":[{"LOWER":"path"},{"LOWER":"analysis"},{"LOWER":"statistics"}]}
+{"label":"Technical","pattern":[{"LOWER":"pattern"},{"LOWER":"matching"}]}
+{"label":"Technical","pattern":[{"LOWER":"pattern"},{"LOWER":"recognition"}]}
+{"label":"Technical","pattern":[{"LOWER":"pattern"},{"LOWER":"recognition"},{"LOWER":"psychology"}]}
+{"label":"Technical","pattern":[{"LOWER":"paw"}]}
+{"label":"Technical","pattern":[{"LOWER":"payment"},{"LOWER":"services"}]}
+{"label":"Technical","pattern":[{"LOWER":"payments"}]}
+{"label":"Technical","pattern":[{"LOWER":"paypal"}]}
+{"label":"Technical","pattern":[{"LOWER":"peak"},{"LOWER":"signal-to-noise"},{"LOWER":"ratio"}]}
+{"label":"Technical","pattern":[{"LOWER":"peak signal"},{"LOWER":"to"},{"LOWER":"noise ratio"}]}
+{"label":"Technical","pattern":[{"LOWER":"peer-to-peer"}]}
+{"label":"Technical","pattern":[{"LOWER":"peer"},{"LOWER":"to"},{"LOWER":"peer"}]}
+{"label":"Technical","pattern":[{"LOWER":"performance"},{"LOWER":"metric"}]}
+{"label":"Technical","pattern":[{"LOWER":"performance"},{"LOWER":"monitoring"}]}
+{"label":"Technical","pattern":[{"LOWER":"performance"},{"LOWER":"prediction"}]}
+{"label":"Technical","pattern":[{"LOWER":"perl"}]}
+{"label":"Technical","pattern":[{"LOWER":"perl"},{"LOWER":"6"}]}
+{"label":"Technical","pattern":[{"LOWER":"persistence"},{"LOWER":"computer"},{"LOWER":"science"}]}
+{"label":"Technical","pattern":[{"LOWER":"petri"},{"LOWER":"net"}]}
+{"label":"Technical","pattern":[{"LOWER":"petroleum"},{"LOWER":"engineering"}]}
+{"label":"Technical","pattern":[{"LOWER":"phabricator"}]}
+{"label":"Technical","pattern":[{"LOWER":"phalcon"}]}
+{"label":"Technical","pattern":[{"LOWER":"phantomjs"}]}
+{"label":"Technical","pattern":[{"LOWER":"phaser"}]}
+{"label":"Technical","pattern":[{"LOWER":"phoenix"},{"LOWER":"framework"}]}
+{"label":"Technical","pattern":[{"LOWER":"phonegap"}]}
+{"label":"Technical","pattern":[{"LOWER":"photogrammetry"}]}
+{"label":"Technical","pattern":[{"TEXT":"PHP"}]}
+{"label":"Technical","pattern":[{"TEXT":"PHP-MVC"}]}
+{"label":"Technical","pattern":[{"LOWER":"php"},{"LOWER":"mvc"}]}
+{"label":"Technical","pattern":[{"LOWER":"phpstorm"}]}
+{"label":"Technical","pattern":[{"LOWER":"phpunit"}]}
+{"label":"Technical","pattern":[{"TEXT":"PICO-8"}]}
+{"label":"Technical","pattern":[{"LOWER":"pico"},{"LOWER":"8"}]}
+{"label":"Technical","pattern":[{"LOWER":"pile"}]}
+{"label":"Technical","pattern":[{"LOWER":"pingdom"}]}
+{"label":"Technical","pattern":[{"LOWER":"piwik"}]}
+{"label":"Technical","pattern":[{"LOWER":"pixel"}]}
+{"label":"Technical","pattern":[{"LOWER":"pixel"},{"LOWER":"art"}]}
+{"label":"Technical","pattern":[{"LOWER":"plagiarism"},{"LOWER":"detection"}]}
+{"label":"Technical","pattern":[{"LOWER":"platform"},{"LOWER":"as"},{"LOWER":"a"},{"LOWER":"service"}]}
+{"label":"Technical","pattern":[{"LOWER":"platform"},{"LOWER":"as"},{"LOWER":"a"},{"LOWER":"service"},{"LOWER":"tools"}]}
+{"label":"Technical","pattern":[{"LOWER":"play"}]}
+{"label":"Technical","pattern":[{"LOWER":"plotly"}]}
+{"label":"Technical","pattern":[{"LOWER":"point"},{"LOWER":"location"}]}
+{"label":"Technical","pattern":[{"LOWER":"point"},{"LOWER":"spread"},{"LOWER":"function"}]}
+{"label":"Technical","pattern":[{"LOWER":"point-to-point"}]}
+{"label":"Technical","pattern":[{"LOWER":"point"},{"LOWER":"to"},{"LOWER":"point"}]}
+{"label":"Technical","pattern":[{"LOWER":"polymer"}]}
+{"label":"Technical","pattern":[{"LOWER":"polymorphism"},{"LOWER":"computer"},{"LOWER":"science"}]}
+{"label":"Technical","pattern":[{"LOWER":"port"},{"LOWER":"computer"},{"LOWER":"networking"}]}
+{"label":"Technical","pattern":[{"LOWER":"portainer"}]}
+{"label":"Technical","pattern":[{"LOWER":"pose"}]}
+{"label":"Technical","pattern":[{"LOWER":"postcss"}]}
+{"label":"Technical","pattern":[{"LOWER":"postgis"}]}
+{"label":"Technical","pattern":[{"LOWER":"postgresql"}]}
+{"label":"Technical","pattern":[{"LOWER":"postgresql"},{"LOWER":"as"},{"LOWER":"a"},{"LOWER":"service"}]}
+{"label":"Technical","pattern":[{"LOWER":"postman"}]}
+{"label":"Technical","pattern":[{"LOWER":"postmark"}]}
+{"label":"Technical","pattern":[{"LOWER":"pouchdb"}]}
+{"label":"Technical","pattern":[{"LOWER":"power"},{"LOWER":"control"}]}
+{"label":"Technical","pattern":[{"LOWER":"power"},{"LOWER":"management"}]}
+{"label":"Technical","pattern":[{"LOWER":"preact"}]}
+{"label":"Technical","pattern":[{"LOWER":"precision"},{"LOWER":"and"},{"LOWER":"recall"}]}
+{"label":"Technical","pattern":[{"LOWER":"predictive"},{"LOWER":"coding"}]}
+{"label":"Technical","pattern":[{"LOWER":"predictive"},{"LOWER":"value"},{"LOWER":"of"},{"LOWER":"tests"}]}
+{"label":"Technical","pattern":[{"LOWER":"presentation"},{"LOWER":"semantics"}]}
+{"label":"Technical","pattern":[{"LOWER":"prestashop"}]}
+{"label":"Technical","pattern":[{"LOWER":"presto"}]}
+{"label":"Technical","pattern":[{"LOWER":"principal"},{"LOWER":"component"},{"LOWER":"analysis"}]}
+{"label":"Technical","pattern":[{"LOWER":"prisma"}]}
+{"label":"Technical","pattern":[{"LOWER":"process"},{"LOWER":"calculus"}]}
+{"label":"Technical","pattern":[{"LOWER":"process"},{"LOWER":"engineering"}]}
+{"label":"Technical","pattern":[{"LOWER":"process"},{"LOWER":"management"}]}
+{"label":"Technical","pattern":[{"LOWER":"prognostics"}]}
+{"label":"Technical","pattern":[{"LOWER":"program"},{"LOWER":"analysis"}]}
+{"label":"Technical","pattern":[{"LOWER":"program"},{"LOWER":"design"},{"LOWER":"language"}]}
+{"label":"Technical","pattern":[{"LOWER":"program"},{"LOWER":"optimization"}]}
+{"label":"Technical","pattern":[{"LOWER":"program"},{"LOWER":"synthesis"}]}
+{"label":"Technical","pattern":[{"LOWER":"program"},{"LOWER":"transformation"}]}
+{"label":"Technical","pattern":[{"LOWER":"programmable"},{"LOWER":"logic"},{"LOWER":"device"}]}
+{"label":"Technical","pattern":[{"LOWER":"programming"},{"LOWER":"&"},{"LOWER":"code"},{"LOWER":"analytics"}]}
+{"label":"Technical","pattern":[{"LOWER":"programming"},{"LOWER":"language"}]}
+{"label":"Technical","pattern":[{"LOWER":"programming"},{"LOWER":"paradigm"}]}
+{"label":"Technical","pattern":[{"LOWER":"project"},{"LOWER":"management"}]}
+{"label":"Technical","pattern":[{"LOWER":"project"},{"LOWER":"management"}]}
+{"label":"Technical","pattern":[{"LOWER":"prolog"}]}
+{"label":"Technical","pattern":[{"LOWER":"prometheus"}]}
+{"label":"Technical","pattern":[{"LOWER":"propagation"},{"LOWER":"delay"}]}
+{"label":"Technical","pattern":[{"LOWER":"propositional"},{"LOWER":"calculus"}]}
+{"label":"Technical","pattern":[{"LOWER":"prosthesis"}]}
+{"label":"Technical","pattern":[{"LOWER":"protractor"}]}
+{"label":"Technical","pattern":[{"LOWER":"proximity"},{"LOWER":"search"}]}
+{"label":"Technical","pattern":[{"LOWER":"publishing"}]}
+{"label":"Technical","pattern":[{"LOWER":"pubnub"}]}
+{"label":"Technical","pattern":[{"LOWER":"pug"}]}
+{"label":"Technical","pattern":[{"LOWER":"pulp"},{"LOWER":"and"},{"LOWER":"paper"},{"LOWER":"industry"}]}
+{"label":"Technical","pattern":[{"LOWER":"pulse"},{"LOWER":"signal"},{"LOWER":"processing"}]}
+{"label":"Technical","pattern":[{"LOWER":"puma"}]}
+{"label":"Technical","pattern":[{"LOWER":"puppet"},{"LOWER":"labs"}]}
+{"label":"Technical","pattern":[{"LOWER":"puppeteer"}]}
+{"label":"Technical","pattern":[{"LOWER":"push"},{"LOWER":"monkey"}]}
+{"label":"Technical","pattern":[{"LOWER":"pushdown"},{"LOWER":"automaton"}]}
+{"label":"Technical","pattern":[{"LOWER":"pusher"}]}
+{"label":"Technical","pattern":[{"LOWER":"pushwoosh"}]}
+{"label":"Technical","pattern":[{"TEXT":"PWA"}]}
+{"label":"Technical","pattern":[{"LOWER":"pycharm"}]}
+{"label":"Technical","pattern":[{"LOWER":"python"}]}
+{"label":"Technical","pattern":[{"LOWER":"pytorch"}]}
+{"label":"Technical","pattern":[{"LOWER":"qt"}]}
+{"label":"Technical","pattern":[{"LOWER":"quality"},{"LOWER":"of"},{"LOWER":"service"}]}
+{"label":"Technical","pattern":[{"LOWER":"quantifier"},{"LOWER":"elimination"}]}
+{"label":"Technical","pattern":[{"LOWER":"quantization"},{"LOWER":"signal"},{"LOWER":"processing"}]}
+{"label":"Technical","pattern":[{"LOWER":"quantum"},{"LOWER":"algorithm"}]}
+{"label":"Technical","pattern":[{"LOWER":"quantum"},{"LOWER":"computer"}]}
+{"label":"Technical","pattern":[{"LOWER":"query"},{"LOWER":"expansion"}]}
+{"label":"Technical","pattern":[{"LOWER":"query"},{"LOWER":"language"}]}
+{"label":"Technical","pattern":[{"LOWER":"query"},{"LOWER":"languages"}]}
+{"label":"Technical","pattern":[{"LOWER":"query"},{"LOWER":"optimization"}]}
+{"label":"Technical","pattern":[{"LOWER":"query"},{"LOWER":"string"}]}
+{"label":"Technical","pattern":[{"LOWER":"question"},{"LOWER":"answering"}]}
+{"label":"Technical","pattern":[{"LOWER":"queue"}]}
+{"label":"Technical","pattern":[{"LOWER":"queueing"},{"LOWER":"theory"}]}
+{"label":"Technical","pattern":[{"LOWER":"qunit"}]}
+{"label":"Technical","pattern":[{"TEXT":"R"}]}
+{"label":"Technical","pattern":[{"LOWER":"rabbitmq"}]}
+{"label":"Technical","pattern":[{"LOWER":"rackspace"},{"LOWER":"cloud"},{"LOWER":"servers"}]}
+{"label":"Technical","pattern":[{"LOWER":"rails"}]}
+{"label":"Technical","pattern":[{"LOWER":"rails"},{"LOWER":"api"}]}
+{"label":"Technical","pattern":[{"TEXT":"RAML"}]}
+{"label":"Technical","pattern":[{"LOWER":"rancher"}]}
+{"label":"Technical","pattern":[{"LOWER":"random"},{"LOWER":"access"}]}
+{"label":"Technical","pattern":[{"LOWER":"random"},{"LOWER":"effects"},{"LOWER":"model"}]}
+{"label":"Technical","pattern":[{"LOWER":"random"},{"LOWER":"forest"}]}
+{"label":"Technical","pattern":[{"LOWER":"random"},{"LOWER":"indexing"}]}
+{"label":"Technical","pattern":[{"LOWER":"random"},{"LOWER":"projection"}]}
+{"label":"Technical","pattern":[{"LOWER":"range"},{"LOWER":"query"},{"LOWER":"data"},{"LOWER":"structures"}]}
+{"label":"Technical","pattern":[{"LOWER":"ranking"}]}
+{"label":"Technical","pattern":[{"LOWER":"raspberry"},{"LOWER":"pi"}]}
+{"label":"Technical","pattern":[{"LOWER":"ratchet"}]}
+{"label":"Technical","pattern":[{"TEXT":"RDF"}]}
+{"label":"Technical","pattern":[{"LOWER":"reachability"}]}
+{"label":"Technical","pattern":[{"LOWER":"react"}]}
+{"label":"Technical","pattern":[{"LOWER":"react"},{"LOWER":"hot"},{"LOWER":"loader"}]}
+{"label":"Technical","pattern":[{"LOWER":"react"},{"LOWER":"native"}]}
+{"label":"Technical","pattern":[{"LOWER":"react"},{"LOWER":"navigation"}]}
+{"label":"Technical","pattern":[{"LOWER":"react"},{"LOWER":"router"}]}
+{"label":"Technical","pattern":[{"LOWER":"react"},{"LOWER":"storybook"}]}
+{"label":"Technical","pattern":[{"LOWER":"react.js"},{"LOWER":"boilerplate"}]}
+{"label":"Technical","pattern":[{"LOWER":"react"},{"LOWER":"js boilerplate"}]}
+{"label":"Technical","pattern":[{"LOWER":"reactiveui"}]}
+{"label":"Technical","pattern":[{"LOWER":"read-only"},{"LOWER":"memory"}]}
+{"label":"Technical","pattern":[{"LOWER":"read"},{"LOWER":"only memory"}]}
+{"label":"Technical","pattern":[{"LOWER":"read-write"},{"LOWER":"memory"}]}
+{"label":"Technical","pattern":[{"LOWER":"read"},{"LOWER":"write memory"}]}
+{"label":"Technical","pattern":[{"LOWER":"readme.io"}]}
+{"label":"Technical","pattern":[{"LOWER":"readme"},{"LOWER":"io"}]}
+{"label":"Technical","pattern":[{"LOWER":"real-time"},{"LOWER":"communication"}]}
+{"label":"Technical","pattern":[{"LOWER":"real"},{"LOWER":"time communication"}]}
+{"label":"Technical","pattern":[{"LOWER":"real-time"},{"LOWER":"computing"}]}
+{"label":"Technical","pattern":[{"LOWER":"real"},{"LOWER":"time computing"}]}
+{"label":"Technical","pattern":[{"LOWER":"real-time"},{"LOWER":"data"}]}
+{"label":"Technical","pattern":[{"LOWER":"real"},{"LOWER":"time data"}]}
+{"label":"Technical","pattern":[{"LOWER":"real-time"},{"LOWER":"data"},{"LOWER":"processing"}]}
+{"label":"Technical","pattern":[{"LOWER":"real"},{"LOWER":"time data processing"}]}
+{"label":"Technical","pattern":[{"LOWER":"real-time"},{"LOWER":"operating"},{"LOWER":"system"}]}
+{"label":"Technical","pattern":[{"LOWER":"real"},{"LOWER":"time operating system"}]}
+{"label":"Technical","pattern":[{"LOWER":"realm"}]}
+{"label":"Technical","pattern":[{"LOWER":"realtime"},{"LOWER":"analytics"}]}
+{"label":"Technical","pattern":[{"LOWER":"realtime"},{"LOWER":"backend"},{"LOWER":"/"},{"LOWER":"api"}]}
+{"label":"Technical","pattern":[{"LOWER":"realtime backend "},{"LOWER":" api"}]}
+{"label":"Technical","pattern":[{"LOWER":"receiver"},{"LOWER":"operating"},{"LOWER":"characteristic"}]}
+{"label":"Technical","pattern":[{"LOWER":"recommender"},{"LOWER":"system"}]}
+{"label":"Technical","pattern":[{"LOWER":"record"},{"LOWER":"linkage"}]}
+{"label":"Technical","pattern":[{"LOWER":"recurly"}]}
+{"label":"Technical","pattern":[{"LOWER":"recursion"}]}
+{"label":"Technical","pattern":[{"LOWER":"redash"}]}
+{"label":"Technical","pattern":[{"LOWER":"redis"}]}
+{"label":"Technical","pattern":[{"LOWER":"redis"},{"LOWER":"cloud"}]}
+{"label":"Technical","pattern":[{"LOWER":"redis"},{"LOWER":"hosting"}]}
+{"label":"Technical","pattern":[{"LOWER":"redmine"}]}
+{"label":"Technical","pattern":[{"LOWER":"redundancy"},{"LOWER":"engineering"}]}
+{"label":"Technical","pattern":[{"LOWER":"redux"}]}
+{"label":"Technical","pattern":[{"LOWER":"redux-saga"}]}
+{"label":"Technical","pattern":[{"LOWER":"redux"},{"LOWER":"saga"}]}
+{"label":"Technical","pattern":[{"LOWER":"redux-thunk"}]}
+{"label":"Technical","pattern":[{"LOWER":"redux"},{"LOWER":"thunk"}]}
+{"label":"Technical","pattern":[{"LOWER":"redux.js"}]}
+{"label":"Technical","pattern":[{"LOWER":"redux"},{"LOWER":"js"}]}
+{"label":"Technical","pattern":[{"LOWER":"reference"},{"LOWER":"frame"}]}
+{"label":"Technical","pattern":[{"LOWER":"region"},{"LOWER":"of"},{"LOWER":"interest"}]}
+{"label":"Technical","pattern":[{"LOWER":"regression"},{"LOWER":"analysis"}]}
+{"label":"Technical","pattern":[{"LOWER":"regular"},{"LOWER":"expression"}]}
+{"label":"Technical","pattern":[{"LOWER":"regular"},{"LOWER":"language"}]}
+{"label":"Technical","pattern":[{"LOWER":"reinforcement"},{"LOWER":"learning"}]}
+{"label":"Technical","pattern":[{"LOWER":"relational"},{"LOWER":"database"}]}
+{"label":"Technical","pattern":[{"LOWER":"relative"},{"LOWER":"record"},{"LOWER":"data"},{"LOWER":"set"}]}
+{"label":"Technical","pattern":[{"LOWER":"relay"}]}
+{"label":"Technical","pattern":[{"LOWER":"release"}]}
+{"label":"Technical","pattern":[{"LOWER":"reliability"},{"LOWER":"computer"},{"LOWER":"networking"}]}
+{"label":"Technical","pattern":[{"LOWER":"reliability"},{"LOWER":"engineering"}]}
+{"label":"Technical","pattern":[{"LOWER":"remote"},{"LOWER":"control"}]}
+{"label":"Technical","pattern":[{"LOWER":"remote"},{"LOWER":"procedure"},{"LOWER":"call"}]}
+{"label":"Technical","pattern":[{"LOWER":"remote"},{"LOWER":"procedure"},{"LOWER":"call"},{"LOWER":"rpc"}]}
+{"label":"Technical","pattern":[{"LOWER":"replication"},{"LOWER":"computing"}]}
+{"label":"Technical","pattern":[{"LOWER":"requirejs"}]}
+{"label":"Technical","pattern":[{"LOWER":"residual"}]}
+{"label":"Technical","pattern":[{"LOWER":"resource"},{"LOWER":"allocation"}]}
+{"label":"Technical","pattern":[{"LOWER":"response"},{"LOWER":"surface"},{"LOWER":"methodology"}]}
+{"label":"Technical","pattern":[{"LOWER":"response"},{"LOWER":"time"}]}
+{"label":"Technical","pattern":[{"LOWER":"resque"}]}
+{"label":"Technical","pattern":[{"LOWER":"rest"},{"LOWER":"api"}]}
+{"label":"Technical","pattern":[{"LOWER":"result"},{"LOWER":"set"}]}
+{"label":"Technical","pattern":[{"LOWER":"rethinkdb"}]}
+{"label":"Technical","pattern":[{"LOWER":"reverse"},{"LOWER":"engineering"}]}
+{"label":"Technical","pattern":[{"LOWER":"riak"}]}
+{"label":"Technical","pattern":[{"LOWER":"riot"}]}
+{"label":"Technical","pattern":[{"LOWER":"risk"},{"LOWER":"analysis"},{"LOWER":"engineering"}]}
+{"label":"Technical","pattern":[{"LOWER":"robot"}]}
+{"label":"Technical","pattern":[{"LOWER":"robustness"},{"LOWER":"computer"},{"LOWER":"science"}]}
+{"label":"Technical","pattern":[{"LOWER":"rocket"}]}
+{"label":"Technical","pattern":[{"LOWER":"rollbar"}]}
+{"label":"Technical","pattern":[{"LOWER":"rotation"}]}
+{"label":"Technical","pattern":[{"LOWER":"rough"},{"LOWER":"set"}]}
+{"label":"Technical","pattern":[{"LOWER":"round-trip"},{"LOWER":"delay"},{"LOWER":"time"}]}
+{"label":"Technical","pattern":[{"LOWER":"round"},{"LOWER":"trip delay time"}]}
+{"label":"Technical","pattern":[{"LOWER":"router"}]}
+{"label":"Technical","pattern":[{"LOWER":"routing"},{"LOWER":"protocol"}]}
+{"label":"Technical","pattern":[{"LOWER":"rspec"}]}
+{"label":"Technical","pattern":[{"LOWER":"rubocop"}]}
+{"label":"Technical","pattern":[{"LOWER":"ruby"}]}
+{"label":"Technical","pattern":[{"LOWER":"rubymine"}]}
+{"label":"Technical","pattern":[{"LOWER":"rule-based"},{"LOWER":"system"}]}
+{"label":"Technical","pattern":[{"LOWER":"rule"},{"LOWER":"based system"}]}
+{"label":"Technical","pattern":[{"LOWER":"rule"},{"LOWER":"induction"}]}
+{"label":"Technical","pattern":[{"LOWER":"rule"},{"LOWER":"of"},{"LOWER":"thumb"}]}
+{"label":"Technical","pattern":[{"LOWER":"runscope"}]}
+{"label":"Technical","pattern":[{"LOWER":"runtime"},{"LOWER":"system"}]}
+{"label":"Technical","pattern":[{"LOWER":"rust"}]}
+{"label":"Technical","pattern":[{"LOWER":"rxjs"}]}
+{"label":"Technical","pattern":[{"LOWER":"sails.js"}]}
+{"label":"Technical","pattern":[{"LOWER":"sails"},{"LOWER":"js"}]}
+{"label":"Technical","pattern":[{"LOWER":"salesforce"},{"LOWER":"sales"},{"LOWER":"cloud"}]}
+{"label":"Technical","pattern":[{"LOWER":"sass"}]}
+{"label":"Technical","pattern":[{"LOWER":"satisfiability"}]}
+{"label":"Technical","pattern":[{"LOWER":"sauce"},{"LOWER":"labs"}]}
+{"label":"Technical","pattern":[{"LOWER":"scaffold"}]}
+{"label":"Technical","pattern":[{"LOWER":"scala"}]}
+{"label":"Technical","pattern":[{"LOWER":"scalability"}]}
+{"label":"Technical","pattern":[{"LOWER":"scalable"},{"LOWER":"vector"},{"LOWER":"graphics"}]}
+{"label":"Technical","pattern":[{"LOWER":"scale"},{"LOWER":"space"}]}
+{"label":"Technical","pattern":[{"LOWER":"scaleway"}]}
+{"label":"Technical","pattern":[{"LOWER":"scanner"}]}
+{"label":"Technical","pattern":[{"LOWER":"schedule"}]}
+{"label":"Technical","pattern":[{"LOWER":"scheduling"},{"LOWER":"computing"}]}
+{"label":"Technical","pattern":[{"LOWER":"scientometrics"}]}
+{"label":"Technical","pattern":[{"LOWER":"scikit-learn"}]}
+{"label":"Technical","pattern":[{"LOWER":"scikit"},{"LOWER":"learn"}]}
+{"label":"Technical","pattern":[{"LOWER":"screen"},{"LOWER":"sharing"}]}
+{"label":"Technical","pattern":[{"LOWER":"scripting"},{"LOWER":"language"}]}
+{"label":"Technical","pattern":[{"LOWER":"scrutinizer"}]}
+{"label":"Technical","pattern":[{"LOWER":"software-defined"},{"LOWER":"networking"}]}
+{"label":"Technical","pattern":[{"LOWER":"software"},{"LOWER":"defined networking"}]}
+{"label":"Technical","pattern":[{"LOWER":"search"},{"LOWER":"algorithm"}]}
+{"label":"Technical","pattern":[{"LOWER":"search"},{"LOWER":"as"},{"LOWER":"a"},{"LOWER":"service"}]}
+{"label":"Technical","pattern":[{"LOWER":"search"},{"LOWER":"box"}]}
+{"label":"Technical","pattern":[{"LOWER":"search"},{"LOWER":"engine"}]}
+{"label":"Technical","pattern":[{"LOWER":"search"},{"LOWER":"engine"},{"LOWER":"indexing"}]}
+{"label":"Technical","pattern":[{"LOWER":"search"},{"LOWER":"engines"}]}
+{"label":"Technical","pattern":[{"LOWER":"search/retrieve"},{"LOWER":"via"},{"LOWER":"url"}]}
+{"label":"Technical","pattern":[{"LOWER":"search"},{"LOWER":"retrieve via url"}]}
+{"label":"Technical","pattern":[{"LOWER":"seasonality"}]}
+{"label":"Technical","pattern":[{"LOWER":"secret"},{"LOWER":"sharing"}]}
+{"label":"Technical","pattern":[{"LOWER":"secrets"},{"LOWER":"management"}]}
+{"label":"Technical","pattern":[{"LOWER":"secure"},{"LOWER":"communication"}]}
+{"label":"Technical","pattern":[{"LOWER":"secure"},{"LOWER":"multi-party"},{"LOWER":"computation"}]}
+{"label":"Technical","pattern":[{"LOWER":"secure multi"},{"LOWER":"party computation"}]}
+{"label":"Technical","pattern":[{"LOWER":"security"}]}
+{"label":"Technical","pattern":[{"LOWER":"seesaw"}]}
+{"label":"Technical","pattern":[{"LOWER":"segment"}]}
+{"label":"Technical","pattern":[{"LOWER":"segmentation"}]}
+{"label":"Technical","pattern":[{"LOWER":"selenium"}]}
+{"label":"Technical","pattern":[{"LOWER":"self-hosted"},{"LOWER":"blogging"},{"LOWER":"/"},{"LOWER":"cms"}]}
+{"label":"Technical","pattern":[{"LOWER":"self-hosted blogging "},{"LOWER":" cms"}]}
+{"label":"Technical","pattern":[{"LOWER":"self"},{"LOWER":"hosted blogging / cms"}]}
+{"label":"Technical","pattern":[{"LOWER":"self-management"}]}
+{"label":"Technical","pattern":[{"LOWER":"self"},{"LOWER":"management"}]}
+{"label":"Technical","pattern":[{"LOWER":"self-organization"}]}
+{"label":"Technical","pattern":[{"LOWER":"self"},{"LOWER":"organization"}]}
+{"label":"Technical","pattern":[{"LOWER":"semantic"},{"LOWER":"computing"}]}
+{"label":"Technical","pattern":[{"LOWER":"semantic"},{"LOWER":"data"},{"LOWER":"model"}]}
+{"label":"Technical","pattern":[{"LOWER":"semantic"},{"LOWER":"html"}]}
+{"label":"Technical","pattern":[{"LOWER":"semantic"},{"LOWER":"matching"}]}
+{"label":"Technical","pattern":[{"LOWER":"semantic"},{"LOWER":"network"}]}
+{"label":"Technical","pattern":[{"LOWER":"semantic"},{"LOWER":"similarity"}]}
+{"label":"Technical","pattern":[{"LOWER":"semantic"},{"LOWER":"ui"}]}
+{"label":"Technical","pattern":[{"LOWER":"semantic"},{"LOWER":"ui"},{"LOWER":"react"}]}
+{"label":"Technical","pattern":[{"LOWER":"semantic"},{"LOWER":"web"}]}
+{"label":"Technical","pattern":[{"LOWER":"semantic"},{"LOWER":"web"},{"LOWER":"stack"}]}
+{"label":"Technical","pattern":[{"LOWER":"semantics"}]}
+{"label":"Technical","pattern":[{"LOWER":"semaphore"}]}
+{"label":"Technical","pattern":[{"LOWER":"semi-supervised"},{"LOWER":"learning"}]}
+{"label":"Technical","pattern":[{"LOWER":"semi"},{"LOWER":"supervised learning"}]}
+{"label":"Technical","pattern":[{"LOWER":"sencha"},{"LOWER":"touch"}]}
+{"label":"Technical","pattern":[{"LOWER":"sendbird"}]}
+{"label":"Technical","pattern":[{"LOWER":"sendgrid"}]}
+{"label":"Technical","pattern":[{"LOWER":"sendwithus"}]}
+{"label":"Technical","pattern":[{"LOWER":"sensor"},{"LOWER":"array"}]}
+{"label":"Technical","pattern":[{"LOWER":"sensor"},{"LOWER":"fusion"}]}
+{"label":"Technical","pattern":[{"LOWER":"sensor"},{"LOWER":"tower"}]}
+{"label":"Technical","pattern":[{"LOWER":"sentiment"},{"LOWER":"analysis"}]}
+{"label":"Technical","pattern":[{"LOWER":"sentry"}]}
+{"label":"Technical","pattern":[{"LOWER":"sequel"},{"LOWER":"pro"}]}
+{"label":"Technical","pattern":[{"LOWER":"sequelize"}]}
+{"label":"Technical","pattern":[{"LOWER":"sequential"},{"LOWER":"logic"}]}
+{"label":"Technical","pattern":[{"LOWER":"sequential"},{"LOWER":"pattern"},{"LOWER":"mining"}]}
+{"label":"Technical","pattern":[{"LOWER":"server"}]}
+{"label":"Technical","pattern":[{"LOWER":"server"},{"LOWER":"configuration"},{"LOWER":"and"},{"LOWER":"automation"}]}
+{"label":"Technical","pattern":[{"LOWER":"serverless"}]}
+{"label":"Technical","pattern":[{"LOWER":"serverless"},{"LOWER":"/"},{"LOWER":"task"},{"LOWER":"processing"}]}
+{"label":"Technical","pattern":[{"LOWER":"serverless "},{"LOWER":" task processing"}]}
+{"label":"Technical","pattern":[{"LOWER":"shape"},{"LOWER":"analysis"},{"LOWER":"digital"},{"LOWER":"geometry"}]}
+{"label":"Technical","pattern":[{"LOWER":"shared"},{"LOWER":"memory"}]}
+{"label":"Technical","pattern":[{"LOWER":"shared"},{"LOWER":"resource"}]}
+{"label":"Technical","pattern":[{"LOWER":"shell"}]}
+{"label":"Technical","pattern":[{"LOWER":"shields.io"}]}
+{"label":"Technical","pattern":[{"LOWER":"shields"},{"LOWER":"io"}]}
+{"label":"Technical","pattern":[{"LOWER":"shift"},{"LOWER":"register"}]}
+{"label":"Technical","pattern":[{"LOWER":"shippable"}]}
+{"label":"Technical","pattern":[{"LOWER":"shopify"}]}
+{"label":"Technical","pattern":[{"LOWER":"shortest"},{"LOWER":"path"},{"LOWER":"problem"}]}
+{"label":"Technical","pattern":[{"LOWER":"shrinkage"}]}
+{"label":"Technical","pattern":[{"LOWER":"sidekiq"}]}
+{"label":"Technical","pattern":[{"LOWER":"signal"},{"LOWER":"processing"}]}
+{"label":"Technical","pattern":[{"LOWER":"signal"},{"LOWER":"strength"}]}
+{"label":"Technical","pattern":[{"LOWER":"signalr"}]}
+{"label":"Technical","pattern":[{"LOWER":"similarity"},{"LOWER":"measure"}]}
+{"label":"Technical","pattern":[{"LOWER":"simulated"},{"LOWER":"annealing"}]}
+{"label":"Technical","pattern":[{"LOWER":"simulation"}]}
+{"label":"Technical","pattern":[{"LOWER":"sinatra"}]}
+{"label":"Technical","pattern":[{"LOWER":"skeleton"}]}
+{"label":"Technical","pattern":[{"LOWER":"skeleton"},{"LOWER":"computer"},{"LOWER":"programming"}]}
+{"label":"Technical","pattern":[{"LOWER":"sketch"}]}
+{"label":"Technical","pattern":[{"LOWER":"skype"}]}
+{"label":"Technical","pattern":[{"LOWER":"slack"}]}
+{"label":"Technical","pattern":[{"LOWER":"sliding"},{"LOWER":"window"},{"LOWER":"protocol"}]}
+{"label":"Technical","pattern":[{"LOWER":"slim"}]}
+{"label":"Technical","pattern":[{"LOWER":"slim"},{"LOWER":"lang"}]}
+{"label":"Technical","pattern":[{"TEXT":"SMA*"}]}
+{"label":"Technical","pattern":[{"LOWER":"smart"},{"LOWER":"card"}]}
+{"label":"Technical","pattern":[{"LOWER":"smart"},{"LOWER":"information"},{"LOWER":"retrieval"},{"LOWER":"system"}]}
+{"label":"Technical","pattern":[{"LOWER":"smoothing"}]}
+{"label":"Technical","pattern":[{"LOWER":"snippet"}]}
+{"label":"Technical","pattern":[{"LOWER":"snowflake"}]}
+{"label":"Technical","pattern":[{"LOWER":"snyk"}]}
+{"label":"Technical","pattern":[{"LOWER":"social"},{"LOWER":"media"},{"LOWER":"tools"}]}
+{"label":"Technical","pattern":[{"LOWER":"socket.io"}]}
+{"label":"Technical","pattern":[{"LOWER":"socket"},{"LOWER":"io"}]}
+{"label":"Technical","pattern":[{"LOWER":"softlayer"}]}
+{"label":"Technical","pattern":[{"LOWER":"software"}]}
+{"label":"Technical","pattern":[{"LOWER":"software"},{"LOWER":"agent"}]}
+{"label":"Technical","pattern":[{"LOWER":"software-defined"},{"LOWER":"radio"}]}
+{"label":"Technical","pattern":[{"LOWER":"software"},{"LOWER":"defined radio"}]}
+{"label":"Technical","pattern":[{"LOWER":"software"},{"LOWER":"engineering"}]}
+{"label":"Technical","pattern":[{"LOWER":"solid"},{"LOWER":"modeling"}]}
+{"label":"Technical","pattern":[{"LOWER":"solr"}]}
+{"label":"Technical","pattern":[{"LOWER":"sonar"}]}
+{"label":"Technical","pattern":[{"LOWER":"sonarqube"}]}
+{"label":"Technical","pattern":[{"LOWER":"sonatype"},{"LOWER":"nexus"}]}
+{"label":"Technical","pattern":[{"LOWER":"sorting"}]}
+{"label":"Technical","pattern":[{"LOWER":"source"},{"LOWER":"code"}]}
+{"label":"Technical","pattern":[{"LOWER":"source"},{"LOWER":"code"},{"LOWER":"management"},{"LOWER":"desktop"},{"LOWER":"apps"}]}
+{"label":"Technical","pattern":[{"LOWER":"source"},{"LOWER":"document"}]}
+{"label":"Technical","pattern":[{"LOWER":"source"},{"LOWER":"separation"}]}
+{"label":"Technical","pattern":[{"LOWER":"sourcetree"}]}
+{"label":"Technical","pattern":[{"LOWER":"spacemacs"}]}
+{"label":"Technical","pattern":[{"LOWER":"spacevim"}]}
+{"label":"Technical","pattern":[{"LOWER":"sparkpost"}]}
+{"label":"Technical","pattern":[{"LOWER":"sparse"},{"LOWER":"approximation"}]}
+{"label":"Technical","pattern":[{"LOWER":"spatial"},{"LOWER":"analysis"}]}
+{"label":"Technical","pattern":[{"LOWER":"spatial"},{"LOWER":"frequency"}]}
+{"label":"Technical","pattern":[{"LOWER":"speaker"},{"LOWER":"recognition"}]}
+{"label":"Technical","pattern":[{"LOWER":"specification"}]}
+{"label":"Technical","pattern":[{"LOWER":"specification"},{"LOWER":"language"}]}
+{"label":"Technical","pattern":[{"LOWER":"speckle"},{"LOWER":"pattern"}]}
+{"label":"Technical","pattern":[{"LOWER":"spectrogram"}]}
+{"label":"Technical","pattern":[{"LOWER":"speech"},{"LOWER":"coding"}]}
+{"label":"Technical","pattern":[{"LOWER":"speech"},{"LOWER":"processing"}]}
+{"label":"Technical","pattern":[{"LOWER":"speech"},{"LOWER":"recognition"}]}
+{"label":"Technical","pattern":[{"LOWER":"sphinx"}]}
+{"label":"Technical","pattern":[{"LOWER":"spread"},{"LOWER":"spectrum"}]}
+{"label":"Technical","pattern":[{"LOWER":"spreadsheets"},{"LOWER":"as"},{"LOWER":"a"},{"LOWER":"backend"}]}
+{"label":"Technical","pattern":[{"LOWER":"spreadsheets"},{"LOWER":"online"}]}
+{"label":"Technical","pattern":[{"LOWER":"spree"}]}
+{"label":"Technical","pattern":[{"LOWER":"spring"}]}
+{"label":"Technical","pattern":[{"LOWER":"spring-boot"}]}
+{"label":"Technical","pattern":[{"LOWER":"spring"},{"LOWER":"boot"}]}
+{"label":"Technical","pattern":[{"LOWER":"spring"},{"LOWER":"boot"}]}
+{"label":"Technical","pattern":[{"LOWER":"spring"},{"LOWER":"cloud"}]}
+{"label":"Technical","pattern":[{"TEXT":"SQL"}]}
+{"label":"Technical","pattern":[{"LOWER":"sql"},{"LOWER":"database"},{"LOWER":"as"},{"LOWER":"a"},{"LOWER":"service"}]}
+{"label":"Technical","pattern":[{"LOWER":"sqlalchemy"}]}
+{"label":"Technical","pattern":[{"LOWER":"sqlite"}]}
+{"label":"Technical","pattern":[{"LOWER":"squarespace"}]}
+{"label":"Technical","pattern":[{"LOWER":"stack"},{"LOWER":"overflow"}]}
+{"label":"Technical","pattern":[{"LOWER":"stackdriver"}]}
+{"label":"Technical","pattern":[{"LOWER":"stamplay"}]}
+{"label":"Technical","pattern":[{"LOWER":"standard"},{"LOWER":"ml"}]}
+{"label":"Technical","pattern":[{"LOWER":"stars"}]}
+{"label":"Technical","pattern":[{"LOWER":"state"},{"LOWER":"diagram"}]}
+{"label":"Technical","pattern":[{"LOWER":"state"},{"LOWER":"management"},{"LOWER":"library"}]}
+{"label":"Technical","pattern":[{"LOWER":"static"},{"LOWER":"random-access"},{"LOWER":"memory"}]}
+{"label":"Technical","pattern":[{"LOWER":"static random"},{"LOWER":"access memory"}]}
+{"label":"Technical","pattern":[{"LOWER":"static"},{"LOWER":"site"},{"LOWER":"generators"}]}
+{"label":"Technical","pattern":[{"LOWER":"static"},{"LOWER":"timing"},{"LOWER":"analysis"}]}
+{"label":"Technical","pattern":[{"LOWER":"static"},{"LOWER":"web"},{"LOWER":"hosting"}]}
+{"label":"Technical","pattern":[{"LOWER":"statistical"},{"LOWER":"classification"}]}
+{"label":"Technical","pattern":[{"LOWER":"statistical"},{"LOWER":"model"}]}
+{"label":"Technical","pattern":[{"LOWER":"status"},{"LOWER":"page"},{"LOWER":"hosting"}]}
+{"label":"Technical","pattern":[{"LOWER":"statuscake"}]}
+{"label":"Technical","pattern":[{"LOWER":"stemming"}]}
+{"label":"Technical","pattern":[{"LOWER":"stereopsis"}]}
+{"label":"Technical","pattern":[{"LOWER":"stitch"}]}
+{"label":"Technical","pattern":[{"LOWER":"stop"},{"LOWER":"words"}]}
+{"label":"Technical","pattern":[{"LOWER":"storm"}]}
+{"label":"Technical","pattern":[{"LOWER":"storybook"}]}
+{"label":"Technical","pattern":[{"LOWER":"stream"},{"LOWER":"processing"}]}
+{"label":"Technical","pattern":[{"LOWER":"stream"},{"LOWER":"processing"}]}
+{"label":"Technical","pattern":[{"TEXT":"STREAMS"}]}
+{"label":"Technical","pattern":[{"LOWER":"stripe"}]}
+{"label":"Technical","pattern":[{"TEXT":"STRIPS"}]}
+{"label":"Technical","pattern":[{"LOWER":"strongly"},{"LOWER":"connected"},{"LOWER":"component"}]}
+{"label":"Technical","pattern":[{"LOWER":"structural"},{"LOWER":"engineering"}]}
+{"label":"Technical","pattern":[{"LOWER":"structural"},{"LOWER":"equation"},{"LOWER":"modeling"}]}
+{"label":"Technical","pattern":[{"LOWER":"structured"},{"LOWER":"document"}]}
+{"label":"Technical","pattern":[{"LOWER":"structured"},{"LOWER":"text"}]}
+{"label":"Technical","pattern":[{"LOWER":"styled-components"}]}
+{"label":"Technical","pattern":[{"LOWER":"styled"},{"LOWER":"components"}]}
+{"label":"Technical","pattern":[{"LOWER":"stylelint"}]}
+{"label":"Technical","pattern":[{"LOWER":"stylus"}]}
+{"label":"Technical","pattern":[{"LOWER":"subject"},{"LOWER":"access"}]}
+{"label":"Technical","pattern":[{"LOWER":"sublime"},{"LOWER":"text"}]}
+{"label":"Technical","pattern":[{"LOWER":"supercomputer"}]}
+{"label":"Technical","pattern":[{"LOWER":"superresolution"}]}
+{"label":"Technical","pattern":[{"LOWER":"superset"}]}
+{"label":"Technical","pattern":[{"LOWER":"supervised"},{"LOWER":"learning"}]}
+{"label":"Technical","pattern":[{"LOWER":"supervisory"},{"LOWER":"control"}]}
+{"label":"Technical","pattern":[{"LOWER":"support"}]}
+{"label":"Technical","pattern":[{"LOWER":"support,"},{"LOWER":"sales,"},{"LOWER":"and"},{"LOWER":"marketing"}]}
+{"label":"Technical","pattern":[{"LOWER":"support"},{"LOWER":"vector"},{"LOWER":"machine"}]}
+{"label":"Technical","pattern":[{"LOWER":"surge"}]}
+{"label":"Technical","pattern":[{"LOWER":"survey"},{"LOWER":"widget"}]}
+{"label":"Technical","pattern":[{"LOWER":"svn"},{"LOWER":"subversion"}]}
+{"label":"Technical","pattern":[{"LOWER":"swagger"},{"LOWER":"ui"}]}
+{"label":"Technical","pattern":[{"LOWER":"swift"}]}
+{"label":"Technical","pattern":[{"LOWER":"swiftype"}]}
+{"label":"Technical","pattern":[{"LOWER":"symfony"}]}
+{"label":"Technical","pattern":[{"LOWER":"symmetric"},{"LOWER":"multiprocessor"},{"LOWER":"system"}]}
+{"label":"Technical","pattern":[{"LOWER":"synchronization"}]}
+{"label":"Technical","pattern":[{"LOWER":"syntax"}]}
+{"label":"Technical","pattern":[{"LOWER":"synthetic"},{"LOWER":"aperture"},{"LOWER":"radar"}]}
+{"label":"Technical","pattern":[{"LOWER":"synthetic"},{"LOWER":"data"}]}
+{"label":"Technical","pattern":[{"LOWER":"system"},{"LOWER":"integration"}]}
+{"label":"Technical","pattern":[{"LOWER":"system"},{"LOWER":"on"},{"LOWER":"a"},{"LOWER":"chip"}]}
+{"label":"Technical","pattern":[{"LOWER":"system"},{"LOWER":"testing"}]}
+{"label":"Technical","pattern":[{"LOWER":"systems"},{"LOWER":"engineering"}]}
+{"label":"Technical","pattern":[{"LOWER":"systems"},{"LOWER":"management"}]}
+{"label":"Technical","pattern":[{"LOWER":"table"},{"LOWER":"information"}]}
+{"label":"Technical","pattern":[{"LOWER":"tableau"}]}
+{"label":"Technical","pattern":[{"LOWER":"tabu"},{"LOWER":"search"}]}
+{"label":"Technical","pattern":[{"LOWER":"tailwind"},{"LOWER":"css"}]}
+{"label":"Technical","pattern":[{"LOWER":"task"},{"LOWER":"management"}]}
+{"label":"Technical","pattern":[{"LOWER":"teamcity"}]}
+{"label":"Technical","pattern":[{"LOWER":"technological"},{"LOWER":"change"}]}
+{"label":"Technical","pattern":[{"LOWER":"telecommunications"}]}
+{"label":"Technical","pattern":[{"LOWER":"telecommunications"},{"LOWER":"network"}]}
+{"label":"Technical","pattern":[{"LOWER":"telecommunications"},{"LOWER":"service"}]}
+{"label":"Technical","pattern":[{"LOWER":"telegram"}]}
+{"label":"Technical","pattern":[{"LOWER":"telegram"},{"LOWER":"bot"},{"LOWER":"api"}]}
+{"label":"Technical","pattern":[{"LOWER":"telephony"}]}
+{"label":"Technical","pattern":[{"LOWER":"template"},{"LOWER":"matching"}]}
+{"label":"Technical","pattern":[{"LOWER":"templating"},{"LOWER":"languages"},{"LOWER":"&"},{"LOWER":"extensions"}]}
+{"label":"Technical","pattern":[{"LOWER":"temporal"},{"LOWER":"database"}]}
+{"label":"Technical","pattern":[{"LOWER":"tensorflow"}]}
+{"label":"Technical","pattern":[{"LOWER":"tensorflow"}]}
+{"label":"Technical","pattern":[{"LOWER":"terminal"}]}
+{"label":"Technical","pattern":[{"LOWER":"terraform"}]}
+{"label":"Technical","pattern":[{"LOWER":"testflight"}]}
+{"label":"Technical","pattern":[{"LOWER":"testing"}]}
+{"label":"Technical","pattern":[{"LOWER":"testing"},{"LOWER":"frameworks"}]}
+{"label":"Technical","pattern":[{"LOWER":"text"},{"LOWER":"box"}]}
+{"label":"Technical","pattern":[{"LOWER":"text"},{"LOWER":"editor"}]}
+{"label":"Technical","pattern":[{"LOWER":"text"},{"LOWER":"mining"}]}
+{"label":"Technical","pattern":[{"LOWER":"text"},{"LOWER":"processing"}]}
+{"label":"Technical","pattern":[{"LOWER":"text"},{"LOWER":"retrieval"},{"LOWER":"conference"}]}
+{"label":"Technical","pattern":[{"LOWER":"text"},{"LOWER":"segmentation"}]}
+{"label":"Technical","pattern":[{"LOWER":"textmate"}]}
+{"label":"Technical","pattern":[{"LOWER":"tf\u2013idf"}]}
+{"label":"Technical","pattern":[{"LOWER":"theoretical"},{"LOWER":"computer"},{"LOWER":"science"}]}
+{"label":"Technical","pattern":[{"LOWER":"thread"},{"LOWER":"computing"}]}
+{"label":"Technical","pattern":[{"LOWER":"thresholding"}]}
+{"label":"Technical","pattern":[{"LOWER":"throughput"}]}
+{"label":"Technical","pattern":[{"LOWER":"time"},{"LOWER":"constraint"}]}
+{"label":"Technical","pattern":[{"LOWER":"time"},{"LOWER":"domain"}]}
+{"label":"Technical","pattern":[{"LOWER":"time"},{"LOWER":"of"},{"LOWER":"arrival"}]}
+{"label":"Technical","pattern":[{"LOWER":"time"},{"LOWER":"series"}]}
+{"label":"Technical","pattern":[{"LOWER":"time-sharing"}]}
+{"label":"Technical","pattern":[{"LOWER":"time"},{"LOWER":"sharing"}]}
+{"label":"Technical","pattern":[{"LOWER":"time"},{"LOWER":"to"},{"LOWER":"market"}]}
+{"label":"Technical","pattern":[{"LOWER":"time"},{"LOWER":"tracking"}]}
+{"label":"Technical","pattern":[{"LOWER":"time\u2013frequency"},{"LOWER":"analysis"}]}
+{"label":"Technical","pattern":[{"LOWER":"title"},{"LOWER":"search"}]}
+{"label":"Technical","pattern":[{"LOWER":"tools"},{"LOWER":"for"},{"LOWER":"github"}]}
+{"label":"Technical","pattern":[{"LOWER":"tools"},{"LOWER":"for"},{"LOWER":"text"},{"LOWER":"editors"}]}
+{"label":"Technical","pattern":[{"LOWER":"top-down"},{"LOWER":"and"},{"LOWER":"bottom-up"},{"LOWER":"design"}]}
+{"label":"Technical","pattern":[{"LOWER":"top"},{"LOWER":"down and bottom"},{"LOWER":"up design"}]}
+{"label":"Technical","pattern":[{"LOWER":"topic"},{"LOWER":"maps"}]}
+{"label":"Technical","pattern":[{"LOWER":"topic"},{"LOWER":"model"}]}
+{"label":"Technical","pattern":[{"LOWER":"tornado"}]}
+{"label":"Technical","pattern":[{"LOWER":"tower"}]}
+{"label":"Technical","pattern":[{"LOWER":"tracking"},{"LOWER":"system"}]}
+{"label":"Technical","pattern":[{"LOWER":"traefik"}]}
+{"label":"Technical","pattern":[{"LOWER":"traffic"},{"LOWER":"engineering"}]}
+{"label":"Technical","pattern":[{"LOWER":"traffic"},{"LOWER":"model"}]}
+{"label":"Technical","pattern":[{"LOWER":"training"},{"LOWER":"set"}]}
+{"label":"Technical","pattern":[{"LOWER":"transactional"},{"LOWER":"email"}]}
+{"label":"Technical","pattern":[{"LOWER":"transition"},{"LOWER":"system"}]}
+{"label":"Technical","pattern":[{"LOWER":"translation"},{"LOWER":"service"}]}
+{"label":"Technical","pattern":[{"LOWER":"transparency"},{"LOWER":"graphic"}]}
+{"label":"Technical","pattern":[{"LOWER":"transport"},{"LOWER":"engineering"}]}
+{"label":"Technical","pattern":[{"LOWER":"transport"},{"LOWER":"layer"}]}
+{"label":"Technical","pattern":[{"LOWER":"travelling"},{"LOWER":"salesman"},{"LOWER":"problem"}]}
+{"label":"Technical","pattern":[{"LOWER":"travis"},{"LOWER":"ci"}]}
+{"label":"Technical","pattern":[{"TEXT":"TRECVID"}]}
+{"label":"Technical","pattern":[{"LOWER":"tree"},{"LOWER":"automaton"}]}
+{"label":"Technical","pattern":[{"LOWER":"tree"},{"LOWER":"data"},{"LOWER":"structure"}]}
+{"label":"Technical","pattern":[{"LOWER":"tree"},{"LOWER":"structure"}]}
+{"label":"Technical","pattern":[{"LOWER":"trello"}]}
+{"label":"Technical","pattern":[{"LOWER":"trend"},{"LOWER":"analysis"}]}
+{"label":"Technical","pattern":[{"LOWER":"triangulation"},{"LOWER":"social"},{"LOWER":"science"}]}
+{"label":"Technical","pattern":[{"LOWER":"turing"},{"LOWER":"machine"}]}
+{"label":"Technical","pattern":[{"LOWER":"twilio"}]}
+{"label":"Technical","pattern":[{"LOWER":"twitter"}]}
+{"label":"Technical","pattern":[{"LOWER":"type"},{"LOWER":"inference"}]}
+{"label":"Technical","pattern":[{"LOWER":"type"},{"LOWER":"theory"}]}
+{"label":"Technical","pattern":[{"LOWER":"typeform"}]}
+{"label":"Technical","pattern":[{"LOWER":"typescript"}]}
+{"label":"Technical","pattern":[{"LOWER":"ubiquitous"},{"LOWER":"computing"}]}
+{"label":"Technical","pattern":[{"LOWER":"ubuntu"}]}
+{"label":"Technical","pattern":[{"LOWER":"uglifyjs"}]}
+{"label":"Technical","pattern":[{"LOWER":"uikit"}]}
+{"label":"Technical","pattern":[{"LOWER":"uncertain"},{"LOWER":"data"}]}
+{"label":"Technical","pattern":[{"LOWER":"underscore"}]}
+{"label":"Technical","pattern":[{"LOWER":"unicorn"}]}
+{"label":"Technical","pattern":[{"LOWER":"unified"},{"LOWER":"medical"},{"LOWER":"language"},{"LOWER":"system"}]}
+{"label":"Technical","pattern":[{"LOWER":"unified"},{"LOWER":"modeling"},{"LOWER":"language"}]}
+{"label":"Technical","pattern":[{"LOWER":"unity"}]}
+{"label":"Technical","pattern":[{"LOWER":"unreal"},{"LOWER":"engine"}]}
+{"label":"Technical","pattern":[{"LOWER":"unsupervised"},{"LOWER":"learning"}]}
+{"label":"Technical","pattern":[{"LOWER":"uppy"}]}
+{"label":"Technical","pattern":[{"LOWER":"uptime"},{"LOWER":"robot"}]}
+{"label":"Technical","pattern":[{"LOWER":"urban"},{"LOWER":"airship"}]}
+{"label":"Technical","pattern":[{"LOWER":"user"},{"LOWER":"feedback"},{"LOWER":"as"},{"LOWER":"a"},{"LOWER":"service"}]}
+{"label":"Technical","pattern":[{"LOWER":"user"},{"LOWER":"interface"}]}
+{"label":"Technical","pattern":[{"LOWER":"user"},{"LOWER":"management"},{"LOWER":"and"},{"LOWER":"authentication"}]}
+{"label":"Technical","pattern":[{"LOWER":"user"},{"LOWER":"profile"}]}
+{"label":"Technical","pattern":[{"LOWER":"utilities"}]}
+{"label":"Technical","pattern":[{"LOWER":"vagrant"}]}
+{"label":"Technical","pattern":[{"LOWER":"variables"}]}
+{"label":"Technical","pattern":[{"LOWER":"varnish"}]}
+{"label":"Technical","pattern":[{"LOWER":"vault"}]}
+{"label":"Technical","pattern":[{"LOWER":"vector"},{"LOWER":"space"},{"LOWER":"model"}]}
+{"label":"Technical","pattern":[{"LOWER":"version"},{"LOWER":"control"},{"LOWER":"system"}]}
+{"label":"Technical","pattern":[{"LOWER":"very"},{"LOWER":"large"},{"LOWER":"database"}]}
+{"label":"Technical","pattern":[{"LOWER":"video"},{"LOWER":"processing"}]}
+{"label":"Technical","pattern":[{"LOWER":"video"},{"LOWER":"quality"}]}
+{"label":"Technical","pattern":[{"LOWER":"video"},{"LOWER":"tracking"}]}
+{"label":"Technical","pattern":[{"LOWER":"vim"}]}
+{"label":"Technical","pattern":[{"LOWER":"virtual"},{"LOWER":"circuit"}]}
+{"label":"Technical","pattern":[{"LOWER":"virtual"},{"LOWER":"machine"}]}
+{"label":"Technical","pattern":[{"LOWER":"virtual"},{"LOWER":"machine"}]}
+{"label":"Technical","pattern":[{"LOWER":"virtual"},{"LOWER":"machine"},{"LOWER":"management"}]}
+{"label":"Technical","pattern":[{"LOWER":"virtual"},{"LOWER":"machine"},{"LOWER":"platforms"},{"LOWER":"&"},{"LOWER":"containers"}]}
+{"label":"Technical","pattern":[{"LOWER":"virtual"},{"LOWER":"memory"}]}
+{"label":"Technical","pattern":[{"LOWER":"virtual"},{"LOWER":"organization"}]}
+{"label":"Technical","pattern":[{"LOWER":"virtual"},{"LOWER":"private"},{"LOWER":"cloud"}]}
+{"label":"Technical","pattern":[{"LOWER":"virtual"},{"LOWER":"reality"}]}
+{"label":"Technical","pattern":[{"LOWER":"virtualbox"}]}
+{"label":"Technical","pattern":[{"LOWER":"virtualization"},{"LOWER":"platform"}]}
+{"label":"Technical","pattern":[{"LOWER":"visual"},{"LOWER":"basic"}]}
+{"label":"Technical","pattern":[{"LOWER":"visual"},{"LOWER":"cortex"}]}
+{"label":"Technical","pattern":[{"LOWER":"visual"},{"LOWER":"inspection"}]}
+{"label":"Technical","pattern":[{"LOWER":"visual"},{"LOWER":"programming"},{"LOWER":"language"}]}
+{"label":"Technical","pattern":[{"LOWER":"visual"},{"LOWER":"studio"}]}
+{"label":"Technical","pattern":[{"LOWER":"visual"},{"LOWER":"studio"},{"LOWER":"code"}]}
+{"label":"Technical","pattern":[{"LOWER":"visual"},{"LOWER":"studio"},{"LOWER":"team"},{"LOWER":"services"}]}
+{"label":"Technical","pattern":[{"LOWER":"visualization"}]}
+{"label":"Technical","pattern":[{"LOWER":"viterbi"},{"LOWER":"algorithm"}]}
+{"label":"Technical","pattern":[{"LOWER":"vmware"},{"LOWER":"vsphere"}]}
+{"label":"Technical","pattern":[{"LOWER":"voice"},{"LOWER":"and"},{"LOWER":"sms"}]}
+{"label":"Technical","pattern":[{"LOWER":"voice"},{"LOWER":"over"},{"LOWER":"ip"}]}
+{"label":"Technical","pattern":[{"LOWER":"vue.js"}]}
+{"label":"Technical","pattern":[{"LOWER":"vue"},{"LOWER":"js"}]}
+{"label":"Technical","pattern":[{"LOWER":"vue.js"}]}
+{"label":"Technical","pattern":[{"LOWER":"vue"},{"LOWER":"js"}]}
+{"label":"Technical","pattern":[{"LOWER":"vuepress"}]}
+{"label":"Technical","pattern":[{"LOWER":"vuetify"}]}
+{"label":"Technical","pattern":[{"LOWER":"vuex"}]}
+{"label":"Technical","pattern":[{"LOWER":"wagtail"}]}
+{"label":"Technical","pattern":[{"LOWER":"wakatime"}]}
+{"label":"Technical","pattern":[{"LOWER":"waste"},{"LOWER":"management"}]}
+{"label":"Technical","pattern":[{"LOWER":"watershed"}]}
+{"label":"Technical","pattern":[{"LOWER":"wavefront"}]}
+{"label":"Technical","pattern":[{"LOWER":"wavelength-division"},{"LOWER":"multiplexing"}]}
+{"label":"Technical","pattern":[{"LOWER":"wavelength"},{"LOWER":"division multiplexing"}]}
+{"label":"Technical","pattern":[{"LOWER":"wavelet"}]}
+{"label":"Technical","pattern":[{"LOWER":"web"},{"LOWER":"and"},{"LOWER":"video"},{"LOWER":"conferencing"}]}
+{"label":"Technical","pattern":[{"LOWER":"web"},{"LOWER":"app"},{"LOWER":"builders"}]}
+{"label":"Technical","pattern":[{"LOWER":"web"},{"LOWER":"components"}]}
+{"label":"Technical","pattern":[{"LOWER":"web"},{"LOWER":"crawler"}]}
+{"label":"Technical","pattern":[{"LOWER":"web"},{"LOWER":"document"}]}
+{"label":"Technical","pattern":[{"LOWER":"web"},{"LOWER":"forms"}]}
+{"label":"Technical","pattern":[{"LOWER":"web"},{"LOWER":"mining"}]}
+{"label":"Technical","pattern":[{"LOWER":"web"},{"LOWER":"server"}]}
+{"label":"Technical","pattern":[{"LOWER":"web"},{"LOWER":"servers"}]}
+{"label":"Technical","pattern":[{"LOWER":"web"},{"LOWER":"service"}]}
+{"label":"Technical","pattern":[{"LOWER":"web"},{"LOWER":"service"},{"LOWER":"automation"}]}
+{"label":"Technical","pattern":[{"LOWER":"web"},{"LOWER":"starter"},{"LOWER":"kit"}]}
+{"label":"Technical","pattern":[{"LOWER":"web"},{"LOWER":"app"}]}
+{"label":"Technical","pattern":[{"LOWER":"webflow"}]}
+{"label":"Technical","pattern":[{"LOWER":"webpack"}]}
+{"label":"Technical","pattern":[{"LOWER":"website"},{"LOWER":"builder"}]}
+{"label":"Technical","pattern":[{"LOWER":"website"},{"LOWER":"monitoring"}]}
+{"label":"Technical","pattern":[{"LOWER":"webstorm"}]}
+{"label":"Technical","pattern":[{"LOWER":"weebly"}]}
+{"label":"Technical","pattern":[{"LOWER":"wercker"}]}
+{"label":"Technical","pattern":[{"LOWER":"wide"},{"LOWER":"area"},{"LOWER":"network"}]}
+{"label":"Technical","pattern":[{"LOWER":"wiener"},{"LOWER":"filter"}]}
+{"label":"Technical","pattern":[{"LOWER":"wimax"}]}
+{"label":"Technical","pattern":[{"LOWER":"windows"}]}
+{"label":"Technical","pattern":[{"LOWER":"wireframing"}]}
+{"label":"Technical","pattern":[{"LOWER":"wireless"}]}
+{"label":"Technical","pattern":[{"LOWER":"wireless"},{"LOWER":"ad"},{"LOWER":"hoc"},{"LOWER":"network"}]}
+{"label":"Technical","pattern":[{"LOWER":"wireless"},{"LOWER":"network"}]}
+{"label":"Technical","pattern":[{"LOWER":"wireless"},{"LOWER":"sensor"},{"LOWER":"network"}]}
+{"label":"Technical","pattern":[{"LOWER":"wix"}]}
+{"label":"Technical","pattern":[{"LOWER":"woocommerce"}]}
+{"label":"Technical","pattern":[{"LOWER":"woopra"}]}
+{"label":"Technical","pattern":[{"LOWER":"word"},{"LOWER":"error"},{"LOWER":"rate"}]}
+{"label":"Technical","pattern":[{"LOWER":"word-sense"},{"LOWER":"disambiguation"}]}
+{"label":"Technical","pattern":[{"LOWER":"word"},{"LOWER":"sense disambiguation"}]}
+{"label":"Technical","pattern":[{"LOWER":"wordnet"}]}
+{"label":"Technical","pattern":[{"LOWER":"wordplate"}]}
+{"label":"Technical","pattern":[{"LOWER":"wordpress"}]}
+{"label":"Technical","pattern":[{"LOWER":"workflow"}]}
+{"label":"Technical","pattern":[{"LOWER":"workflow"},{"LOWER":"manager"}]}
+{"label":"Technical","pattern":[{"LOWER":"workload"}]}
+{"label":"Technical","pattern":[{"LOWER":"world"},{"LOWER":"wide"},{"LOWER":"web"}]}
+{"label":"Technical","pattern":[{"LOWER":"xamarin"}]}
+{"label":"Technical","pattern":[{"LOWER":"xcode"}]}
+{"label":"Technical","pattern":[{"TEXT":"XML"}]}
+{"label":"Technical","pattern":[{"LOWER":"yarn"}]}
+{"label":"Technical","pattern":[{"LOWER":"yeoman"}]}
+{"label":"Technical","pattern":[{"LOWER":"yii"}]}
+{"label":"Technical","pattern":[{"LOWER":"zend"},{"LOWER":"framework"}]}
+{"label":"Technical","pattern":[{"LOWER":"zendesk"}]}
+{"label":"Technical","pattern":[{"LOWER":"zenefits"}]}
+{"label":"Technical","pattern":[{"LOWER":"zeplin"}]}
+{"label":"Technical","pattern":[{"LOWER":"zepto"}]}
+{"label":"Technical","pattern":[{"LOWER":"zeromq"}]}
+{"label":"Technical","pattern":[{"LOWER":"zoho"},{"LOWER":"crm"}]}
+{"label":"Technical","pattern":[{"LOWER":"zookeeper"}]}

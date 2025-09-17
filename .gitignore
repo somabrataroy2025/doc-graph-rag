@@ -1,0 +1,5 @@
+.env
+/.docragenv
+/.vscode
+*.pyc
+*/__pycache__
