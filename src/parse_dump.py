@@ -51,14 +51,8 @@ class ParseDf:
         df_person['skills_list'] = df_person['skills'].str.split(',')
         return df_person
 
-    def bulkSkillUpload():
-        dfemp = ParseDf(filePath)
-        dfemptrans = dfemp.transform_skill()
-        ck.createPersonSkill(dfemptrans)
 
-
-if __name__ == "__main__":
-    filePath =  r"D:\My Work\doc-graph-rag\doc-graph-rag\data\employee_data.csv"
+def bulkSkillUpload(filePath:str):
     dfemp = ParseDf(filePath)
     dfemptrans = dfemp._transform_skill()
     ck.createPersonSkill(dfemptrans)

@@ -912,7 +912,7 @@
 {"label":"Technical","pattern":[{"LOWER":"beanstalkd"}]}
 {"label":"Technical","pattern":[{"LOWER":"benchmark"},{"LOWER":"computing"}]}
 {"label":"Technical","pattern":[{"LOWER":"beta"},{"LOWER":"by"},{"LOWER":"crashlytics"}]}
-{"label":"Technical","pattern":[{"LOWER":"beta"},{"LOWER":"testing"},{"LOWER":"/"},{"LOWER":"mobile"},{"LOWER":"app"},{"LOWER":"distribution"}]}
+{"label":"Technical","pattern":[{"LOWER":"beta"},{"LOWER":"testing"},{"LOWER":"/"},{"LOWER":"app"},{"LOWER":"distribution"}]}
 {"label":"Technical","pattern":[{"LOWER":"beta testing "},{"LOWER":" mobile app distribution"}]}
 {"label":"Technical","pattern":[{"LOWER":"bibliographic"},{"LOWER":"database"}]}
 {"label":"Technical","pattern":[{"LOWER":"bibliometrics"}]}
@@ -1165,7 +1165,7 @@
 {"label":"Technical","pattern":[{"LOWER":"cross"},{"LOWER":"correlation"}]}
 {"label":"Technical","pattern":[{"LOWER":"cross-platform"},{"LOWER":"desktop"},{"LOWER":"development"}]}
 {"label":"Technical","pattern":[{"LOWER":"cross"},{"LOWER":"platform desktop development"}]}
-{"label":"Technical","pattern":[{"LOWER":"cross-platform"},{"LOWER":"mobile"},{"LOWER":"development"}]}
+{"label":"Technical","pattern":[{"LOWER":"cross-platform"},{"LOWER":"development"}]}
 {"label":"Technical","pattern":[{"LOWER":"cross"},{"LOWER":"platform mobile development"}]}
 {"label":"Technical","pattern":[{"LOWER":"cross-platform"},{"LOWER":"mobile"},{"LOWER":"tools"}]}
 {"label":"Technical","pattern":[{"LOWER":"cross"},{"LOWER":"platform mobile tools"}]}
