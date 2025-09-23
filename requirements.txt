@@ -8,3 +8,4 @@ graphdatascience
 streamlit
 pandas
 langchain-openai
+uvicorn
