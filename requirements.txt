@@ -1,0 +1,10 @@
+fastapi
+spacy
+pyvis
+stvis
+neo4j
+langchain-neo4j
+graphdatascience
+streamlit
+pandas
+langchain-openai
